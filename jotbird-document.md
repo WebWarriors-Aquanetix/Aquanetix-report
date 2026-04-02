@@ -39,11 +39,6 @@ holaaaaa :v topoyiyo
 
 ![susdog](images/susdog.jpg)
 
-
-<div align="center">
-  <img src="images/susdog.jpg" width ="75" height="75">
-</div>
-
 <div align="right">
   <img src="images/susdog.jpg" width ="100" height="100">
 </div>
