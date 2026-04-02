@@ -36,3 +36,5 @@ holaaaaa :v topoyiyo
 | Perfil | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Personalización + rapidez + mejor experiencia UX | Reconocimiento de marca | Precios bajos | Amplia base de usuarios |
 | Perfil de Marketing | Mercado objetivo | Jóvenes adultos digitales | Público masivo | Usuarios sensibles al precio | Usuarios tradicionales |
 | Perfil de Marketing | Estrategias de marketing | Redes sociales, influencers, marketing digital | Publicidad tradicional | Promociones y descuentos | SEO y posicionamiento web |
+
+![susdog](images/susdog.jpg)
