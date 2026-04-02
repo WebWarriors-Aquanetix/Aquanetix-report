@@ -37,7 +37,3 @@ holaaaaa :v topoyiyo
 | Perfil de Marketing | Mercado objetivo | Jóvenes adultos digitales | Público masivo | Usuarios sensibles al precio | Usuarios tradicionales |
 | Perfil de Marketing | Estrategias de marketing | Redes sociales, influencers, marketing digital | Publicidad tradicional | Promociones y descuentos | SEO y posicionamiento web |
 
-<div align="right">
-  <img src="images/susdog.jpg" width ="100" height="100">
-</div>
-
