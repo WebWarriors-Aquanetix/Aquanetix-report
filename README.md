@@ -16,7 +16,7 @@ Aquí van las características principales de la aplicación, separadas por segm
 
 # Perfiles de los integrantes de los miembros del equipo:
 | Foto | Nombre | Presentación |
-| Foto | Tu nombre | Su descripción aquí |
+| Foto | Nombre | Descripción |
 | :--- | :--- | :--- |
 | <img src="images/fotosebastian.png" width ="200" height="200"> | Sebastián Pinedo | Hola, soy Sebastián y estudio Ingeniería de Software, actualmente voy en el quinto ciclo. Me considero una persona tranquila y me gusta trabajar en equipo, manteniendo siempre un buen ambiente con mis compañeros. Estoy dispuesto a dar lo mejor de mí en el proyecto y aportar con ideas, además de aprender de los demás y compartir lo que sé para que podamos lograr un buen resultado juntos.
  |
