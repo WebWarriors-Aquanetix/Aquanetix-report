@@ -67,7 +67,8 @@ Creemos que automatizar la logística de redistribución de agua recuperada logr
 | ¿Están las empresas dispuestas a pagar la suscripción basándose en el ahorro proyectado? ¿La tecnología de los sensores resiste la corrosión y condiciones de los colectores de Lima? | Realizar entrevistas a gerentes de operaciones y jefes de cuadrilla y presentar un prototipo simple (mockup) de la plataforma para recoger feedback. También se puede simular el uso de alertas con datos básicos para validar si la solución resulta útil en la práctica. |
 
 ## 1.3. Segmentos objetivo
-Nuestra aplicación se dirige a dos segmentos clave en el ecosistema de gestión de agua y residuos en Perú, enfocados en resolver la contaminación y subutilización del agua en estado deficiente. Ambos segmentos operan en un mercado con alta demanda por soluciones IoT debido a regulaciones ambientales estrictas (Ley General del Ambiente y DS 015 2015 MINAM) y la escasez hídrica crónica en zonas urbanas como Lima.
+Nuestra aplicación se dirige a dos segmentos clave en el ecosistema de gestión de agua y residuos en Perú, enfocados en resolver la contaminación y subutilización del agua en estado deficiente. Ambos segmentos operan en un mercado con alta demanda por soluciones IoT debido a regulaciones ambientales estrictas (Ley General del Ambiente y DS 015 2015 MINAM) y la escasez hídrica crónica en zonas urbanas como Lima.<br>
+
 **1. Empresas prestadoras de servicios de agua y alcantarillados (EPS).**
 Perfil demográfico y operativo:
 Principalmente medianas y grandes empresas estatales o mixtas, con sede en capitales provinciales (80% en Lima Metropolitana). Emplean entre 500–5,000 trabajadores, enfocadas en recolección, tratamiento y distribución de agua. Ejemplos: SEDAPAL (Lima) y EPS regionales como SEDACUSCO o SEDAPAR.
@@ -77,6 +78,7 @@ Estadísticas de sustento:
 - El sistema de sanciones ambientales (OEFA) permite multas de hasta más de S/ 128 millones por incumplimientos ambientales, lo que da base al contexto de riesgos financieros asociados a la contaminación de aguas (OEFA, 2024).
 Oportunidad:
 Estas empresas necesitan herramientas de monitoreo en tiempo real, reactivas y predictivas, para mejorar el tratamiento de aguas residuales y avanzar hacia metas de reutilización de agua, alineadas con el Plan Estratégico 2025–2030 de la ANA (ANA, 2025).
+
 **2. Empresas operadoras de residuos sólidos**
 Perfil demográfico y operativo:
 Empresas privadas o consorcios de tamaño mediano (100–1,000 empleados), con operaciones en municipios urbanos e industriales. Concentran el 70% de sus actividades en Lima y Callao, gestionando recolección, transporte y disposición final. Ejemplos: Urbaser, FCC Ambiente o empresas locales como Residuos Perú.
