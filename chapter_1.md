@@ -72,7 +72,8 @@ Estadísticas de sustento:
 - Solo una fracción muy baja del reciclaje formal se realiza en Perú, lo que refuerza la baja tasa de material reciclado declarada en estudios sectoriales (Molpack, 2025; Mastercard Center, 2018).
 Oportunidad:
 Estas empresas requieren detección temprana de sólidos/desechos, optimización de rutas y reducción de vertimientos que contaminan fuentes de agua, en línea con la necesidad de mejorar la gestión de residuos y la protección de cuencas (Woima Corporation, 2024; European Commission, s. f.).
-Fuentes:
+
+## Fuentes:
 -	Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030.
 https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf
 -	Autoridad Nacional del Agua (ANA). (2026, 19 de marzo). ANA promueve el reúso de aguas residuales para fortalecer la gestión sostenible del recurso hídrico [Nota de prensa].
