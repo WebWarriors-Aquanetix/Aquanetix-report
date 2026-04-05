@@ -32,7 +32,7 @@ El problema central está relacionado con la falta de monintoreo continuo y en t
 La problemática afecta principalmente a las empresas prestadoras de servicios de agua y alcantarillado, y a las empresas operadoras de residuos sólidos, así como a sus operadores de campo, quienes desarrollan sus labores en entornos con riesgos sanitarios y ambientales. De manera indirecta, también se ven impactadas las municipalidades, los organismos reguladores ambientales y la población urbana, considerando que entre el 85 % y 90 % de la población urbana peruana accede al agua a través de redes públicas de abastecimiento (Instituto Nacional de Estadística e Informática, 2023).
 #### Where (¿Dónde?)
 El problema se presenta principalmente en zonas urbanas e industriales del país, con mayor incidencia en Lima Metropolitana, región que concentra tanto la mayor generación de aguas residuales como de residuos sólidos. Según datos del INEI (2023), la provincia de Lima genera aproximadamente 3,6 millones de toneladas de residuos sólidos domiciliarios al año, una parte de los cuales es dispuesta de forma inadecuada, contribuyendo a la contaminación de ríos y otros cuerpos de agua cercanos.
-#### When (¿?Cuándo)
+#### When (¿Cuándo?)
 La problemática es permanente y recurrente, ya que se manifiesta durante la operación diaria de los sistemas de alcantarillado y gestión de residuos. Sus efectos se intensifican cuando no se detectan a tiempo obstrucciones, fallas operativas o variaciones en la calidad del agua, lo que obliga a las empresas a realizar intervenciones de emergencia, incrementando los costos operativos (ANA, 2025).
 #### Why (¿Por qué?)
 Este problema persiste principalmente debido a la limitada adopción de tecnologías de monitoreo inteligente, la dependencia de inspecciones manuales y la escasa integración de información para la toma de decisiones. A ello se suma el bajo nivel de desarrollo de la economía circular en el país. El Ministerio del Ambiente (MINAM, 2023) señala que los niveles de reaprovechamiento de residuos en el Perú siguen siendo reducidos, lo que dificulta la valorización de recursos y la protección de las fuentes hídricas.
@@ -44,16 +44,16 @@ El impacto de esta problemática es económico, ambiental y social. Desde el pun
 #### 1.2.2.1. Lean UX Problem Statement
 "Actualmente, las empresas prestadoras de servicios hídricos y operadoras de residuos en Lima enfrentan una falta crítica de visibilidad en tiempo real sobre la calidad y el flujo del agua en sus redes, lo que genera altos costos operativos por mantenimiento reactivo ante obstrucciones y graves riesgos de seguridad por gases tóxicos no detectados. Existe una brecha significativa entre la recolección de agua en estado deficiente y su potencial reaprovechamiento, perdiendo la oportunidad de cerrar el ciclo de economía circular en zonas industriales con alto estrés hídrico. Ante esta situación, ¿cómo podríamos utilizar tecnología IoT (PH, gases y flujo) para monitorear y transformar el agua residual en un recurso recuperable, optimizando la gestión operativa de las empresas y facilitando su redistribución logística hacia los sectores que más la necesitan?"
 #### 1.2.2.2. Lean UX Assumptions
-User Assumptions:
-•	Creemos que nuestros clientes necesitan reducir sus multas por vertimientos fuera de norma (PH).
-•	Creemos que los operadores de campo prefieren recibir alertas en dispositivos móviles que realizar inspecciones manuales programadas.
-Business Assumptions:
-•	Creemos que las empresas están dispuestas a pagar una suscripción si el ahorro en mantenimiento preventivo supera el costo del servicio.
-•	Creemos que el mayor valor agregado es el módulo de logística para la redistribución (economía circular).
+User Assumptions:<br>
+•	Creemos que nuestros clientes necesitan reducir sus multas por vertimientos fuera de norma (PH).<br>
+•	Creemos que los operadores de campo prefieren recibir alertas en dispositivos móviles que realizar inspecciones manuales programadas.<br>
+Business Assumptions:<br>
+•	Creemos que las empresas están dispuestas a pagar una suscripción si el ahorro en mantenimiento preventivo supera el costo del servicio.<br>
+•	Creemos que el mayor valor agregado es el módulo de logística para la redistribución (economía circular).<br>
 #### 1.2.2.3. Lean UX Hypothesis Statements:
-Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.
-Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".
-Creemos que automatizar la logística de redistribución de agua recuperada lograremos que las empresas operadoras generen una nueva línea de impacto social. Sabremos que tenemos razón cuando al menos 2 sectores necesitados reciban agua monitoreada por nuestra plataforma en los primeros 6 meses.
+Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.<br>
+Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".<br>
+Creemos que automatizar la logística de redistribución de agua recuperada lograremos que las empresas operadoras generen una nueva línea de impacto social. Sabremos que tenemos razón cuando al menos 2 sectores necesitados reciban agua monitoreada por nuestra plataforma en los primeros 6 meses.<br>
 
 #### 1.2.2.4. Lean UX Canvas
 | **1. Business Problem** | **2. Business Outcomes** |
