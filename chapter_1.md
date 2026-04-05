@@ -50,11 +50,11 @@ Creemos que integrar detectores de gases tóxicos en el plan base lograremos aum
 Creemos que automatizar la logística de redistribución de agua recuperada lograremos que las empresas operadoras generen una nueva línea de impacto social. Sabremos que tenemos razón cuando al menos 2 sectores necesitados reciban agua monitoreada por nuestra plataforma en los primeros 6 meses.
 
 #### 1.2.2.4. Lean UX Canvas
-| - | - | - |
+| --- | --- | --- |
 | :--- | :--- | :--- |
-| 1. Business Problem | 2. Business Outcomes | 3. Users |
-| 4. User Benefits | 5. Solutions | 6. Hypothesis |
-| 7. What’s the most important thing we need to learn first?  | 8. What’s the least amount of work we need to do to learn the next most important thing?  |
+| 1. Business Problem | 5. Solutions | 3. Users |
+| 3. Users |  | 4. User Benefits |
+| 6. Hypothesis | 7. What’s the most important thing we need to learn first? | 8. What’s the least amount of work we need to do to learn the next most important thing? |
 ## 1.3. Segmentos objetivo
 Nuestra aplicación se dirige a dos segmentos clave en el ecosistema de gestión de agua y residuos en Perú, enfocados en resolver la contaminación y subutilización del agua en estado deficiente. Ambos segmentos operan en un mercado con alta demanda por soluciones IoT debido a regulaciones ambientales estrictas (Ley General del Ambiente y DS 015 2015 MINAM) y la escasez hídrica crónica en zonas urbanas como Lima.
 **1. Empresas prestadoras de servicios de agua y alcantarillados (EPS).**
