@@ -19,6 +19,12 @@ Nuestra visión es convertirnos en el referente nacional de economía circular h
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+
+En el Perú, uno de los principales problemas relacionados al agua no es solo el acceso, sino su reusabilidad. En Lima, se generan grandes cantidades de aguas residuales todos los días, pero solo una parte recibe un tratamiento adecuado. Esto hace que mucha agua que podría reutilizarse simplemente se pierda, en lugar de aprovecharse como un recurso útil (ANA, 2025).
+Frente a esto, la Autoridad Nacional del Agua ha señalado que el reúso de aguas residuales es una alternativa importante para enfrentar la escasez de agua en el país. Sin embargo, en la práctica, su implementación sigue siendo limitada, principalmente por la falta de monitoreo y tecnología que permita gestionar mejor la calidad del agua (ANA, 2026).
+Además, este problema se ve empeorado por la mala gestión de residuos sólidos. Según la European Commission (2023), en el Perú existen deficiencias en todo el proceso de manejo de residuos, incluyendo su tratamiento y reutilización. Incluso, solo el 2.3% de los residuos que podrían recuperarse son realmente aprovechados, lo que refleja un bajo desarrollo de la economía circular.
+En resumen, esto demuestra que existe una gran perdida en recuperar y reutilizar recursos. En el caso del agua, esto refuerza la necesidad de implementar soluciones tecnológicas que permitan manejar, tratar y transformar el agua residual en un recurso reutilizable.
+
 Con el fin de profundizar y ordenar la problemática previamente descrita, se utilizó la técnica de las 5 'W's y 2 'H's, la cual permite analizar el problema desde las distintas dimensiones y comprender con mayor claridad en qué contexto ocurre y cuál es su impacto.
 #### What (¿Qué?)
 El problema central está relacionado con la falta de monintoreo continuo y en tiempo real de la calidad y el flujo del agua residual, así como con la limitada detección temprana de condiciones peligrosas en las redes de alcantarillado. De acuerdo con la Autoridad Nacional del Agua (ANA, 2025), en Lima Metropolitana se generan aproximadamente 1,2 millones de metros cúbicos de aguas residuales al día, de los cuales solo alredeor del 20% recibe un tratamiento adecuado. Esta situación evidencia una pérdida considerable de agua que podría ser tratada y reutilizada, especialmente en un contexto de creciente escasez.
