@@ -3,7 +3,7 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la startup
 
-WebWarriors es una startup tecnológica conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada al diseño de soluciones avanzadas para la preservación y recuperación del recurso hídrico. Tenemos como objetivo mitigar la crisis del agua en el Perú mediante el uso de tecnología IoT aplicada a la infraestructura hidráulica.
+WebWarriors es una startup tecnológica conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada al diseño de soluciones avanzadas para la preservación y recuperación del recurso hídrico. Tenemos como objetivo mitigar la crisis del agua en el Perú mediante el uso de tecnología IoT aplicada a la infraestructura hidráulica, controlada mediante una aplicación web llamada Aquanetix.
 
 Nuestra misión es desarrollar un ecosistema digital conectado a sensores de última generación que permita estudiar y recuperar agua en estado deficiente, brindando a las empresas y municipalidades las herramientas necesarias para una gestión sostenible.
 
