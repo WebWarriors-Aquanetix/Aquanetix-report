@@ -13,17 +13,18 @@ Principios de Diseño:
 
 #### Tipografía
 La tipografía debe reflejar la solidez de una solución corporativa/municipal.
-
-> * Titulares (Montserrat Bold / SemiBold): La fuente sans-serif geométrica del logo. Se usará para títulos de dashboards, banners en el Landing Page y secciones principales. Comunica modernidad y autoridad.
-> * Cuerpo y Datos (Roboto / Inter): Fuentes diseñadas para la máxima legibilidad en interfaces de usuario (UI). Su diseño neutral y claro es vital para tablas de sensores, reportes y mapas.
+> * Encabezados (Manrope): Se utilizará en pesos Bold (700) y SemiBold (600). Su estructura geométrica y moderna da una imagen de startup sólida.
+> * Cuerpo de Texto y Labels (Inter): Se utilizará para toda la lectura de datos, tablas y etiquetas. Es la fuente estándar en interfaces de alta densidad por su claridad en tamaños pequeños.
 
 #### Colores
 La paleta utilizada para el sitio web le da un mayor protagonismo a los azules vibrantes:
-> * Azul #007BFF: Confianza, autoridad, el núcleo del agua. Usado principalmente para los botones.
-> * Blanco #FFFFFF: Para el fondo de la aplicación.
-> * Gris oscuro #333: Para el contraste de los textos usados con el fondo blanco.
+> * Azul cobalto (#007BFF): El color que representa la identidad de la app, usado para botones principales, navegación y estados de "Agua Limpia".
+> * Verde esmeralda (#10B981): Acentos de éxito, sostenibilidad, recuperación y estados "Activo/Óptimo".
+> * Verde bosque (#064E3B): Fondos de secciones oscuras, iconos de naturaleza y estados de "Eco-impacto".
+> * Blanco pizarrón (#F1F5F9): Fondos de la aplicación (UI), tarjetas de datos y separación de secciones.
 
 #### Principios de espaciado
 Utilizaremos un sistema de espaciado basado en una rejilla de 8px (base 8). Esto garantiza que todos los componentes (gráficos de sensores, menús, tarjetas) tengan una relación matemática limpia. El espacio negativo debe ser amplio para reducir la "carga cognitiva" en dashboards complejos.
 
-#### 
+#### Tono de comunicación
+Los tonos de comunicación serán mayormente serios, con un toque de entusiasmo. Queremos priorizar la precisión técnica y la confianza municipal, a la vez que queremos transmitir que el cambio es posible mediante la tecnología.
