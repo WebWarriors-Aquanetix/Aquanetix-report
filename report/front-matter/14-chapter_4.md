@@ -1,6 +1,7 @@
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines:
+Se considera un **Style Guideline** al conjunto de reglas y estándares que definen el cómo se debe redactar, diseñar y/o presentar diversas interfaces web, documentos, software u otros productos creativos, con el fin de asegurar una coherencia visual de un proyecto. A continuacion se procederá a describir de forma más detallada los parametros implementados en nuestra propuesta. 
 ### 4.1.1. General Style Guidelines
 #### Branding
 La identidad de Aquanetix se basa en el principio de "Ingeniería Hídrica Circular". Buscamos proyectar una imagen de tecnología de vanguardia aplicada directamente a la regeneración de un recurso natural. El logo es la materialización de este concepto: la fusión de la gota (naturaleza) y el nodo (tecnología/IoT).
