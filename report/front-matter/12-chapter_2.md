@@ -77,7 +77,7 @@ A continuación, se detallan las estrategias operativas junto a las tácticas ar
 Para que Aquanetix logre tener éxito como la aplicación que permitirá reutilizar el agua en estado deficiente, hemos planteado algunas preguntas para las entrevistas que nos pueden ayudar a conocer mejor a nuestros segmentos objetivo.
 
 ### 2.2.1. Diseño de entrevistas:
-Preguntas personales, dirigidas a ambos segmentos:
+**Bloque de preguntas personales, dirigidas a ambos segmentos:**
 1.	¿Cuál es su nombre completo?
 2.	¿Cuál es su edad?
 3.	¿En qué distrito reside?
