@@ -104,6 +104,49 @@ Para que Aquanetix logre tener éxito como la aplicación que permitirá reutili
 6.	¿Qué herramientas o indicadores utilizan para medir la huella hídrica de sus servicios de gestión de residuos?
 7.	Si implementaran un sistema para reutilizar agua en el lavado de su flota, ¿cuánto dinero tendrían que ahorrarse al mes para que consideren que la inversión valió la pena?
 
+### 2.2.2. Registro de entrevistas
+
+#### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
+**Entrevista 1**<br>
+
+#### Segmento 2: Empresas gestoras de residuos sólidos
+**Entrevista 1**
+
+Edward Fernando Bojórquez Gonzales
+
+Enlace:
+
+Duración de la entrevista:
+
+Resumen:
+
+Nos encontramos con Edward Fernando Bojórquez Gonzales, ciudadano del distrito de Lince, y administrador de una empresa de residuos sólidos. Tiene 56 años, es casado, y vive con su esposa e hijo. Prefiere el uso de laptops y computadoras personales, y es alguien organizado, metódico y orientado al trabajo en equipo, aunque también reconoce que no tiene mucha paciencia.
+
+Primero, a Fernando se le preguntó de dónde obtenía el agua para sus procesos de lavado, y nos comentó que en su trabajo se apoya de la red pública de SEDAPAL para el lavado de unidades de transporte y contenedores. Además, si bien no cuentan con una planta de tratamiento de agua propia, reciben apoyo de otra empresa proveedora que maneja la recolección y tratamiento de lixiviados. Dentro de todo, el consumo de agua representa entre el 15% y 20% de los costos mensuales de la empresa.
+
+Respecto al tema del monitoreo y sostenibilidad, él comentó que no utilizan sistemas inteligentes en tiempo real, sino que realizan mediciones volumétricas del caudal mediante equipos convencionales. Asimismo, utilizan la metodología del Water Footprint Network para medir su huella hidríca, predominando la huella azul, y para su caso predomina la huella azul, que representa el consumo de recursos hídricos superficiales y subterráneos.
+
+Por último, Fernando nos mencionó que su mayor desafío logístico en su trabajo es optimizar el tiempo de lavado y mantenimiento de las unidades para cumplir con los cronogramas de los clientes. Asimismo, demostró interés en la implementación de sistemas de reutilización de agua que Aquanetix ofrece, siempre que generen un ahorro de entre el 30% y 40% de los costos actuales, lo cual justificaría la inversión y ayudaría a mejorar la eficiencia operativa.
+
+**Entrevista 2**
+
+Nombres y apellidos: José Ignacio Calle Chumacero
+
+Enlace:
+
+Duración de la entrevista:
+
+Resumen:
+
+Nos encontramos con José Ignacio Calle Chumacero, residente del distrito de Jesús María, y jefe de operaciones en RESITER Perú SAC. Tiene 33 años, y convive con su pareja y con sus dos hijos. Entre sus tecnologías preferidas están la laptop y el teléfono, así como IAs como ChatGPT, y es una persona puntual, responsable y dispuesta a mantener un compromiso, aunque también reconoce que presenta dificultades para cumplir con su agenda programada.
+
+Para empezar, a José Ignacio se le preguntó sobre cómo conseguían el agua para los procesos de lavado, y él respondió que tercerizaban dicho proceso con la ayuda de una empresa aliada estratégica ubicada cerca de las rutas de sus clientes. Asimismo, respecto al tratado de lixiviados explicó que diseñan contenedores especiales con válvulas para separar el líquido sucio del sólido, enviando el líquido directamente a las rejillas de la planta del cliente para evitar el transporte de residuos húmedos. Dentro de todo, los gastos en agua y limpieza representan alrededor del 20% y 25% de sus costos operativos.
+
+En cuanto a recursos tecnológicos, comentó que realizaron un plan piloto de monitoreo de llenado de contenedores en 2025, pero falló debido a lecturas incorrectas de los sensores, y por ello el proyecto está en pausa. Además, poseen un área de “Economía Circular” que ofrece asesoría “Cero Residuos” a sus clientes para monitorear su huella de carbono e hídrica.
+
+Por último, José Ignacio destacó que el mayor desafío que enfrentan en su trabajo es el factor tiempo, pues la logística de lavado puede retrasar los servicios, por lo que buscan eficiencia en este proceso. Por ello, considerarían exitoso un sistema de reutilización de agua si este lograra un ahorro mínimo de 20,000 soles mensuales, lo cual justificaría la inversión tecnológica.
+
+
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
 
