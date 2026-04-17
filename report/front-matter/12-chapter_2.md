@@ -138,7 +138,7 @@ Edward Fernando Bojórquez Gonzales
 
 Evidencia:
 <p align = "left">
-  <img src="/report/assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
+  <img src="/report/assets/interviews/Entrevista_Cristian_foto.jfif" width ="300" height="600">
 </p>
 
 Enlace:
