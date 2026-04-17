@@ -178,6 +178,30 @@ En cuanto a recursos tecnológicos, comentó que realizaron un plan piloto de mo
 
 Por último, José Ignacio destacó que el mayor desafío que enfrentan en su trabajo es el factor tiempo, pues la logística de lavado puede retrasar los servicios, por lo que buscan eficiencia en este proceso. Por ello, considerarían exitoso un sistema de reutilización de agua si este lograra un ahorro mínimo de 20,000 soles mensuales, lo cual justificaría la inversión tecnológica.
 
+#### Segmento 2: Empresas de gestión de residuos sólidos.
+
+**Entrevista 1**
+
+Cristian Qquecano De la Sota
+
+Evidencia:
+<p align = "left">
+  <img src="/report/assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
+</p>
+
+Enlace:
+
+Duración de la entrevista: 05:06 min
+
+Resumen: 
+
+Nos reunimos con Cristian Qquecano de la Sota. Él es un ingeniero ambiental de 38 años, reside en Jesús María, actualmente está soltero. Trabaja como supervisor de operaciones. Para sus labores diarias prefiere usar su celular Android, además de una laptop. Se considera una persona bastante organizada; sin embargo, confiesa estresarse mucho ante cambios repentinos de planes.
+
+Durante nuestra conversación, explicó lo complicado de conseguir agua para el lavado de flota. La red pública resulta ineficiente. Por tal motivo, dependen de comprar camiones cisterna constantemente. Este gasto, sumado al canon por vertimientos, representa entre el 8% hasta el 12% del presupuesto operativo mensual.
+
+Sobre el manejo de lixiviados, indicó que los almacenan en pozas de sedimentación. Tratar esos líquidos cuesta demasiado; por ello, prefieren pagar a plantas externas especializadas. Al consultarle sobre tecnologías de monitoreo inteligente, nos contó sobre algunas evaluaciones previas con sensores de ultrasonido. Lamentablemente, dichas iniciativas fueron incipientes, quedando relegadas a simples proyectos piloto. Su mayor dolor de cabeza diario es el tiempo de inactividad vehicular. Lavar 50 camiones pesados sin afectar las rutas nocturnas de recolección resulta un verdadero caos logístico. Respecto a la huella hídrica, admitió una falta total de estandarización. Apenas utilizan indicadores muy básicos basados en dividir los litros consumidos entre las toneladas de basura.
+
+Finalmente, Cristian concluyó que cualquier sistema tecnológico de reutilización hídrica debe demostrar resultados contundentes. Para convencer a la gerencia, dicha inversión necesitaría garantizar un ahorro del 25% al 30% mensual, reduciendo facturas de consumo junto con los costos logísticos de cisternas.
 
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
