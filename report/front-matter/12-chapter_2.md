@@ -261,6 +261,16 @@ Respecto a los Gains de nuestros usuarios:
 > * El 67% de los entrevistados muestra un compromiso intrínseco con la economía circular y la reducción de la huella hídrica, viendo en la tecnología una forma de alinear sus valores personales con los objetivos de la empresa.
 > * El 66% valora la organización y la puntualidad por encima de otras cualidades. Su expectativa subjetiva frente a una aplicación que los ayude es que los ayude a reducir los cambios repentinos de planes causados por falta de agua o fallos logísticos.
 
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+#### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
+
+#### Segmento 2: Empresas gestoras de residuos sólidos
+<p align = "left">
+  <img src="/report/assets/user_personas/Ricardo Sánchez.png">
+</p>
+
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
 
