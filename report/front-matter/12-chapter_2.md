@@ -271,6 +271,34 @@ Respecto a los Gains de nuestros usuarios:
   <img src="/report/assets/user_personas/Ricardo Sánchez.png">
 </p>
 
+### 2.3.2. Task Matrix
+
+#### User Persona 1: 
+
+#### User Persona 2: Ricardo Sánchez
+
+| Tasks | Nombre: | Ricardo Sánchez |
+| :--- | :--- | :--- |
+|| Frecuencia: | Importancia: |
+| Monitoreo de niveles de agua en tiempo real | Muy alta | Muy alta |
+| Revisión de alertas de calidad de agua | Muy alta | Muy alta |
+| Generación de reportes de ahorro (Return Of Investment) | Media | Alta |
+| Consulta de indicadores de Huella Hídrica | Baja | Media |
+| Verificación de estado de sensores | Alta | Muy alta |
+| Ajuste de parámetros de reutilización | Baja | Media |
+
+Las tareas más críticas para Ricardo son aquellas relacionadas con el monitoreo operativo y la fiabilidad del sistema, como la supervisión de niveles de agua en tiempo real y la verificación de alertas de calidad para evitar daños en la flota. Estas actividades son de frecuencia muy alta.
+
+Su motivación central es la validación profesional y la paz mental, buscando garantizar un ahorro económico contundente que justifique la inversión ante la gerencia y le permita cumplir con sus cronogramas sin imprevistos.
+
+En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibilidad rentable, buscando transformar la gestión hídrica de la empresa a través de la automatización y el ejemplo de resultados medibles.
+
+### 2.3.3. Journey Mapping
+
+#### User Persona 1: 
+
+#### User Persona 2: Ricardo Sánchez
+
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
 
