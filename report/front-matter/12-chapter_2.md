@@ -216,6 +216,28 @@ Sobre el manejo de lixiviados, indicó que los almacenan en pozas de sedimentaci
 
 Finalmente, Cristian concluyó que cualquier sistema tecnológico de reutilización hídrica debe demostrar resultados contundentes. Para convencer a la gerencia, dicha inversión necesitaría garantizar un ahorro del 25% al 30% mensual, reduciendo facturas de consumo junto con los costos logísticos de cisternas.
 
+### Análisis de entrevistas
+
+#### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado.
+
+#### Segmento 2: Empresas gestoras de residuos sólidos
+
+Este análisis consolida los hallazgos de los entrevistados pertenecientes a este segmento, representados mediante porcentajes.
+
+Comenzando con las características objetivas, los tres entrevistados ha reconocido el impacto financiero que posee el agua en sus trabajos. Combinando red pública, cisternas y vertimientos, el gasto en agua y limpieza es una carga crítica, representando en promedio entre el 14% y el 19% de los costos operativos mensuales. Asimismo, el 100% de los entrevistados ha operado bajo sistemas convencionales o ha tenido experiencias fallidas con proyectos piloto (sensores de llenado o ultrasonido), lo cual genera una brecha tecnológica latente; además de que el 67% de los casos depende de proveedores externos para el tratamiento de lixiviados o el suministro de agua (cisternas), evidenciando una falta de autonomía hídrica. 
+
+El 100% de los participantes utiliza de forma mandatoria laptops y smartphones para la supervisión de operaciones. Un 67% muestra una adopción activa de herramientas de software avanzado o IA para optimizar su flujo de trabajo. Asimismo, quedó demostrado que existe una brecha significativa en la medición; pues el 67% utiliza indicadores técnicos (estándares internacionales o ratios litros/tonelada), mientras que el 33% reconoce una falta total de estandarización en sus reportes de huella hídrica. Por último, para que la gerencia apruebe la implementación de Aquanetix, los expertos coinciden en que se debe garantizar un ahorro mínimo de entre el 25% y 40%.
+
+Pasando a las características subjetivas, analizaremos los Pain Points de nuestros usuarios.
+El 100% de los entrevistados manifiesta una preocupación crítica por el factor tiempo. El miedo a los retrasos operativos o al "caos logístico" por el lavado de flota es el principal movilizador emocional.
+El 67% de los sujetos presenta un sesgo de escepticismo hacia nuevas implementaciones IoT. Este sentimiento nace de frustraciones pasadas con sensores que brindaron lecturas incorrectas o proyectos que quedaron en "pilotos incipientes".
+El 33% expresa una frustración directa por la ineficiencia de los servicios públicos, lo que les genera una sensación de falta de control sobre sus propios procesos.
+
+Respecto a los Gains de nuestros usuarios:
+El 100% condiciona su satisfacción con el sistema a un ahorro económico tangible. La motivación subjetiva aquí es la "validación ante la gerencia"; necesitan que la tecnología sea una victoria financiera demostrable.
+El 67% de los entrevistados muestra un compromiso intrínseco con la economía circular y la reducción de la huella hídrica, viendo en la tecnología una forma de alinear sus valores personales con los objetivos de la empresa.
+El 66% valora la organización y la puntualidad por encima de otras cualidades. Su expectativa subjetiva frente a una aplicación que los ayude es que los ayude a reducir los cambios repentinos de planes causados por falta de agua o fallos logísticos.
+
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
 
