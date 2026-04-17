@@ -222,11 +222,14 @@ Finalmente, Cristian concluyó que cualquier sistema tecnológico de reutilizaci
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
 
-Este análisis consolida los hallazgos de los entrevistados pertenecientes a este segmento, representados mediante porcentajes.
+Este análisis consolida los hallazgos de los entrevistados pertenecientes a este segmento, representados mediante porcentajes, empezando por las características objetivas:
 
-Comenzando con las características objetivas, el 100% de los participantes utiliza de forma mandatoria laptops y smartphones para la supervisión de operaciones. Un 67% muestra una adopción activa de herramientas de software avanzado o IA para optimizar su flujo de trabajo. Por otro lado, los tres entrevistados ha reconocido el impacto financiero que posee el agua en sus trabajos. Combinando red pública, cisternas y vertimientos, el gasto en agua y limpieza es una carga crítica, representando en promedio entre el 14% y el 19% de los costos operativos mensuales. Asimismo, el 100% de los entrevistados ha operado bajo sistemas convencionales o ha tenido experiencias fallidas con proyectos piloto (sensores de llenado o ultrasonido), lo cual genera una brecha tecnológica latente; además de que el 67% de los casos depende de proveedores externos para el tratamiento de lixiviados o el suministro de agua (cisternas), evidenciando una falta de autonomía hídrica. 
-
-Asimismo, quedó demostrado que existe una brecha significativa en la medición; pues el 67% utiliza indicadores técnicos (estándares internacionales o ratios litros/tonelada), mientras que el 33% reconoce una falta total de estandarización en sus reportes de huella hídrica. Por último, para que la gerencia apruebe la implementación de Aquanetix, los expertos coinciden en que se debe garantizar un ahorro mínimo de entre el 25% y 40%.
+> * El 100% de los participantes utiliza de forma mandatoria laptops y smartphones para la supervisión de operaciones. Un 67% muestra una adopción activa de herramientas de software avanzado o IA para optimizar su flujo de trabajo.
+> * Los tres entrevistados ha reconocido el impacto financiero que posee el agua en sus trabajos. Combinando red pública, cisternas y vertimientos, el gasto en agua y limpieza es una carga crítica, representando en promedio entre el 14% y el 19% de los costos operativos mensuales.
+> * El 100% de los entrevistados ha operado bajo sistemas convencionales o ha tenido experiencias fallidas con proyectos piloto (sensores de llenado o ultrasonido), lo cual genera una brecha tecnológica latente.
+> * El 67% de los casos depende de proveedores externos para el tratamiento de lixiviados o el suministro de agua (cisternas), evidenciando una falta de autonomía hídrica.
+> * Existe una brecha significativa en la medición de la huella hídrica, pues el 67% utiliza indicadores técnicos (estándares internacionales o ratios litros/tonelada), mientras que el 33% reconoce una falta total de estandarización en sus reportes de la misma.
+> * Por último, para que la gerencia apruebe la implementación de Aquanetix, los expertos coinciden en que se debe garantizar un ahorro mínimo de entre el 25% y 40%.
 
 Pasando a las características subjetivas, analizaremos los Pain Points de nuestros usuarios.
 > * El 100% de los entrevistados manifiesta una preocupación crítica por el factor tiempo. El miedo a los retrasos operativos o al "caos logístico" por el lavado de flota es el principal movilizador emocional.
