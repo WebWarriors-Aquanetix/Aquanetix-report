@@ -277,7 +277,7 @@ Respecto a los Gains de nuestros usuarios:
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
 <p align = "left">
-  <img src="/report/assets/user_personas/Ricardo Sánchez.png">
+  <img src="/report/assets/ux_pressia/Ricardo Sánchez's User Persona.png">
 </p>
 
 ### 2.3.2. Task Matrix
@@ -308,7 +308,7 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 
 #### User Persona 2: Ricardo Sánchez
 <p align = "left">
-  <img src="/report/assets/journey_maps/Ricardo Sanchez's Journey Map.png">
+  <img src="/report/assets/ux_pressia/Ricardo Sanchez's Journey Map.png">
 </p>
 
 
