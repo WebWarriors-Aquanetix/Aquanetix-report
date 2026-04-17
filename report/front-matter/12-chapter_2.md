@@ -236,6 +236,27 @@ Sobre el manejo de lixiviados, indicó que los almacenan en pozas de sedimentaci
 
 Finalmente, Cristian concluyó que cualquier sistema tecnológico de reutilización hídrica debe demostrar resultados contundentes. Para convencer a la gerencia, dicha inversión necesitaría garantizar un ahorro del 25% al 30% mensual, reduciendo facturas de consumo junto con los costos logísticos de cisternas.
 
+**Entrevista 4**
+
+Liliana Sanchez Fajardo
+
+Evidencia:
+<p align = "left">
+   <img src="/report/assets/interviews/Entrevista_Liliana_Sanchez.png" width ="300" height="600">
+</p>
+
+Duración de la entrevista: **07:33 min**
+
+Resumen: 
+
+Nos reunimos con Liliana de Pilar Sánchez Bajardo, residente del distrito de Comas, de 57 años, quien se desempeña como ingeniera ambiental y consultora en temas vinculados a la gestión del recurso hídrico. En su labor diaria utiliza principalmente la laptop y el teléfono celular para la coordinación de actividades. Entre sus principales cualidades destacó la responsabilidad, la puntualidad y el trabajo en equipo, mientras que señaló como debilidades su tendencia al perfeccionismo y su baja tolerancia frente a la impuntualidad y la falta de compromiso del personal.
+
+En relación con el monitoreo de la calidad del agua, indicó que este se realiza mayormente mediante muestreos en puntos específicos de la red, complementados con sensores básicos en planta para medir parámetros como pH y turbidez. No obstante, señaló que el monitoreo en tiempo real a lo largo de toda la red de tuberías es limitado, lo que dificulta una supervisión continua. Asimismo, explicó que identificar el origen exacto de una anomalía resulta complejo, ya que muchas veces los problemas se detectan cuando disminuye la presión del agua o a partir de reportes de los usuarios.
+
+Respecto a la operación del sistema, mencionó que se atienden aproximadamente entre 15 y 20 emergencias mensuales por obstrucciones de flujo no detectadas a tiempo, muchas de las cuales podrían prevenirse con una mayor incorporación de tecnología. También señaló que las reparaciones de emergencia implican costos considerablemente más altos que las programadas, debido a la urgencia, el uso de recursos adicionales y los posibles daños colaterales.
+
+Finalmente, indicó que el mantenimiento preventivo se planifica principalmente en función de la antigüedad de las tuberías y el historial de fallas reportadas. Señaló que el uso de sensores inteligentes es aún limitado debido al alto costo de implementación y a los problemas de conectividad en redes subterráneas. Si bien se emplean sistemas como GIS y herramientas básicas de gestión, la comunicación con las cuadrillas se realiza mayormente por radio o aplicaciones de mensajería, lo que evidencia la necesidad de soluciones tecnológicas más integradas para mejorar la eficiencia operativa y reducir el impacto en la comunidad.
+
 ### Análisis de entrevistas
 
 #### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado.
