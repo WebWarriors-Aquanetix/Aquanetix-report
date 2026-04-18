@@ -308,7 +308,23 @@ Respecto a los Gains de nuestros usuarios:
 
 ### 2.3.2. Task Matrix
 
-#### User Persona 1: 
+#### User Persona 1: Jorge Navarro
+| Tasks | Nombre: | Jorge Navarro |
+| :--- | :--- | :--- |
+|  | Frecuencia: | Importancia: |
+| Monitoreo de calidad de agua (pH y turbidez) | Muy alta | Muy alta |
+| Detección temprana de anomalías en la red (fugas u obstrucciones) | Alta | Muy alta |
+| Revisión de alertas por variaciones de flujo o presión | Alta | Muy alta |
+| Coordinación de mantenimiento preventivo | Media | Alta |
+| Generación de reportes técnicos operativos | Media | Media |
+| Consulta del historial de fallas por zona | Baja | Media |
+| Verificación del estado de sensores en la red | Media | Alta |
+
+Las tareas más críticas para Jorge están relacionadas con el monitoreo constante de la calidad del agua y la identificación temprana de fallas en la red, ya que estas inciden directamente en la continuidad del servicio y en la salud de la población. Por ello, estas actividades presentan una frecuencia alta y una importancia estratégica.
+
+Su motivación principal es anticiparse a las emergencias, reduciendo la dependencia de reportes ciudadanos y optimizando la asignación de recursos técnicos y humanos. Para Jorge, contar con información centralizada y confiable es clave para mejorar la toma de decisiones y fortalecer la planificación del mantenimiento preventivo.
+
+En conjunto, sus tareas reflejan la necesidad de una gestión más integrada y proactiva, apoyada en sensores inteligentes y herramientas digitales que permitan transformar el monitoreo tradicional en un sistema predictivo y eficiente.
 
 #### User Persona 2: Ricardo Sánchez
 
