@@ -347,6 +347,9 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 ### 2.3.3. Journey Mapping
 
 #### User Persona 1: 
+<p align = "left">
+  <img src="/report/assets/ux_pressia/Jorge Navarro's Journey Map.png">
+</p>
 
 #### User Persona 2: Ricardo Sánchez
 <p align = "left">
@@ -356,6 +359,9 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 ### 2.3.4. Empathy Mapping
 
 #### User Persona 1:
+<p align = "left">
+  <img src="/report/assets/ux_pressia/Jorge Navarro's Empathy Map.png">
+</p>
 
 #### User Persona 2: Ricardo Sánchez
 <p align = "left">
