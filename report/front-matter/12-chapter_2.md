@@ -118,7 +118,7 @@ Evidencia:
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d428_upc_edu_pe/IQBzEdt6nYd-T6XNwWLGX0oHAWznKTL6k_I5b2DuUtO7RMA?e=IejH1d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Duración de la entrevista: **00:00 - 06:14**
+Duración de la entrevista: **00:00 - 06:14 min**
 
 Resumen:
 
@@ -141,7 +141,7 @@ Evidencia:
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d428_upc_edu_pe/IQBzEdt6nYd-T6XNwWLGX0oHAWznKTL6k_I5b2DuUtO7RMA?e=IejH1d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Duración de la entrevista: **06:15 - 12:31** 
+Duración de la entrevista: **06:15 - 12:31 min** 
 
 Resumen:
 La entrevista inicia con la presentación de Jorge Luis Castro Rojas, un ingeniero sanitario de 48 años residente en Santiago de Surco. En su labor profesional, Jorge combina herramientas tradicionales con soluciones digitales modernas; utiliza Google Earth para la geolocalización de coordenadas, la plataforma Yorgos para el seguimiento de normativas y aplicaciones móviles como Timestamp Camera, que permite registrar evidencias fotográficas con datos precisos de tiempo y ubicación para sus reportes técnicos. 
@@ -210,7 +210,7 @@ Evidencia:
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d428_upc_edu_pe/IQBzEdt6nYd-T6XNwWLGX0oHAWznKTL6k_I5b2DuUtO7RMA?e=IejH1d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Duración de la entrevista:**27:23 - 39:53**
+Duración de la entrevista:**27:23 - 39:53 min**
 
 Resumen:
 
