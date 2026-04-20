@@ -1,5 +1,7 @@
 # Capítulo III: Requirements Specification
 
+## 3.1. User Stories
+
 <h3>Epics</h3>
 
 <table>
@@ -355,3 +357,7 @@
     </tr>
   </tbody>
 </table>
+
+## 3.2. Impact Mapping
+
+### User Persona 2: Ricardo Sánchez
