@@ -366,3 +366,31 @@
 </p>
 
 ## 3.3. Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US02</td>
+      <td>Monitoreo en tiempo real</td>
+      <td>Como Jefe de Operaciones, quiero visualizar parámetros del agua (pH, flujo) en tiempo real para asegurar la calidad del recurso.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US12</td>
+      <td>Alertas de anomalías</td>
+      <td>Como Jefe de Operaciones, quiero recibir notificaciones sobre parámetros fuera de rango para prevenir daños en la flota.</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
