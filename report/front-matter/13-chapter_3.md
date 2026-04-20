@@ -379,18 +379,18 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>US02</td>
-      <td>Monitoreo en tiempo real</td>
-      <td>Como Jefe de Operaciones, quiero visualizar parámetros del agua (pH, flujo) en tiempo real para asegurar la calidad del recurso.</td>
-      <td>5</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>US12</td>
-      <td>Alertas de anomalías</td>
-      <td>Como Jefe de Operaciones, quiero recibir notificaciones sobre parámetros fuera de rango para prevenir daños en la flota.</td>
-      <td>5</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
