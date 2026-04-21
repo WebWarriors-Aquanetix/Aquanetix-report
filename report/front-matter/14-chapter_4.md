@@ -72,5 +72,8 @@ Garantizan que el usuario siempre mantenga el control sobre su ubicación en el 
 
 > * Navegación Global (Header): Barra persistente con acceso rápido al Dashboard y secciones principales de la landing.
 > * Navegación Local (Sidebar): Menú lateral en el Dashboard para transitar entre Alertas, Mantenimiento y Reportes.
+
+## 4.3. Landing Page UI Design
+El planteamiento del diseño de la interfaz de usuario para nuestra landing page se considerará fundamental para el proyecto debido a que es una primera impresión hacia los usuarios del cómo se visualizará y qué objetivo presentará. Gracias a esto, nos permitira obtener la informacion necesaria para causar una gran impresión y mayor interés en la navegación de la página.
 > * Breadcrumbs: Rastro de navegación para auditorías profundas (ej. Dashboard > Zona Norte > Sensor pH-04).
 > * Navegación de Salida (Footer): Enlaces a políticas de privacidad, términos de servicio y contacto con WebWarriors.
