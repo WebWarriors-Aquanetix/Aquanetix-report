@@ -24,6 +24,7 @@ La paleta utilizada para el sitio web le da un mayor protagonismo a los azules v
 > * Verde esmeralda (#10B981): Acentos de éxito, sostenibilidad, recuperación y estados "Activo/Óptimo".
 > * Verde bosque (#064E3B): Fondos de secciones oscuras, iconos de naturaleza y estados de "Eco-impacto".
 > * Blanco pizarrón (#F1F5F9): Fondos de la aplicación (UI), tarjetas de datos y separación de secciones.
+<div align="center"><img src="/report/assets/LandingPage/paleta de colores.jpg" width ="400" height="700"></div>
 
 #### Principios de espaciado
 Utilizaremos un sistema de espaciado basado en una rejilla de 8px (base 8). Esto garantiza que todos los componentes (gráficos de sensores, menús, tarjetas) tengan una relación matemática limpia. El espacio negativo debe ser amplio para reducir la "carga cognitiva" en dashboards complejos.
