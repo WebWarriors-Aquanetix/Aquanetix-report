@@ -74,8 +74,8 @@ La gestión del código fuente del proyecto se realizó mediante la plataforma G
 
 El proyecto cuenta con dos repositorios principales:
 
-- Repositorio del informe (documentación): https://github.com/NicoCSE/Trabajo-Final-Project  
-- Repositorio de la Landing Page: (Pendiente)
+- Repositorio del informe (documentación): https://github.com/NicoCSE/Aquanetix-report  
+- Repositorio de la Landing Page: https://github.com/NicoCSE/Landing-Page-Aquanetix
 
 En el repositorio del informe se gestionaron todos los avances relacionados a la documentación del proyecto, mientras que en el repositorio de la Landing Page se desarrolló la parte visual y funcional del producto.
 
