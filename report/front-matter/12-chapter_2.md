@@ -370,6 +370,11 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 
 ### 2.3.5. As-Is Scenario Mapping
 
+#### User Persona 1: Jorge Navarro
+<p align = "left">
+   <img src="/report/assets/miro/Jorge Navarro's As-Is Scenario Map.png">
+</p>
+
 #### User Persona 2: Ricardo Sánchez
 <p align = "left">
    <img src="/report/assets/miro/Ricardo Sánchez's As-Is Scenario Map.png">
