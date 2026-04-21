@@ -368,6 +368,15 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
   <img src="/report/assets/ux_pressia/Ricardo Sánchez's Empathy Map.png">
 </p>
 
+### 2.3.5. As-Is Scenario Mapping
+
+#### User Persona 2: Ricardo Sánchez
+<p align = "left">
+   <img src="/report/assets/miro/Ricardo Sánchez's As-Is Scenario Map.png">
+</p>
+
+### 2.4. Big Picture Event Storming
+
 ### 2.5. Ubiquitous Language
 
 Usuario (User):
