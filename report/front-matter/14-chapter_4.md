@@ -16,7 +16,7 @@ Principios de Diseño:
 La tipografía debe reflejar la solidez de una solución corporativa/municipal.
 > * Encabezados (Manrope): Se utilizará en pesos Bold (700) y SemiBold (600). Su estructura geométrica y moderna da una imagen de startup sólida.
 > * Cuerpo de Texto y Labels (Inter): Se utilizará para toda la lectura de datos, tablas y etiquetas. Es la fuente estándar en interfaces de alta densidad por su claridad en tamaños pequeños.
- <img src="/report/assets/LandingPage/tipografía.jpg" width ="300" height="300">
+ <img src="/report/assets/LandingPage/tipografía.jpg" width ="500" height="900">
 
 #### Colores
 La paleta utilizada para el sitio web le da un mayor protagonismo a los azules vibrantes:
