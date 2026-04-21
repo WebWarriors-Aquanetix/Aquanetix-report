@@ -381,7 +381,11 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 </p>
 
 ### 2.4. Big Picture Event Storming
-
+En esta sección se procedera a mostrar el mapeo del recorrido de la aplicación  mediante un Big Picture Event Storming. 
+Event Storming Aquatenix.jpg
+<p align = "left">
+   <img src="/report/assets/miro/Event Storming Aquatenix.jpg">
+</p>
 ### 2.5. Ubiquitous Language
 
 Usuario (User):
