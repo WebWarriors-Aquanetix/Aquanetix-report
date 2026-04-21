@@ -30,7 +30,45 @@ Utilizaremos un sistema de espaciado basado en una rejilla de 8px (base 8). Esto
 #### Tono de comunicación
 Los tonos de comunicación serán mayormente serios, con un toque de entusiasmo. Queremos priorizar la precisión técnica y la confianza municipal, a la vez que queremos transmitir que el cambio es posible mediante la tecnología.
 
-## 4.1.2. Web Style Guidelines:
+### 4.1.2. Web Style Guidelines:
 
 Para la interfaz web de Aquanetix, el diseño se fundamenta en una estructura modular basada en contenedores limpios, priorizando la rápida lectura de grandes volúmenes de datos operativos. Los paneles de control principales utilizarán una disposición en cuadrícula para permitir a los supervisores visualizar métricas complejas de manera estructurada. Además, se aplicarán bordes sutilmente redondeados junto con sombras difuminadas para generar jerarquía visual. De este modo, aseguramos mantener la atención del usuario enfocada estrictamente en los indicadores críticos, como el porcentaje de llenado de lixiviados o las alertas de sobreconsumo, previniendo la fatiga visual durante jornadas extensas de monitoreo.
 Por otro lado, respecto a la interactividad de la plataforma, los componentes están diseñados para ofrecer retroalimentación inmediata, cambiando de estado visualmente al recibir clics o desplazamientos del cursor. Resulta indispensable que toda la interfaz responda fluidamente a distintos tamaños de pantalla mediante principios de diseño adaptable (responsive design). Así, garantizamos una experiencia de uso coherente tanto para un gerente que exporta reportes de huella hídrica desde una computadora de escritorio en la oficina, como para un operario que ingresa registros en tiempo real desde su teléfono móvil en medio del patio de maniobras.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En Aquanetix, la información se agrupa para evitar la fatiga cognitiva frente a la densidad de datos IoT:
+> * Esquema Jerárquico: La navegación fluye de lo general a lo particular, iniciando en un Dashboard Global de la red hídrica y profundizando hasta el detalle de sensores individuales.
+> * Estructura Híbrida: Se combina la organización temática por parámetros (pH, flujo, gases) con un registro cronológico para el historial de alertas y eventos.
+
+### 4.2.2. Labeling Systems
+
+El sistema de etiquetado utiliza terminología familiar para gestores de operaciones y sostenibilidad:
+> * Etiquetas de Navegación: Términos directos como "Inicio", "Solución", "Beneficios" y "Acceso al Dashboard".
+> * Etiquetas de Datos: Métricas bajo estándares industriales como "Nivel de pH", "Caudal (m³/s)" y "Concentración de Gases (ppm)".
+> * Etiquetas de Estado: Sistema semántico de urgencia: Crítico (Rojo), Advertencia (Ámbar) y Óptimo (Verde).
+
+### 4.2.3. SEO Tags and Meta Tags
+Para garantizar el posicionamiento de la Landing Page y la relevancia en búsquedas corporativas:
+
+> * Indexado y Crawling: Uso de etiquetas meta name="robots" content="index, follow" para permitir que los buscadores rastreen la solución.
+> * Meta Title: "Aquanetix | Inteligencia Hídrica para un Perú Sostenible" (Optimizado para captar interés institucional).
+> * Meta Description: "Sistema de monitoreo IoT y gestión automatizada para la recuperación de recursos hídricos. Reduzca costos operativos y optimice la sostenibilidad de su flota".
+> * Palabras clave: Gestión hídrica Perú, monitoreo IoT agua, recuperación de agua industrial, Aquanetix, WebWarriors UPC.
+
+### 4.2.4. Searching Systems
+Diseñados para encontrar métricas críticas en menos de tres clics:
+
+> * Barra Global (Omnisearch): Con función de auto-completado para IDs de sensores o zonas críticas. (Por definir)
+> * Filtros Avanzados: Segmentación por temporalidad (rangos de fechas), ubicación (zonas de la planta) y nivel de riesgo de las alertas.
+> * Visualización de Resultados: Resaltado de términos (highlighting) y estados de "Cero resultados".
+
+### 4.2.5. Navigation Systems
+Garantizan que el usuario siempre mantenga el control sobre su ubicación en el sistema:
+
+> * Navegación Global (Header): Barra persistente con acceso rápido al Dashboard y secciones principales de la landing.
+> * Navegación Local (Sidebar): Menú lateral en el Dashboard para transitar entre Alertas, Mantenimiento y Reportes.
+> * Breadcrumbs: Rastro de navegación para auditorías profundas (ej. Dashboard > Zona Norte > Sensor pH-04).
+> * Navegación de Salida (Footer): Enlaces a políticas de privacidad, términos de servicio y contacto con WebWarriors.
