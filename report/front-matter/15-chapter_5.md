@@ -81,29 +81,36 @@ En el repositorio del informe se gestionaron todos los avances relacionados a la
 
 ### GitFlow Workflow
 
-Para la organización del desarrollo se implementó el modelo GitFlow como estrategia de control de versiones. Este modelo permitió estructurar el trabajo del equipo y mantener un flujo ordenado de integración.
+Para la organización del desarrollo se implementó el modelo GitFlow en una versión simplificada, permitiendo estructurar el trabajo del equipo mediante el uso de ramas.
 
 Las ramas utilizadas en el proyecto fueron:
 
-- **main**: contiene la versión estable del proyecto.
-- **develop**: rama principal de trabajo donde se integran los avances del equipo.
+- **main**: contiene la versión estable y final del proyecto.  
+- **develop**: rama principal de trabajo donde se integran los avances del equipo.  
+- **feature/**: ramas utilizadas para el desarrollo de nuevas funcionalidades o secciones específicas del proyecto.  
 
-La rama develop fue utilizada como base para el desarrollo continuo del proyecto, permitiendo consolidar los cambios antes de integrarlos a la versión final.
-
-Adicionalmente, para el desarrollo de nuevas funcionalidades se considera el uso de ramas tipo feature, siguiendo buenas prácticas de control de versiones.
+La rama develop fue utilizada como base para el desarrollo continuo del proyecto, permitiendo consolidar los cambios provenientes de distintas ramas feature antes de integrarlos a la versión final.
 
 ### Convenciones de Ramas
 
 Se estableció la siguiente convención para la creación de ramas:
 
-- Feature branches:
-  feature/nombre-funcionalidad
+<p align="center">
+  <img src="../assets/development_environment/github-branches.png" width="700"/>
+</p>
 
-Ejemplo:
-feature/landing-page  
-feature/chapter-5  
+- Feature branches:  
+  feature/nombre-funcionalidad  
 
-Estas ramas permiten desarrollar funcionalidades de manera independiente sin afectar la estabilidad del proyecto.
+Ejemplos reales del proyecto:
+
+- feature/chapter-1  
+- feature/chapter-2  
+- feature/chapter-3  
+- feature/chapter-4  
+- feature/chapter-5  
+
+Estas ramas permiten desarrollar funcionalidades o secciones de manera independiente sin afectar la estabilidad del proyecto.
 
 ### Semantic Versioning
 
@@ -125,22 +132,6 @@ Esto permite mantener un control claro sobre la evolución del proyecto.
 
 Para estandarizar los mensajes de commits, se aplicó la convención de Conventional Commits, lo que permitió mejorar la organización y trazabilidad del repositorio.
 
-Los tipos de commits utilizados fueron:
-
-- feat: nuevas funcionalidades  
-- docs: cambios en documentación  
-- fix: corrección de errores  
-- chore: tareas menores o mantenimiento  
-
-Ejemplos reales del proyecto:
-
-feat: add section 5.1 software configuration management with images  
-docs: add development environment images  
-fix: correct image path in markdown  
-chore: update repository structure  
-
-El uso de estas convenciones permitió identificar fácilmente el tipo de cambio realizado en cada commit y mejorar la colaboración entre los integrantes del equipo.
-
 <p align="center">
   <img src="../assets/development_environment/GitFlow.png" width="700"/>
 </p>
@@ -151,7 +142,25 @@ Historial de commits en la rama develop del repositorio, evidenciando el uso de 
 
 La evidencia mostrada refleja el uso adecuado de Conventional Commits, así como la participación activa de los integrantes del equipo en el desarrollo del proyecto.
 
+Los tipos de commits utilizados fueron:
+
+- **feat**: nuevas funcionalidades  
+- **docs**: cambios en documentación  
+- **fix**: corrección de errores  
+- **chore**: tareas menores o mantenimiento  
+
+Ejemplos reales del proyecto:
+
+feat: add section 5.1 software configuration management with images  
+docs: add development environment images  
+fix: correct image path in markdown  
+chore: update repository structure  
+
+El uso de estas convenciones permitió identificar fácilmente el tipo de cambio realizado en cada commit y mejorar la colaboración entre los integrantes del equipo.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
