@@ -77,3 +77,23 @@ Garantizan que el usuario siempre mantenga el control sobre su ubicación en el 
 
 ## 4.3. Landing Page UI Design
 El planteamiento del diseño de la interfaz de usuario para nuestra landing page se considerará fundamental para el proyecto debido a que es una primera impresión hacia los usuarios del cómo se visualizará y qué objetivo presentará. Gracias a esto, nos permitira obtener la informacion necesaria para causar una gran impresión y mayor interés en la navegación de la página.
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.2. Web Applications Mock-ups
+
+## 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+### 4.6.1. Design-Level EventStorming
+### 4.6.2. Software Architecture Context Diagram
+### 4.6.3. Software Architecture Container Diagrams
+### 4.6.4. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1 Class Diagrams
+
+## 4.8. Database Design
