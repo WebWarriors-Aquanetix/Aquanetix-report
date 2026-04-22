@@ -69,3 +69,54 @@ Descripción: Gestiona las tareas operativas asignadas a la flota logística (Ej
 >* Status : TaskStatus - Estado de la tarea (Pendiente, En Progreso, Completado).
 ##### Métodos:
 >* CompleteTask() : void - Marca la tarea como finalizada y actualiza el estado del vehículo asociado.
+
+#### Clase: SubscriptionPlan
+Descripción: Define los planes comerciales que determinan los límites operativos y costos para las empresas suscritas al sistema.
+##### Atributos:
+>* Id : int - Identificador del plan.
+>* Name : String - Nombre comercial (Ej. "Plan Piloto", "Plan Integral").
+>* MonthlyCost : decimal - Costo mensual de la licencia.
+>* MaxSensors : int - Límite de dispositivos IoT permitidos.
+##### Métodos:
+>* VerifyLimit(currentSensors: int) : bool - Valida si la empresa puede registrar un sensor nuevo según su plan actual.
+  
+#### Clase: Vehicle
+Descripción: Representa a los camiones compactadores o cisternas que forman parte de la flota logística de la empresa.
+##### Atributos:
+>* Id : int - Identificador único del vehículo.
+>* LicensePlate : String - Placa de rodaje del vehículo.
+>* Model : String - Marca y modelo del camión.
+##### Métodos:
+>* AssignMaintenance(task: MaintenanceTask) : void - Vincula una nueva tarea de mantenimiento preventivo al vehículo.
+  
+#### Clase: TelemetryData
+Descripción: Almacena el historial continuo de lecturas enviadas por los sensores IoT en campo. Es una entidad de alto volumen de datos.
+##### Atributos:
+>* Id : long - Identificador de la lectura (BigInt debido al volumen).
+>* Value : decimal - Valor numérico registrado (pH, %, litros).
+>* Timestamp : DateTime - Fecha y hora exacta en la que el sensor capturó el dato.
+##### Métodos:
+>* ExportToCsv() : String - Genera un volcado de datos en formato CSV para que los auditores procesen la información externamente.
+
+#### Interfaz: IAlertNotifier
+Descripción: Contrato que define la estructura para servicios externos (como SendGrid o Twilio) encargados de enviar notificaciones push, SMS o correos electrónicos.
+##### Métodos:
+>* SendNotification(alertId: int, email: String) : bool - Ejecuta el envío de la alerta crítica al usuario correspondiente.
+>* RegisterDeviceToken(token: String) : void - Registra el token del dispositivo móvil para habilitar notificaciones push.
+
+#### Enumeración: Role
+##### Descripción: Define los niveles de acceso y autorización dentro de la plataforma Aquanetix.
+##### Valores: Admin, Engineer, Auditor.
+
+#### Enumeración: SensorType
+##### Descripción: Clasifica el tipo de hardware IoT desplegado en la infraestructura.
+##### Valores: Ultrasonic (medición de nivel en pozas), Flow (caudal en tuberías), Turbidity (calidad del agua).
+
+#### Enumeración: AlertSeverity
+##### Descripción: Categoriza el nivel de urgencia de las incidencias operativas.
+##### Valores: Low, Medium, Critical.
+
+#### Enumeración: TaskStatus
+##### Descripción: Controla el ciclo de vida de los mantenimientos vehiculares y reparaciones de sensores.
+##### Valores: Pending (Pendiente), InProgress (En ejecución), Completed (Finalizado)
+
