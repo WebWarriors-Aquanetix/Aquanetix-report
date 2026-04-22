@@ -11,34 +11,34 @@ El desarrollo estructural de nuestra plataforma se fundamenta estrictamente en e
 #### Clase: Enterprise
 Descripción: Representa a las organizaciones registradas en el sistema (EPS, Operadores de Residuos, Entidades Reguladoras). Es la raíz (Aggregate Root) que agrupa a usuarios, sensores y flota.
 Atributos:
->* + Id : int - Identificador único de la empresa.
->* + Name : String - Nombre legal o razón social.
->* + TaxId_RUC : String - Registro Único de Contribuyente.
+>* Id : int - Identificador único de la empresa.
+>* Name : String - Nombre legal o razón social.
+>* TaxId_RUC : String - Registro Único de Contribuyente.
 Métodos:
->* + CalculateFootprint() : decimal - Calcula la huella hídrica total consolidando los datos operativos.
->* + UpgradePlan(newPlan: SubscriptionPlan) : void - Actualiza el plan de suscripción de la empresa.
+>* CalculateFootprint() : decimal - Calcula la huella hídrica total consolidando los datos operativos.
+>* UpgradePlan(newPlan: SubscriptionPlan) : void - Actualiza el plan de suscripción de la empresa.
 #### Clase: User
 Descripción: Entidad que representa a los actores que interactúan con el sistema (Ingenieros, Auditores, Administradores).
 Atributos:
->* + Id : int - Identificador único.
->* + FullName : String - Nombre completo del usuario.
->* + Email : String - Correo corporativo (usado para inicio de sesión).
->* - PasswordHash : String - Contraseña encriptada (Privado por seguridad).
->* + UserRole : Role - Enumeración que define los permisos del usuario.
+>* Id : int - Identificador único.
+>* FullName : String - Nombre completo del usuario.
+>* Email : String - Correo corporativo (usado para inicio de sesión).
+>* PasswordHash : String - Contraseña encriptada (Privado por seguridad).
+>* UserRole : Role - Enumeración que define los permisos del usuario.
 Métodos:
->* + Authenticate(password: String) : bool - Valida las credenciales de acceso.
+>* Authenticate(password: String) : bool - Valida las credenciales de acceso.
 UpdateLastLogin() : void - Registra la marca de tiempo del último acceso (Protegido).
 
 #### Clase: Sensor
 Descripción: Representa los dispositivos IoT físicos instalados en campo (pozas, tuberías) que miden variables en tiempo real.
 Atributos:
->* + Id : int - Identificador único.
->* + Location : String - Ubicación física del sensor.
+>* Id : int - Identificador único.
+>* Location : String - Ubicación física del sensor.
 >* IsActive : bool - Indica si el sensor está transmitiendo actualmente.
->* + Type : SensorType - Enumeración (Flujo, Ultrasonido, Turbidez).
+>* Type : SensorType - Enumeración (Flujo, Ultrasonido, Turbidez).
 Métodos:
->* + RecordData(value: decimal) : TelemetryData - Recibe y persiste un nuevo dato de medición.
->* - TriggerAlert(severity: AlertSeverity) : Alert - Genera una alerta interna si se supera un umbral (Privado).
+>* RecordData(value: decimal) : TelemetryData - Recibe y persiste un nuevo dato de medición.
+>* TriggerAlert(severity: AlertSeverity) : Alert - Genera una alerta interna si se supera un umbral (Privado).
   
 #### Clase: Alert
 Descripción: Almacena los eventos anómalos o críticos detectados por el sistema que requieren atención del Ingeniero Operativo.
@@ -53,19 +53,19 @@ Métodos:
 #### Clase: WaterLog
 Descripción: Entidad encargada de registrar los ingresos de agua (cisternas o red pública) para el control de la huella hídrica y la sostenibilidad financiera.
 Atributos:
->* + Id : int - Identificador del registro.
->* + VolumeLiters : decimal - Cantidad de agua ingresada al sistema.
->* + TotalCost : decimal - Costo monetario de la compra de agua (en Soles).
->* + Source : String - Origen del recurso hídrico.
+>* Id : int - Identificador del registro.
+>* VolumeLiters : decimal - Cantidad de agua ingresada al sistema.
+>* TotalCost : decimal - Costo monetario de la compra de agua (en Soles).
+>* Source : String - Origen del recurso hídrico.
 Métodos:
->* + CalculateCostPerLiter() : decimal - Devuelve el costo unitario para generar métricas de eficiencia.
+>* CalculateCostPerLiter() : decimal - Devuelve el costo unitario para generar métricas de eficiencia.
 
 #### Clase: MaintenanceTask
 Descripción: Gestiona las tareas operativas asignadas a la flota logística (Ej. Lavado de camiones).
 Atributos:
->* + Id : int - Identificador de la tarea.
->* + Description : String - Detalle del mantenimiento.
->* + ScheduledDate : DateTime - Fecha programada de ejecución.
->* + Status : TaskStatus - Estado de la tarea (Pendiente, En Progreso, Completado).
+>* Id : int - Identificador de la tarea.
+>* Description : String - Detalle del mantenimiento.
+>* ScheduledDate : DateTime - Fecha programada de ejecución.
+>* Status : TaskStatus - Estado de la tarea (Pendiente, En Progreso, Completado).
 Métodos:
->* + CompleteTask() : void - Marca la tarea como finalizada y actualiza el estado del vehículo asociado.
+>* CompleteTask() : void - Marca la tarea como finalizada y actualiza el estado del vehículo asociado.
