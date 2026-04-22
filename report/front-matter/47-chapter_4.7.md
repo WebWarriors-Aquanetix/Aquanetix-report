@@ -4,4 +4,6 @@ El desarrollo estructural de nuestra plataforma se fundamenta estrictamente en e
 
 ### 4.7.1. Class Diagrams
 
+<div align="center"><img src="/report/assets/c4_diagrams/Diagrama_de_clases.png" width ="100%"></div>
+
 ### 4.7.2. Class Dictionary
