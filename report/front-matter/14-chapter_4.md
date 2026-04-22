@@ -96,7 +96,8 @@ El mockup de la landing page de Aquanetix presenta un diseño limpio y estructur
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
 
