@@ -105,18 +105,18 @@ Descripción: Contrato que define la estructura para servicios externos (como Se
 >* RegisterDeviceToken(token: String) : void - Registra el token del dispositivo móvil para habilitar notificaciones push.
 
 #### Enumeración: Role
-##### Descripción: Define los niveles de acceso y autorización dentro de la plataforma Aquanetix.
-##### Valores: Admin, Engineer, Auditor.
+>* Descripción: Define los niveles de acceso y autorización dentro de la plataforma Aquanetix.
+>* Valores: Admin, Engineer, Auditor.
 
 #### Enumeración: SensorType
-##### Descripción: Clasifica el tipo de hardware IoT desplegado en la infraestructura.
-##### Valores: Ultrasonic (medición de nivel en pozas), Flow (caudal en tuberías), Turbidity (calidad del agua).
+>* Descripción: Clasifica el tipo de hardware IoT desplegado en la infraestructura.
+>* Valores: Ultrasonic (medición de nivel en pozas), Flow (caudal en tuberías), Turbidity (calidad del agua).
 
 #### Enumeración: AlertSeverity
-##### Descripción: Categoriza el nivel de urgencia de las incidencias operativas.
-##### Valores: Low, Medium, Critical.
+>* Descripción: Categoriza el nivel de urgencia de las incidencias operativas.
+>* Valores: Low, Medium, Critical.
 
 #### Enumeración: TaskStatus
-##### Descripción: Controla el ciclo de vida de los mantenimientos vehiculares y reparaciones de sensores.
-##### Valores: Pending (Pendiente), InProgress (En ejecución), Completed (Finalizado)
+>* Descripción: Controla el ciclo de vida de los mantenimientos vehiculares y reparaciones de sensores.
+>* Valores: Pending (Pendiente), InProgress (En ejecución), Completed (Finalizado)
 
