@@ -151,5 +151,78 @@ Historial de commits en la rama develop del repositorio, evidenciando el uso de 
 
 La evidencia mostrada refleja el uso adecuado de Conventional Commits, así como la participación activa de los integrantes del equipo en el desarrollo del proyecto.
 
-### 5.1.3. Source Code Style Guide & Conventions.
+## 5.1.3 Source Code Style Guide & Conventions
+
+Con el objetivo de garantizar la consistencia, legibilidad y mantenibilidad del proyecto, el equipo definió una guía de estilo basada en las tecnologías actualmente utilizadas en el desarrollo de la Landing Page.
+
+Esta guía establece estándares que permiten mantener un código limpio, organizado y comprensible para todos los integrantes del equipo.
+
+### HTML
+
+Para la estructura del documento HTML se establecieron las siguientes convenciones:
+
+- Uso de etiquetas en minúsculas (lowercase)
+- Correcto cierre de todos los elementos HTML
+- Uso de etiquetas semánticas como `header`, `nav`, `main`, `section` y `footer`
+- Inclusión de atributos `alt` en imágenes para mejorar la accesibilidad
+- Estructuración jerárquica del contenido
+
+Ejemplo:
+
+```html
+<section>
+  <h1>Inteligencia Hídrica</h1>
+  <p>Monitoreo en tiempo real</p>
+</section>
+```
+
+### CSS
+
+Para los estilos del sistema se definieron las siguientes convenciones:
+
+- Uso de kebab-case para nombres de clases
+- Nombres descriptivos según la funcionalidad del elemento
+- Reutilización de clases para evitar duplicidad
+- Separación de estilos en archivos independientes
+- Organización de estilos personalizados en archivos CSS dedicados
+Ejemplo:
+
+```css
+.water-shadow {
+  box-shadow: 0 12px 32px rgba(0, 50, 125, 0.06);
+}
+```
+
+### Uso de Tailwind CSS
+
+Se empleó Tailwind CSS como framework de estilos utilitarios, permitiendo:
+
+- Construcción rápida de interfaces  
+- Diseño responsive  
+- Consistencia visual en los componentes  
+
+El uso de clases utilitarias permite reducir la cantidad de código CSS personalizado y mejorar la mantenibilidad del proyecto.
+
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección se especifica la configuración y los pasos necesarios para el despliegue de los productos digitales de la solución Aquanetix. El despliegue se ha automatizado para garantizar que los cambios realizados en los repositorios de código fuente se reflejen de manera satisfactoria en los entornos de producción.
+
+## Despliegue de la Landing Page
+
+1. Se creo el repositorio en Github en la organizacion del equipo WebWarriors, coloco que sea de manera publica
+
+<p align="center">
+  <img src="../assets/development_environment/repoLanding.jpeg" width="700"/>
+</p>
+
+2. Publicación Directa: El código fuente desarrollado en VS Code fue sincronizado directamente con la rama main mediante comandos de Git.
+
+<p align="center">
+  <img src="../assets/development_environment/commitLanding.jpeg" width="700"/>
+</p>
+
+3. Hosting: La visualización del producto se gestiona a través de la infraestructura de GitHub, asegurando que el HTML y los estilos de Tailwind CSS sean accesibles de forma pública una vez realizado el push de los archivos.
+
+<p align="center">
+  <img src="../assets/development_environment/structureLanding.png" width="700"/>
+</p>
