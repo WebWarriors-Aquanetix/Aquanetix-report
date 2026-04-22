@@ -107,6 +107,15 @@ Los Wireflow Diagrams de la aplicación web representan de manera visual los flu
 <div align="center"><img src="/report/assets/web_applications/Web Applications Mock-ups.png" width ="100%"></div>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+#### User Flow 1: Monitoreo del sistema
+<div align="center"><img src="/report/assets/web_applications/User Flow 1.png" width ="100%"></div>
+
+#### User Flow 2: Gestión de alertas
+<div align="center"><img src="/report/assets/web_applications/User Flows 2.png" width ="100%"></div>
+
+#### User Flow 3: Configuración de umbrales
+<div align="center"><img src="/report/assets/web_applications/User Flows 3.png" width ="100%"></div>
+
 
 ## 4.5. Web Applications Prototyping
 
