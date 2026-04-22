@@ -24,7 +24,7 @@ Herramienta utilizada para la elaboración de entregables UX como user personas,
 [UXPressia](https://uxpressia.com/)
 
 <p align="center">
-  <img src="../assets/development_environment/Uxpressia.png" width="500"/>
+  <img src="../assets/development_environment/Uxpressia.png"/>
 </p>
 
 ### Miro
@@ -34,7 +34,7 @@ Plataforma empleada para la organización de ideas, diagramas, brainstorming y p
 [Miro](https://miro.com/)
 
 <p align="center">
-  <img src="../assets/development_environment/Miro.png" width="500"/>
+  <img src="../assets/development_environment/Miro.png"/>
 </p>
 
 ### Figma
@@ -44,7 +44,7 @@ La herramienta empleada para la organización de ideas, diagramas, brainstorming
 [Figma](https://www.figma.com/)
 
 <p align="center">
-  <img src="../assets/development_environment/Figma.png" width="500"/>
+  <img src="../assets/development_environment/Figma.png"/>
 </p>
 
 ### VSCode
@@ -54,7 +54,7 @@ Permitió trabajar de manera eficiente con archivos HTML, CSS y JavaScript, faci
 [VSCode](https://code.visualstudio.com/)
 
 <p align="center">
-  <img src="../assets/development_environment/VSCode.png" width="500"/>
+  <img src="../assets/development_environment/VSCode.png"/>
 </p>
 
 ### Meet
@@ -64,7 +64,7 @@ Herramienta de comunicación utilizada para la coordinación del equipo durante 
 [Meet](https://meet.google.com/)
 
 <p align="center">
-  <img src="../assets/development_environment/Meet.png" width="500"/>
+  <img src="../assets/development_environment/Meet.png"/>
 </p>
 
 
@@ -74,8 +74,8 @@ La gestión del código fuente del proyecto se realizó mediante la plataforma G
 
 El proyecto cuenta con dos repositorios principales:
 
-- Repositorio del informe (documentación): https://github.com/NicoCSE/Aquanetix-report  
-- Repositorio de la Landing Page: https://github.com/NicoCSE/Landing-Page-Aquanetix
+- **Repositorio del informe (documentación)**: https://github.com/NicoCSE/Aquanetix-report  
+- **Repositorio de la Landing Page**: https://github.com/NicoCSE/Landing-Page-Aquanetix
 
 En el repositorio del informe se gestionaron todos los avances relacionados a la documentación del proyecto, mientras que en el repositorio de la Landing Page se desarrolló la parte visual y funcional del producto.
 
@@ -96,10 +96,10 @@ La rama develop fue utilizada como base para el desarrollo continuo del proyecto
 Se estableció la siguiente convención para la creación de ramas:
 
 <p align="center">
-  <img src="../assets/development_environment/github-branches.png" width="700"/>
+  <img src="../assets/development_environment/github-branches.png"/>
 </p>
 
-- Feature branches:  
+- **Feature branches**:  
   feature/nombre-funcionalidad  
 
 Ejemplos reales del proyecto:
@@ -114,17 +114,17 @@ Estas ramas permiten desarrollar funcionalidades o secciones de manera independi
 
 ### Semantic Versioning
 
-Para el control de versiones del proyecto se adoptó el uso de Semantic Versioning (SemVer), siguiendo la estructura:
+Para el control de versiones del proyecto se adoptará el uso de Semantic Versioning (SemVer), siguiendo la estructura:
 
-vMAJOR.MINOR.PATCH
+**vMAJOR.MINOR.PATCH**
 
 Donde:
-- MAJOR: cambios importantes o incompatibles  
-- MINOR: nuevas funcionalidades  
-- PATCH: corrección de errores  
+- **MAJOR**: cambios importantes o incompatibles  
+- **MINOR**: nuevas funcionalidades  
+- **PATCH**: corrección de errores  
 
 Ejemplo:
-v1.0.0  
+**v1.0.0**  
 
 Esto permite mantener un control claro sobre la evolución del proyecto.
 
@@ -133,7 +133,7 @@ Esto permite mantener un control claro sobre la evolución del proyecto.
 Para estandarizar los mensajes de commits, se aplicó la convención de Conventional Commits, lo que permitió mejorar la organización y trazabilidad del repositorio.
 
 <p align="center">
-  <img src="../assets/development_environment/GitFlow.png" width="700"/>
+  <img src="../assets/development_environment/GitFlow.png"/>
 </p>
 
 <p align="center">
@@ -151,10 +151,10 @@ Los tipos de commits utilizados fueron:
 
 Ejemplos reales del proyecto:
 
-feat: add section 5.1 software configuration management with images  
-docs: add development environment images  
-fix: correct image path in markdown  
-chore: update repository structure  
+- **feat**: add section 5.1 software configuration management with images  
+- **docs**: add development environment images  
+- **fix**: correct image path in markdown  
+- **chore**: update repository structure  
 
 El uso de estas convenciones permitió identificar fácilmente el tipo de cambio realizado en cada commit y mejorar la colaboración entre los integrantes del equipo.
 
@@ -211,6 +211,17 @@ Se empleó Tailwind CSS como framework de estilos utilitarios, permitiendo:
 El uso de clases utilitarias permite reducir la cantidad de código CSS personalizado y mejorar la mantenibilidad del proyecto.
 
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección se especifica la configuración y los pasos necesarios para el despliegue de los productos digitales de la solución Aquanetix. El despliegue se ha automatizado para garantizar que los cambios realizados en los repositorios de código fuente se reflejen de manera satisfactoria en los entornos de producción.
+
+## Despliegue de la Landing Page
+
+1. Se creo el repositorio en Github en la organizacion del equipo WebWarriors, coloco que sea de manera publica
+
+2. Publicación Directa: El código fuente desarrollado en VS Code fue sincronizado directamente con la rama main mediante comandos de Git.
+
+3. Hosting: La visualización del producto se gestiona a través de la infraestructura de GitHub, asegurando que el HTML y los estilos de Tailwind CSS sean accesibles de forma pública una vez realizado el push de los archivos.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1.
