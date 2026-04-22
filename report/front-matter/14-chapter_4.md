@@ -83,7 +83,7 @@ El wireframe de la landing page de Aquanetix organiza los elementos principales 
 <div align="center"><img src="/report/assets/LandingPage/Web Browser Wireframe.png" width ="400" height="700"></div>
 
 #### Mobile Browser Wireframe
-<div align="center"><img src="/report/assets/LandingPage/Mobile Browser Wireframe.png" width ="400" height="700"></div>
+<div align="center"><img src="/report/assets/LandingPage/Mobile Browser Wireframe.png" width ="300" height="700"></div>
 
 ### 4.3.2. Landing Page Mock-up
 El mockup de la landing page de Aquanetix presenta un diseño limpio y estructurado, basado en los wireframes definidos previamente. Se destacan la propuesta de valor, las funcionalidades del sistema y los beneficios mediante el uso de jerarquía visual, colores y componentes como botones y tarjetas informativas. La interfaz mantiene una organización clara tanto en desktop como en mobile, facilitando la navegación del usuario. El diseño está orientado a comunicar de manera efectiva la solución tecnológica y motivar la interacción mediante una llamada a la acción.
@@ -91,7 +91,7 @@ El mockup de la landing page de Aquanetix presenta un diseño limpio y estructur
 <div align="center"><img src="/report/assets/LandingPage/Web Browser Mock-Up.png" width ="400" height="700"></div>
 
 #### Mobile Browser Mock-up
-<div align="center"><img src="/report/assets/LandingPage/Mobile Browser Mock-Up.png" width ="400" height="700"></div>
+<div align="center"><img src="/report/assets/LandingPage/Moblie Browser Mock-Up.png" width ="300" height="700"></div>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
