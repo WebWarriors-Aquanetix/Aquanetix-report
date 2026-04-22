@@ -67,5 +67,5 @@ Descripción: Gestiona las tareas operativas asignadas a la flota logística (Ej
 >* Description : String - Detalle del mantenimiento.
 >* ScheduledDate : DateTime - Fecha programada de ejecución.
 >* Status : TaskStatus - Estado de la tarea (Pendiente, En Progreso, Completado).
-###### Métodos:
+##### Métodos:
 >* CompleteTask() : void - Marca la tarea como finalizada y actualiza el estado del vehículo asociado.
