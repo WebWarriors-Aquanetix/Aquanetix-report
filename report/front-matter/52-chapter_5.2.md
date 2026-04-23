@@ -120,3 +120,7 @@ Por lo tanto, en esta fase no se cuenta con documentación de Web Services, ya q
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa ycontinua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+<p align = "left">
+   <img src="/report/assets/insights/Team Collaboration Insights.jpg">
+</p>
