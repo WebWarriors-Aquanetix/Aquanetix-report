@@ -13,6 +13,8 @@ https://www.gob.pe/institucion/inei/informes-publicaciones/4985657-peru-formas-d
 https://www.gob.pe/institucion/inei/informes-publicaciones/6313803-peru-formas-de-acceso-al-agua-y-saneamiento-basico-nro-11
 -	Mastercard Center for Inclusive Growth. (2018). Opportunity assessment: Inclusive waste management in Peru.
 https://www.mastercardcenter.org/pdfs/Inclusive-Waste-Mgmt-in-Peru-March-2018.pdf
+- Ministerio del Ambiente. (2023). Informe anual sobre la gestión integral de residuos sólidos en el Perú.
+https://smia.munlima.gob.pe/uploads/documento/fe96a5333aedc2fd.pdf
 -	Molpack. (2025, 2 de noviembre). Recycling in Peru: A stretch to go with steps already taken.
 https://molpack.net/en/recycling-in-peru-a-stretch-to-go-with-steps-already-taken/
 -	Organismo de Evaluación y Fiscalización Ambiental (OEFA). (2024). OEFA puede sancionar hasta con más de S/ 128 millones de soles a administrados que contaminen el aire [Nota de prensa].
