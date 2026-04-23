@@ -10,3 +10,4 @@ Para la entrega del avance 1, se procede a mostrar el análiss de colaboración,
 
 La siguiente imagen representa todos los commits realizados en el repositorio a lo largo del mes de Marzo y Abril
 
+<div align="center"><img src="/report/assets/github/group commits.png" width ="100%"></div>
