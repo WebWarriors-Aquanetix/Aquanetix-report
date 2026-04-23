@@ -127,8 +127,9 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
-En el alcance del presente Sprint, no se han implementado servicios web ni endpoints documentados con OpenAPI, debido a que el desarrollo del proyecto se ha centrado en el diseño de la interfaz, la elaboración de wireframes, mockups y la construcción del prototipo interactivo.
-Por lo tanto, en esta fase no se cuenta con documentación de Web Services, ya que estos serán considerados en Sprints posteriores donde se aborde la implementación técnica del sistema.
+
+En el alcance del presente Sprint, no se han implementado servicios web ni endpoints documentados con OpenAPI, debido a que el desarrollo del proyecto se ha centrado principalmente en la construcción de la landing page estática y en el diseño del prototipo de la aplicación.
+Por lo tanto, en esta fase no se cuenta con documentación de Web Services, ya que estos serán considerados en Sprints posteriores, donde se abordará la implementación técnica del sistema y la integración de servicios backend.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
