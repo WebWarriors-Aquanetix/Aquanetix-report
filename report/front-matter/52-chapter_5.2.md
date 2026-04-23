@@ -6,6 +6,8 @@ El primer sprint de nuestro proyecto posee una gran importancia en lo que refier
 
 #### 5.2.1.1. Sprint Planning 1.
 
+Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra velocidad previa y definir las nuevas metas técnicas del proyecto. En esta fase, el equipo selecciona las historias de usuario prioritarias del backlog, estima el esfuerzo necesario y asigna las tareas. El objetivo principal es mantener la alineación del equipo y garantizar que las nuevas funcionalidades operativas se integren de manera fluida, estableciendo un plan de trabajo claro.
+
 | Campo / Sección | Detalle |
 | :--- | :--- |
 | Sprint # | Sprint 1 |
