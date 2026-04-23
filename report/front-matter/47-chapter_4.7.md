@@ -4,7 +4,7 @@ El desarrollo estructural de nuestra plataforma se fundamenta estrictamente en e
 
 ### 4.7.1. Class Diagrams
 
-<div align="center"><img src="/report/assets/c4_diagrams/Diagrama_de_clases.png" width ="100%"></div>
+<div align="center"><img src="/report/assets/c4_diagrams/Diagrama_de_clase.png" width ="100%"></div>
 
 ### 4.7.2. Class Dictionary
 
@@ -60,16 +60,6 @@ Descripción: Entidad encargada de registrar los ingresos de agua (cisternas o r
 ##### Métodos:
 >* CalculateCostPerLiter() : decimal - Devuelve el costo unitario para generar métricas de eficiencia.
 
-#### Clase: MaintenanceTask
-Descripción: Gestiona las tareas operativas asignadas a la flota logística (Ej. Lavado de camiones).
-##### Atributos:
->* Id : int - Identificador de la tarea.
->* Description : String - Detalle del mantenimiento.
->* ScheduledDate : DateTime - Fecha programada de ejecución.
->* Status : TaskStatus - Estado de la tarea (Pendiente, En Progreso, Completado).
-##### Métodos:
->* CompleteTask() : void - Marca la tarea como finalizada y actualiza el estado del vehículo asociado.
-
 #### Clase: SubscriptionPlan
 Descripción: Define los planes comerciales que determinan los límites operativos y costos para las empresas suscritas al sistema.
 ##### Atributos:
@@ -80,15 +70,6 @@ Descripción: Define los planes comerciales que determinan los límites operativ
 ##### Métodos:
 >* VerifyLimit(currentSensors: int) : bool - Valida si la empresa puede registrar un sensor nuevo según su plan actual.
   
-#### Clase: Vehicle
-Descripción: Representa a los camiones compactadores o cisternas que forman parte de la flota logística de la empresa.
-##### Atributos:
->* Id : int - Identificador único del vehículo.
->* LicensePlate : String - Placa de rodaje del vehículo.
->* Model : String - Marca y modelo del camión.
-##### Métodos:
->* AssignMaintenance(task: MaintenanceTask) : void - Vincula una nueva tarea de mantenimiento preventivo al vehículo.
-  
 #### Clase: TelemetryData
 Descripción: Almacena el historial continuo de lecturas enviadas por los sensores IoT en campo. Es una entidad de alto volumen de datos.
 ##### Atributos:
@@ -97,7 +78,7 @@ Descripción: Almacena el historial continuo de lecturas enviadas por los sensor
 >* Timestamp : DateTime - Fecha y hora exacta en la que el sensor capturó el dato.
 ##### Métodos:
 >* ExportToCsv() : String - Genera un volcado de datos en formato CSV para que los auditores procesen la información externamente.
-
+  
 #### Interfaz: IAlertNotifier
 Descripción: Contrato que define la estructura para servicios externos (como SendGrid o Twilio) encargados de enviar notificaciones push, SMS o correos electrónicos.
 ##### Métodos:
@@ -115,8 +96,4 @@ Descripción: Contrato que define la estructura para servicios externos (como Se
 #### Enumeración: AlertSeverity
 >* Descripción: Categoriza el nivel de urgencia de las incidencias operativas.
 >* Valores: Low, Medium, Critical.
-
-#### Enumeración: TaskStatus
->* Descripción: Controla el ciclo de vida de los mantenimientos vehiculares y reparaciones de sensores.
->* Valores: Pending (Pendiente), InProgress (En ejecución), Completed (Finalizado)
 
