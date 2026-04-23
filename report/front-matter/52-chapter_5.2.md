@@ -36,69 +36,21 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 | Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | L | C | C | C |
 | Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
 
-#### 5.2.1.3. Sprint Backlog 1.
+#### 5.2.1.3 Sprint Backlog 1
 
-<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center;">
-  
-  <!-- Sprint -->
-  <tr>
-    <th>Sprint #</th>
-    <td colspan="7">Sprint n</td>
-  </tr>
+El objetivo del presente Sprint fue el diseño y desarrollo de la landing page del sistema Aquanetix, enfocándose en la comunicación efectiva de la propuesta de valor, la presentación de funcionalidades clave y la facilitación del contacto con potenciales usuarios.
 
-  <!-- Encabezados principales -->
-  <tr>
-    <th colspan="2">User Story</th>
-    <th colspan="6">Work-Item / Task</th>
-  </tr>
+Durante este Sprint, el equipo trabajó de manera colaborativa en la construcción de las diferentes secciones de la landing page, asegurando una experiencia de usuario clara, intuitiva y alineada con los objetivos del sistema.
 
-  <!-- Subencabezados -->
-  <tr>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimation (Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / In-Process / To-Review / Done)</th>
-  </tr>
+A continuación, se detallan las User Stories priorizadas y las tareas asociadas:
 
-  <!-- Filas de ejemplo -->
-  <tr>
-    <td>US-01</td>
-    <td>Lorem Ipsum</td>
-    <td>T-01</td>
-    <td>Diseñar UI</td>
-    <td>Crear interfaz de login</td>
-    <td>4</td>
-    <td>Arturo</td>
-    <td>To-do</td>
-  </tr>
-
-  <tr>
-    <td>US-01</td>
-    <td>Lorem Ipsum</td>
-    <td>T-02</td>
-    <td>Validación backend</td>
-    <td>Implementar autenticación</td>
-    <td>6</td>
-    <td>Jorge</td>
-    <td>In-Process</td>
-  </tr>
-
-  <tr>
-    <td>US-02</td>
-    <td>Lorem Ipsum</td>
-    <td>T-03</td>
-    <td>Formulario registro</td>
-    <td>Crear formulario</td>
-    <td>5</td>
-    <td>Arturo</td>
-    <td>Done</td>
-  </tr>
-
-</table>
+| US Id | Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|------|------|--------|------------|------------|-------------------|-------------|--------|
+| US-35 | Product value visualization | T-01 | Landing page structure | Diseño e implementación de la estructura general y sección principal (hero) de la landing page | 6 | Sebastián Pinedo | Done |
+| US-36 | System features visualization | T-02 | Features section development | Diseño y desarrollo de la sección de funcionalidades destacando las capacidades del sistema | 5 | Sebastián Cochachi | Done |
+| US-37 | Contact information access | T-03 | Contact and CTA section | Implementación de sección de contacto y botones de llamada a la acción | 4 | Nicolás Castro | Done |
+| US-35 | Product value visualization | T-04 | Content definition and UX writing | Definición del contenido textual y estructura comunicativa de la landing | 4 | Leonardo Cabrera | Done |
+| US-36 | System features visualization | T-05 | Visual design elements | Diseño de elementos visuales y apoyo gráfico para mejorar la experiencia de usuario | 4 | Renzo Bojórquez | In-Process |
 
 #### 5.2.1.4 Development Evidence for Sprint Review
 
