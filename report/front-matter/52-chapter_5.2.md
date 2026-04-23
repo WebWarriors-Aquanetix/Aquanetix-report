@@ -22,7 +22,7 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
 | Sum of Story Points | 26 |
 
-### 5.2.1.2 Aspect Leaders and Collaborators
+#### 5.2.1.2 Aspect Leaders and Collaborators
 
 En esta sección se presenta la matriz de liderazgo y colaboración (LACX), donde se definen los roles de cada integrante del equipo en los distintos aspectos considerados dentro del Sprint.
 
@@ -36,7 +36,7 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 | Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | L | C | C | C |
 | Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
 
-### 5.2.1.3. Sprint Backlog 1.
+#### 5.2.1.3. Sprint Backlog 1.
 
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center;">
   
@@ -100,7 +100,7 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 
 </table>
 
-### 5.2.1.4 Development Evidence for Sprint Review
+#### 5.2.1.4 Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
@@ -112,7 +112,7 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-### 5.2.1.6 Services Documentation Evidence for Sprint Review
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
 En el alcance del presente Sprint, no se han implementado servicios web ni endpoints documentados con OpenAPI, debido a que el desarrollo del proyecto se ha centrado principalmente en la construcción de la landing page estática y en el diseño del prototipo de la aplicación.
 Por lo tanto, en esta fase no se cuenta con documentación de Web Services, ya que estos serán considerados en Sprints posteriores, donde se abordará la implementación técnica del sistema y la integración de servicios backend.
