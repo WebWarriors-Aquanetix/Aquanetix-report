@@ -62,7 +62,43 @@ A continuación, se detallan las User Stories priorizadas y las tareas asociadas
 | aquanetix-repo | develop | 73157436b4d739e7e78aa21fb0a791de3101dc81 | fix: update repository links |  | 21/04/2026 |
 | aquanetix-repo | develop | 68a41d56032b2c50eb7a681cc9581219c6923cd7 | docs: add web app mockups |  | 22/04/2026 |
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5 Execution Evidence for Sprint Review
+
+En esta sección se presentan evidencias de la ejecución de la landing page desarrollada durante el Sprint.
+
+Las siguientes capturas muestran la interacción del usuario con las diferentes secciones de la landing page, permitiendo validar la estructura de información, la propuesta de valor y la navegación definida para el sistema Aquanetix.
+
+**Figura 1. Sección principal de la landing page**
+
+<div align="center">
+  <img src="/report/assets/LandingPage/Landing1.png">
+</div>
+
+**Figura 2. Sección informativa de la landing page**
+
+<div align="center">
+  <img src="/report/assets/LandingPage/Landing2.png">
+</div>
+
+En esta sección se describe el problema abordado y la solución propuesta por el sistema, permitiendo al usuario comprender el propósito y beneficios del servicio.
+
+**Figura 3. Sección de funcionalidades**
+
+<div align="center">
+  <img src="/report/assets/LandingPage/Landing3.png">
+</div>
+
+La figura muestra las principales funcionalidades del sistema, destacando las capacidades de monitoreo, gestión de alertas y análisis de datos.
+
+**Figura 4. Sección final y llamado a la acción**
+
+<div align="center">
+  <img src="/report/assets/LandingPage/Landing4.png">
+</div>
+
+En esta sección final se incluye un llamado a la acción que invita al usuario a interactuar con el sistema, junto con información adicional relevante.
+
+La figura muestra la sección principal de la landing page, donde se presenta la propuesta de valor del sistema Aquanetix junto con un llamado a la acción dirigido al usuario.
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
