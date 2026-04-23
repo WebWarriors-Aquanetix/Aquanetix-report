@@ -9,9 +9,9 @@ El primer sprint de nuestro proyecto posee una gran importancia en lo que refier
 | Campo / Sección | Detalle |
 | :--- | :--- |
 | Sprint # | Sprint 1 |
-| Date | 2024-04-10 |
+| Date | 2026-04-22 |
 | Time | 11:00 PM |
-| Location | Microsoft Teams (Reunión virtual) |
+| Location | Google meet |
 | Prepared By | Bojórquez Bustinza, Renzo Alejandro |
 | Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
 | Sprint 1 – 1 Review Summary | Al ser el primer sprint del proyecto (Fase de Inicio), no hay un Review de entregables previos. Se revisaron los requisitos del Trabajo Parcial (TB1), estableciendo como prioridad el diseño de la arquitectura base, la base de datos, además de los flujos de registro de empresas. |
