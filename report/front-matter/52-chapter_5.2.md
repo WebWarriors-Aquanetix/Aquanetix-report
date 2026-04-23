@@ -75,6 +75,7 @@ Las siguientes capturas muestran la interacción del usuario con las diferentes 
 </div>
 La figura muestra la sección principal de la landing page, donde se presenta la propuesta de valor del sistema Aquanetix junto con un llamado a la acción dirigido al usuario.
 
+
 **Figura 2. Sección informativa de la landing page**
 
 <div align="center">
