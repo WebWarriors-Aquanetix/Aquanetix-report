@@ -14,7 +14,7 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Date | 2026-04-22 |
 | Time | 9:00 PM |
 | Location | Google meet |
-| Prepared By | Bojórquez Bustinza, Renzo Alejandro |
+| Prepared By | Castro Solorza, Nicolas Eduardo |
 | Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
 | Sprint 1  Review Summary | Al ser el primer sprint del proyecto (Fase de Inicio), no hay un Review de entregables previos. Se revisaron los requisitos del Primer Entregable (TB1), estableciendo como prioridad el diseño de la arquitectura base, diseño de base de datos, además de los flujos de registro de empresas. |
 | Sprint 1  Retrospective Summary | De igual manera al ser el inicio del proyecto, se establecieron las normas de trabajo del equipo: reuniones de seguimiento (Daily Stand-ups) mediante Meet, uso de herramientas ágiles para el control de tareas, sumado a la necesidad de mantener una comunicación constante para evitar bloqueos técnicos en el desarrollo del backend. |
