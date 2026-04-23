@@ -22,36 +22,19 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
 | Sum of Story Points | 26 |
 
-### 5.2.1.2. Aspect Leaders and Collaborators.
+### 5.2.1.2 Aspect Leaders and Collaborators
 
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <th>Team Member (Last Name, First Name)</th>
-    <th>GitHub Username</th>
-    <th>Aspect Name 1<br>Leader (L) / Collaborator (C)</th>
-    <th>Aspect Name 2<br>Leader (L) / Collaborator (C)</th>
-    <th>...</th>
-    <th>Aspect Name n<br>Leader (L) / Collaborator (C)</th>
-  </tr>
+En esta sección se presenta la matriz de liderazgo y colaboración (LACX), donde se definen los roles de cada integrante del equipo en los distintos aspectos considerados dentro del Sprint.
 
-  <tr>
-    <td>Jiménez Rosas, Arturo Eduardo</td>
-    <td>ajimenezrosas</td>
-    <td>L</td>
-    <td>C</td>
-    <td>...</td>
-    <td></td>
-  </tr>
+Los aspectos seleccionados corresponden a las principales áreas del proyecto Aquanetix, incluyendo diseño UX/UI, desarrollo de la landing page, documentación y modelado del sistema.
 
-  <tr>
-    <td>Rodríguez Peña, Jorge Andrés</td>
-    <td>Japr91</td>
-    <td>C</td>
-    <td>C</td>
-    <td>...</td>
-    <td>L</td>
-  </tr>
-</table>
+| Team Member (Last Name, First Name) | GitHub Username | UX/UI Design | Landing Page | Documentation | Modeling |
+|------------------------------------|----------------|-------------|-------------|--------------|----------|
+| Bojórquez Bustinza, Renzo Alejandro | DeterminedSoul7 | C | C | C | L |
+| Cabrera Novoa, Leonardo Moisés | u202415820 | C | C | C | C |
+| Castro Solorza, Nicolás Eduardo | NicoCSE | C | L | L | C |
+| Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | L | C | C | C |
+| Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
 
 ### 5.2.1.3. Sprint Backlog 1.
 
