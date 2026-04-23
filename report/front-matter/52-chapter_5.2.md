@@ -5,6 +5,21 @@ El desarrollo de la pagina principal, acoplamiento de servicios e implementació
 El primer sprint de nuestro proyecto posee una gran importancia en lo que refiere al proceso de desarrollo ágil. A lo largo de este periodo, se ha dado un enfoque con mayor énfasis en la implementación de las caracetericas fundamentales así como en las funcionalidades de mayor prioridad en nuestra planificación de inicio.
 
 #### 5.2.1.1. Sprint Planning 1.
+
+| Campo / Sección | Detalle |
+| :--- | :--- |
+| Sprint # | Sprint 1 |
+| Date | 2024-04-10 |
+| Time | 11:00 PM |
+| Location | Microsoft Teams (Reunión virtual) |
+| Prepared By | Bojórquez Bustinza, Renzo Alejandro |
+| Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
+| Sprint 1 – 1 Review Summary | Al ser el primer sprint del proyecto (Fase de Inicio), no hay un Review de entregables previos. Se revisaron los requisitos del Trabajo Parcial (TB1), estableciendo como prioridad el diseño de la arquitectura base, la base de datos, además de los flujos de registro de empresas. |
+| Sprint 1 – 1 Retrospective Summary | De igual manera al ser el inicio del proyecto, se establecieron las normas de trabajo del equipo: reuniones de seguimiento (Daily Stand-ups) mediante Discord, uso de herramientas ágiles para el control de tareas, sumado a la necesidad de mantener una comunicación constante para evitar bloqueos técnicos en el desarrollo del backend. |
+| Sprint 1 Goal | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Establecer la arquitectura base del backend en C#, desplegar el esquema de la base de datos relacional, configurar el registro de clientes (Enterprise) junto con la seguridad (Login). La métrica de cumplimiento se basará en el proceso de cómo nuestro "Board de Trello" luzca con el paso del tiempo, nuestro resultado final debe de mostrar todas las tareas en el lado derecho de la herramienta, ubicándolos en la columna "Terminado". |
+| Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
+| Sum of Story Points | 26 |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
