@@ -22,9 +22,125 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
 | Sum of Story Points | 26 |
 
-#### 5.2.1.2. Aspect Leaders and Collaborators.
-#### 5.2.1.3. Sprint Backlog 1.
-#### 5.2.1.4. Development Evidence for Sprint Review.
+### 5.2.1.2. Aspect Leaders and Collaborators.
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Aspect Name 1<br>Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 2<br>Leader (L) / Collaborator (C)</th>
+    <th>...</th>
+    <th>Aspect Name n<br>Leader (L) / Collaborator (C)</th>
+  </tr>
+
+  <tr>
+    <td>Jiménez Rosas, Arturo Eduardo</td>
+    <td>ajimenezrosas</td>
+    <td>L</td>
+    <td>C</td>
+    <td>...</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Rodríguez Peña, Jorge Andrés</td>
+    <td>Japr91</td>
+    <td>C</td>
+    <td>C</td>
+    <td>...</td>
+    <td>L</td>
+  </tr>
+</table>
+
+### 5.2.1.3. Sprint Backlog 1.
+
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+  
+  <!-- Sprint -->
+  <tr>
+    <th>Sprint #</th>
+    <td colspan="7">Sprint n</td>
+  </tr>
+
+  <!-- Encabezados principales -->
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+
+  <!-- Subencabezados -->
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+
+  <!-- Filas de ejemplo -->
+  <tr>
+    <td>US-01</td>
+    <td>Lorem Ipsum</td>
+    <td>T-01</td>
+    <td>Diseñar UI</td>
+    <td>Crear interfaz de login</td>
+    <td>4</td>
+    <td>Arturo</td>
+    <td>To-do</td>
+  </tr>
+
+  <tr>
+    <td>US-01</td>
+    <td>Lorem Ipsum</td>
+    <td>T-02</td>
+    <td>Validación backend</td>
+    <td>Implementar autenticación</td>
+    <td>6</td>
+    <td>Jorge</td>
+    <td>In-Process</td>
+  </tr>
+
+  <tr>
+    <td>US-02</td>
+    <td>Lorem Ipsum</td>
+    <td>T-03</td>
+    <td>Formulario registro</td>
+    <td>Crear formulario</td>
+    <td>5</td>
+    <td>Arturo</td>
+    <td>Done</td>
+  </tr>
+
+</table>
+
+### 5.2.1.4. Development Evidence for Sprint Review.
+
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;">
+  
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+
+  <tr>
+    <td>user/repositoryname</td>
+    <td>feature/loremipsum</td>
+    <td>14ca4e3</td>
+    <td>feat: consectetur adipiscing elit</td>
+    <td>Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.</td>
+    <td>04/09/2021</td>
+  </tr>
+
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
