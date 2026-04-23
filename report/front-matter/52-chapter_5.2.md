@@ -100,29 +100,15 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 
 </table>
 
-### 5.2.1.4. Development Evidence for Sprint Review.
+### 5.2.1.4 Development Evidence for Sprint Review
 
-<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;">
-  
-  <tr>
-    <th>Repository</th>
-    <th>Branch</th>
-    <th>Commit Id</th>
-    <th>Commit Message</th>
-    <th>Commit Message Body</th>
-    <th>Committed on (Date)</th>
-  </tr>
-
-  <tr>
-    <td>user/repositoryname</td>
-    <td>feature/loremipsum</td>
-    <td>14ca4e3</td>
-    <td>feat: consectetur adipiscing elit</td>
-    <td>Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.</td>
-    <td>04/09/2021</td>
-  </tr>
-
-</table>
+| Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| aquanetix-repo | develop | 4f01889ae5953aba422050a86048518fc2e68577 | docs: add epics for requirements | Added epics to define system requirements structure | 18/04/2026 |
+| aquanetix-repo | develop | 80782311c16b14e26ad36489823096a0602afeb2 | docs: add landing page UI design | Defined UI design for the landing page | 20/04/2026 |
+| aquanetix-repo | develop | 056333d1b065eda419cb3e109ebf525a4c3749cc | docs: add C4 model diagrams | Added C4 model diagrams for system architecture representation | 21/04/2026 |
+| aquanetix-repo | develop | 73157436b4d739e7e78aa21fb0a791de3101dc81 | fix: update repository links | Updated repository links in chapter 5 documentation | 21/04/2026 |
+| aquanetix-repo | develop | 68a41d56032b2c50eb7a681cc9581219c6923cd7 | docs: add web app mockups | Added web application mockups to the documentation | 22/04/2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
