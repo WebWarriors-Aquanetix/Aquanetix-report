@@ -10,12 +10,13 @@ El primer sprint de nuestro proyecto posee una gran importancia en lo que refier
 | :--- | :--- |
 | Sprint # | Sprint 1 |
 | Date | 2026-04-22 |
-| Time | 11:00 PM |
+| Time | 9:00 PM |
 | Location | Google meet |
 | Prepared By | Bojórquez Bustinza, Renzo Alejandro |
 | Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
 | Sprint 1 – 1 Review Summary | Al ser el primer sprint del proyecto (Fase de Inicio), no hay un Review de entregables previos. Se revisaron los requisitos del Trabajo Parcial (TB1), estableciendo como prioridad el diseño de la arquitectura base, la base de datos, además de los flujos de registro de empresas. |
 | Sprint 1 – 1 Retrospective Summary | De igual manera al ser el inicio del proyecto, se establecieron las normas de trabajo del equipo: reuniones de seguimiento (Daily Stand-ups) mediante Discord, uso de herramientas ágiles para el control de tareas, sumado a la necesidad de mantener una comunicación constante para evitar bloqueos técnicos en el desarrollo del backend. |
+| Sprint Goal & User Stories |
 | Sprint 1 Goal | Para este sprint se requiere el cumplimiento de los siguientes objetivos: Establecer la arquitectura base del backend en C#, desplegar el esquema de la base de datos relacional, configurar el registro de clientes (Enterprise) junto con la seguridad (Login). La métrica de cumplimiento se basará en el proceso de cómo nuestro "Board de Trello" luzca con el paso del tiempo, nuestro resultado final debe de mostrar todas las tareas en el lado derecho de la herramienta, ubicándolos en la columna "Terminado". |
 | Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
 | Sum of Story Points | 26 |
