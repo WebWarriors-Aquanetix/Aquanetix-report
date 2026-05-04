@@ -337,24 +337,46 @@
     </tr>
     <tr>
       <td>US38</td>
-      <td>Recepción de datos desde sensores IoT</td>
-      <td>Como developer, quiero recibir datos de sensores IoT para integrarlos al sistema de monitoreo.</td>
-      <td>Given los sensores envían datos al sistema. When se realiza una solicitud al endpoint de recepción. Then el sistema recibe y almacena los datos correctamente en formato estructurado</td>
-      <td>EP09</td>
+      <td>Configuración de rangos de seguridad para pH</td>
+      <td>Como operador técnico, quiero definir los límites superior e inferior de pH para detectar niveles de acidez o alcalinidad que puedan corroer la tubería o violar normativas ambientales.</td>
+      <td>Given el operador se encuentra en el panel de "Configuración de Sensores Químicos", When eloperador ingresa un valor mínimo y un valor máximo. Then el sistema valida que el valor mínimo sea menor al máximo y guarda los umbrales.<br>
+      Given el operador se encuentra en el panel de "Configuración de Sensores Químicos", When el operador ingresa un valor mínimo y un valor máximo. Then se activa una alerta visual si el sensor reporta valores fuera de ese rango.</td>
+      <td>EP01</td>
     </tr>
     <tr>
       <td>US39</td>
-      <td>Consulta de datos mediante API</td>
-      <td>Como developer, quiero consultar los datos de monitoreo mediante endpoints para integrarlos en el dashboard.</td>
-      <td>Given existen datos almacenados en el sistema. When se realiza una solicitud GET al endpoint correspondiente. Then el sistema devuelve los datos en formato JSON</td>
-      <td>EP09</td>
+      <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
+      <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
+      <td>Given el operador accede a la sección de "Parámetros Hidráulicos", When el operador define el umbral de "Flujo Crítico Bajo" (posible fuga) y "Flujo Crítico Alto" (obstrucción o sobrecarga). Then el sistema registra los valores en $L/s$ (litros por segundo).</td>
+      <td>EP01</td>
     </tr>
     <tr>
       <td>US40</td>
-      <td>Validación de datos de sensores</td>
-      <td>Como developer, quiero validar los datos recibidos de sensores para asegurar la calidad de la información procesada.</td>
-      <td>Given el sistema recibe datos de sensores. When los datos presentan valores inválidos o incompletos. Then el sistema rechaza o marca los datos como inválidos</td>
-      <td>EP09</td>
+      <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
+      <td>Como operador técnico, quiero definir la concentración máxima permitida de gases (como $H_2S$ o $CH_4$) para prevenir explosiones o intoxicaciones en la red.</td>
+      <td>Given el operador está en el módulo de "Seguridad Atmosférica". When define el umbral de Pre-alarma y Alarma Crítica. Then el sistema guarda la configuración y asegura que estos valores no puedan ser desactivados sin una clave de supervisor. And al superar el umbral crítico, el sistema debe habilitar automáticamente el protocolo de ventilación (si está integrado).</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US41</td>
+      <td>Monitoreo en tiempo real mediante mapa interactivo.</td>
+      <td>Como supervisor, quiero visualizar la ubicación geográfica de todos los nodos de la red en un mapa para identificar rápidamente qué zonas presentan estados críticos (alerta/alarma).</td>
+      <td>Given el supervisor registrado accede al mapa. When el sistema carga las coordenadas de los sensores IoT. Then se muestran marcadores con código de colores: verde (normal), amarillo (advertencia) y rojo (crítico).</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>US42</td>
+      <td>Consulta de gráficas de comportamiento temporal.</td>
+      <td>Como supervisor, quiero consultar gráficas de tendencias de los sensores en rangos de tiempo específicos para detectar patrones de degradación en la calidad del agua.</td>
+      <td>Given el supervisor selecciona un nodo o sector específico. When el supervisor filtra por un rango de fechas y un tipo de sensor. Then el sistema renderiza un gráfico de líneas que muestra la evolución del parámetro frente a los umbrales configurados.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>US43</td>
+      <td>Consolidado de alertas operativas pendientes.</td>
+      <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
+      <td>Given que existen condiciones de sensores que superan los umbrales definidos en la configuración. When el supervisor accede al panel de alertas. Then el sistema muestra una tabla con: ID del sensor, ubicación, tipo de anomalía, y severidad.</td>
+      <td>EP02</td>
     </tr>
   </tbody>
 </table>
