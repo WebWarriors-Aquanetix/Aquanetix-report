@@ -56,7 +56,7 @@
     <tr>
       <td>EP09</td>
       <td>Control de acceso por suscripción</td>
-      <td>Permite manejar el acceso a los usuarios a la aplicación mediante una suscripción.</td>
+      <td>Maneja el acceso a los usuarios a la aplicación mediante una suscripción.</td>
     </tr>
   </tbody>
 </table>
