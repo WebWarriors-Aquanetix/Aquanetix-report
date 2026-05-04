@@ -54,9 +54,9 @@
       <td>Permite presentar información del producto, beneficios y propuesta de valor a potenciales clientes.</td>
     </tr>
     <tr>
-      <td>EP009</td>
-      <td>Integración con sensores IoT</td>
-      <td>Permite la conexión y recepción de datos desde dispositivos IoT instalados en la red hidráulica.</td>
+      <td>EP09</td>
+      <td>Control de acceso por suscripción</td>
+      <td>Permite manejar el acceso a los usuarios a la aplicación mediante una suscripción.</td>
     </tr>
   </tbody>
 </table>
@@ -77,10 +77,10 @@
   <tbody>
     <tr>
       <td>US01</td>
-      <td>Configuración de umbrales de sensores</td>
-      <td>Como operador técnico, quiero definir los umbrales de pH, flujo y gases para detectar condiciones anómalas en la red.</td>
-      <td>Given el operador accede a la configuración del sistema. When define los valores límite para los sensores. Then el sistema guarda los umbrales configurados.</td>
-      <td>EP01</td>
+      <td>Suscripción Automatizada y Control de Acceso</td>
+      <td>Como operador técnico, quiero realizar el pago de mi suscripción mensual a través de una pasarela segura, para obtener acceso inmediato a los tableros de control y reportes de calidad del agua.</td>
+      <td>Given que el operador registrado ha elegido una suscripción mensual. When el usuario ingresa una tarjeta válida y confirma la transacción a través de la pasarela de Stripe. Then el sistema debe recibir la confirmación de pago y actualizar el estado del usuario a activo en la base de datos.</td>
+      <td>EP09</td>
     </tr>
     <tr>
       <td>US02</td>
@@ -125,11 +125,12 @@
       <td>EP02</td>
     </tr>
     <tr>
+      <tr>
       <td>US08</td>
-      <td>Consulta del estado de la red</td>
-      <td>Como supervisor, quiero consultar el estado general de la red para tomar decisiones operativas oportunas.</td>
-      <td>Given el sistema consolida información de múltiples sensores. When el supervisor accede al estado general de la red. Then el sistema muestra el comportamiento actual de los puntos monitoreados</td>
-      <td>EP02</td>
+      <td>Renovación automática de suscripción</td>
+      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
+      <td>Given que el cliente tiene una suscripción activa con la opción de renovación automática habilitada. When el sistema detecta que faltan 24 horas para el vencimiento del periodo contratado. Then el sistema debe realizar el cobro automático a través de Stripe y extender la vigencia del servicio.</td>
+      <td>EP09</td>
     </tr>
     <tr>
       <td>US09</td>
