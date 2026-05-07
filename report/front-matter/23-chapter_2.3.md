@@ -3,7 +3,7 @@
 
 #### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
 <p align = "left">
-  <img src="/report/assets/ux_pressia/Jorge Navarro's User Persona.png">
+  <img src="/report/assets/ux_pressia/User Persona 1.png">
 </p>
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
