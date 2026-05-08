@@ -12,13 +12,6 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>1</td>
       <td>US35</td>
       <td>Visualización de información del producto</td>
@@ -58,7 +51,7 @@
      <td>US39</td>
       <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
       <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>7</td>
@@ -72,28 +65,28 @@
       <td>US05</td>
       <td>Visualización de datos en tiempo real</td>
       <td>Como operador técnico, quiero visualizar los datos de pH, flujo y gases en tiempo real para supervisar el estado de la red.</td>
-      <td>5</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>9</td>
       <td>US41</td>
       <td>Monitoreo en tiempo real mediante mapa interactivo.</td>
       <td>Como supervisor, quiero visualizar la ubicación geográfica de todos los nodos de la red en un mapa para identificar rápidamente qué zonas presentan estados críticos (alerta/alarma).</td>
-      <td>3</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>10</td>
       <td>US11</td>
       <td>Generación automática de alertas</td>
       <td>Como operador técnico, quiero que el sistema genere alertas automáticas cuando detecte valores críticos para actuar oportunamente ante riesgos en la red.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>11</td>
       <td>US12</td>
       <td>Clasificación de alertas por nivel de riesgo</td>
       <td>Como operador técnico, quiero que las alertas se clasifiquen según su nivel de riesgo para priorizar la atención de incidencias.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>12</td>
@@ -114,14 +107,14 @@
       <td>US20</td>
       <td>Visualización de indicadores clave</td>
       <td>Como supervisor, quiero visualizar indicadores clave del sistema para evaluar el estado general de la operación.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>15</td>
      <td>US23</td>
       <td>Visualización del estado general del sistema</td>
       <td>Como supervisor, quiero visualizar el estado general del sistema para identificar rápidamente situaciones críticas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>16</td>
@@ -142,7 +135,7 @@
       <td>US06</td>
       <td>Monitoreo por zona crítica</td>
       <td>Como operador técnico, quiero consultar los datos de monitoreo por zona para identificar áreas con mayor riesgo operativo.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>19</td>
@@ -156,21 +149,21 @@
      <td>US03</td>
       <td>Ajuste de frecuencia de monitoreo</td>
       <td>Como operador técnico, quiero definir la frecuencia de captura de datos de los sensores para optimizar el monitoreo.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>21</td>
       <td>US04</td>
       <td>Configuración de visualización del monitoreo</td>
       <td>Como usuario, quiero configurar la visualización de los datos para facilitar el análisis de la información.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>22</td>
       <td>US24</td>
       <td>Personalización de vistas del dashboard</td>
       <td>Como usuario, quiero personalizar la visualización del dashboard para priorizar la información relevante para mi operación.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>23</td>
@@ -184,14 +177,14 @@
      <td>US15</td>
       <td>Marcado de alertas atendidas</td>
       <td>Como operador técnico, quiero marcar alertas como atendidas para llevar control sobre las incidencias resueltas en la red.</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>25</td>
      <td>US14</td>
       <td>Registro del historial de alertas</td>
       <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>26</td>
@@ -205,14 +198,14 @@
       <td>US21</td>
       <td>Visualización gráfica de datos</td>
       <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>28</td>
      <td>US22</td>
       <td>Filtrado de información por zona y tiempo</td>
       <td>Como usuario, quiero filtrar los datos por zona y periodo de tiempo para analizar información específica.</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>29</td>
@@ -226,56 +219,56 @@
       <td>US16</td>
       <td>Identificación de zonas críticas</td>
       <td>Como operador técnico, quiero identificar zonas con mayor riesgo de fallas para priorizar acciones de mantenimiento.</td>
-      <td>3</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>31</td>
      <td>US17</td>
       <td>Recomendación de mantenimiento preventivo</td>
       <td>Como operador técnico, quiero recibir recomendaciones de mantenimiento para prevenir fallas en la red.</td>
-      <td>3</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>32</td>
        <td>US18</td>
       <td>Programación de intervenciones</td>
       <td>Como supervisor, quiero programar intervenciones de mantenimiento para organizar las actividades operativas.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>33</td>
       <td>US19</td>
       <td>Seguimiento de mantenimiento realizado</td>
       <td>Como supervisor, quiero registrar y consultar las intervenciones realizadas para evaluar la efectividad del mantenimiento.</td>
-      <td>8</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>34</td>
       <td>US25</td>
       <td>Identificación de agua reutilizable</td>
       <td>Como operador técnico, quiero identificar cuando el agua cumple parámetros adecuados para su reutilización para aprovechar el recurso disponible.</td>
-      <td>5</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>35</td>
       <td>US26</td>
       <td>Validación de condiciones de reutilización</td>
       <td>Como operador técnico, quiero validar que el agua cumpla condiciones específicas antes de su reutilización para garantizar su uso seguro.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>36</td>
       <td>US27</td>
       <td>Registro de volúmenes reutilizables</td>
       <td>Como operador técnico, quiero registrar el volumen de agua reutilizable para gestionar su disponibilidad.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>37</td>
        <td>US28</td>
       <td>Gestión de disponibilidad de agua reutilizada</td>
       <td>Como operador, quiero visualizar la disponibilidad de agua reutilizable para planificar su uso en operaciones.</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>38</td>
@@ -289,7 +282,7 @@
      <td>US30</td>
       <td>Seguimiento del uso de agua reutilizada</td>
       <td>Como supervisor, quiero hacer seguimiento del uso de agua reutilizada para evaluar el impacto en la operación.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>40</td>
@@ -303,7 +296,7 @@
      <td>US32</td>
       <td>Análisis de tendencias de datos</td>
       <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
-      <td>5</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>42</td>
