@@ -38,7 +38,7 @@ Elizabeth Lucia Nava Mendoza
 
 Evidencia:
 <p align = "left">
-  <img src="/report/assets/interviews/Entrevista_Elizabeth_Foto.png" width ="300" height="300">
+  <img src="../assets/interviews/Entrevista_Elizabeth_Foto.png" width ="300" height="300">
 </p>
 
 Enlace: https://shorturl.at/rJZxC
@@ -61,7 +61,7 @@ Nombres y Apellidos: Jorge Luis Castro Rojas
 
 Evidencia:
 <p align = "left">
-  <img src="/report/assets/interviews/Entrevista_Jorge_Castro.png" width ="300" height="300">
+  <img src="../assets/interviews/Entrevista_Jorge_Castro.png" width ="300" height="300">
 </p>
 
 Enlace: https://shorturl.at/rJZxC
@@ -84,7 +84,7 @@ Nombres y Apellidos: Liliana del Pilar Sanchez Fajardo
 
 Evidencia:
 <p align = "left">
-   <img src="/report/assets/interviews/Entrevista_Liliana_Sanchez.png" width ="300" height="600">
+   <img src="../assets/interviews/Entrevista_Liliana_Sanchez.png" width ="300" height="600">
 </p>
 Enlace: https://shorturl.at/rJZxC
 
@@ -108,7 +108,7 @@ Edward Fernando Bojórquez Gonzales
 
 Evidencia:
 <p align = "left">
- <img src="/report/assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
+ <img src="../assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
 </p>
 
 Enlace: https://shorturl.at/rJZxC
@@ -131,7 +131,7 @@ Nombres y apellidos: José Ignacio Calle Chumacero
 
 Evidencia:
 <p align = "left">
-  <img src="/report/assets/interviews/Entrevista_Jose_Ignacio_Foto.png" width ="300" height="300">
+  <img src="../assets/interviews/Entrevista_Jose_Ignacio_Foto.png" width ="300" height="300">
 </p>
 
 Enlace: https://shorturl.at/rJZxC
@@ -154,7 +154,7 @@ Cristian Qquecano De la Sota
 
 Evidencia:
 <p align = "left">
-   <img src="/report/assets/interviews/Entrevista_Cristian_foto.jfif" width ="300" height="600">
+   <img src="../assets/interviews/Entrevista_Cristian_foto.jfif" width ="300" height="600">
 </p>
 
 Enlace: https://shorturl.at/rJZxC
