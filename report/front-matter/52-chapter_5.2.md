@@ -18,7 +18,7 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
 | Sprint 1  Review Summary | Al ser el primer sprint del proyecto, no existe una revisión de un sprint anterior. El equipo partió de la aprobación del Product Backlog inicial, enfocándose en las Historias de Usuario prioritarias relacionadas al registro de empresas (Enterprise), configuración de planes y seguridad. |
 | Sprint 1  Retrospective Summary | De igual manera al ser el inicio del proyecto, se establecieron las normas de trabajo del equipo: reuniones de seguimiento (Daily Stand-ups) mediante Meet, uso de herramientas ágiles para el control de tareas, sumado a la necesidad de mantener una comunicación constante para evitar bloqueos técnicos en el desarrollo del backend. |
-| Sprint 1 Goal |Nuestro enfoque se centra en ofrecer el proceso inicial de registro y el acceso seguro a la plataforma para los clientes corporativos.
+| Sprint 1 Goal |Nuestro enfoque se centra en ofrecer el proceso inicial de registro y el acceso seguro a la plataforma para los clientes corporativos.|
 
 Creemos que esto entrega autonomía a los administradores de las EPS para registrar sus organizaciones, seleccionar un plan de suscripción y gestionar de forma segura el acceso de sus ingenieros operativos.
 
