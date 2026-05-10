@@ -855,7 +855,7 @@ Entonces el sistema organiza las anomalías según su nivel de severidad para fa
     </tr>
     <tr>
       <td>US44</td>
-      <td>Navegación por contenido temático</td>
+      <td>Navegación de contenido</td>
       <td>Como visitante, quiero disponer de puntos de acceso directo a las secciones clave de la página para localizar rápidamente la información que es de mi interés sin realizar un recorrido lineal.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
