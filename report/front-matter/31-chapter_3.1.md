@@ -874,19 +874,79 @@ Entonces el visitante puede elegir otra sección sin tener que volver al inicio.
     </tr>
     <tr>
       <td>US45</td>
-      <td>Evaluación de viabilidad</td>
-      <td>Como visitante corporativo, quiero conocer las capacidades y el alcance del sistema para determinar la rentabilidad y el valor estratégico de adquirir el servicio.</td>
+      <td>Comprensión del problema</td>
+      <td>Como visitante corporativo, quiero conocer el problema a enfrentar para comprender mejor el enfoque de la solución.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-Dado que el visitante evalúa soluciones para su organización.
-Cuando consulta la información sobre las capacidades del ecosistema.
-Entonces el sistema presenta de forma clara cómo la gestión automatizada y el monitoreo en tiempo real resuelven deficiencias operativas.
+Dado que el visitante está navegando por la Landing Page.
+Cuando consulta la información sobre el problema a enfrentr.
+Entonces el sistema presenta con sustento estadístico el desafío de la brecha hídrica que está presente.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
-Dado que el visitante requiere justificar la inversión económica.
-Cuando explora los beneficios de la plataforma.
-Entonces el sistema destaca la optimización de costos operativos y la reducción de riesgos mediante alertas tempranas.
+Dado que el visitante ha revisado las cifras del déficit de saneamiento.
+Cuando analiza el impacto de la falta de visibilidad operativa en la gestión de recursos.
+Entonces el sistema establece una conexión directa entre la problemática expuesta y la necesidad de una transformación digital para democratizar el acceso al agua segura.
+
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US46</td>
+      <td>Acceso a información de respaldo y transparencia</td>
+      <td>Como visitante, quiero disponer de un espacio con referencias institucionales y legales para validar la formalidad del proyecto y conocer mis derechos como usuario.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el visitante desea conocer el marco legal del sitio.
+Cuando consulta la información de cierre de la página.
+Entonces el sistema ofrece acceso a las políticas de privacidad, términos de servicio y compromisos de sostenibilidad de la organización.
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+Dado que el visitante ha revisado las cifras del déficit de saneamiento.
+Cuando analiza el impacto de la falta de visibilidad operativa en la gestión de recursos.
+Entonces el sistema muestra la identificación de la empresa como desarrolladores y la marca de propiedad intelectual correspondiente al año 2026.
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US4#</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US4#</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US4#</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
 
 </td>
       <td>EP08</td>
