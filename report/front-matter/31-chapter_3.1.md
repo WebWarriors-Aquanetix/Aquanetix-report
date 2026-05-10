@@ -853,5 +853,53 @@ Entonces el sistema organiza las anomalías según su nivel de severidad para fa
 </td>
       <td>EP02</td>
     </tr>
+    <tr>
+      <td>US44</td>
+      <td>Navegación por contenido temático</td>
+      <td>Como visitante, quiero disponer de puntos de acceso directo a las secciones clave de la página para localizar rápidamente la información que es de mi interés sin realizar un recorrido lineal.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el visitante desea explorar un tema específico (como la solución o los beneficios).
+Cuando utiliza el sistema de navegación de la landing page.
+Entonces el sistema lo posiciona de manera inmediata en la sección correspondiente del contenido.
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+Dado que el visitante se encuentra en cualquier sección de la página.
+Cuando el visitante desea cambiar de sección.
+Entonces el visitante puede elegir otra sección sin tener que regresar a inicio.
+
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US4#</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US4#</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP08</td>
+    </tr>
   </tbody>
 </table>
