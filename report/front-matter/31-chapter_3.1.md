@@ -879,7 +879,7 @@ Entonces el visitante puede elegir otra sección sin tener que volver al inicio.
       <td>
 <b>Criterio de aceptación 1:</b><br>
 Dado que el visitante está navegando por la Landing Page.
-Cuando consulta la información sobre el problema a enfrentr.
+Cuando consulta la información sobre el problema a enfrentar.
 Entonces el sistema presenta con sustento estadístico el desafío de la brecha hídrica que está presente.
 <br><br>
 
@@ -910,16 +910,20 @@ Entonces el sistema muestra la identificación de la empresa como desarrolladore
       <td>EP08</td>
     </tr>
     <tr>
-      <td>US4#</td>
-      <td></td>
-      <td></td>
+      <td>US47</td>
+      <td>Solicitud de demostración del sistema</td>
+      <td>Como visitante corporativo interesado, quiero solicitar una demostración personalizada del ecosistema para observar cómo las funcionalidades de monitoreo y trazabilidad se adaptan a las necesidades específicas de mi organización.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-
+Dado que el visitante ha evaluado la propuesta de valor y los beneficios en la landing page.
+Cuando decide profundizar en el funcionamiento técnico y operativo de la plataforma.
+Entonces el sistema proporciona un canal directo para manifestar el interés en una sesión demostrativa.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
-
+Dado que el visitante requiere una validación práctica de la herramienta.
+Cuando interactúa con la opción de solicitar consultoría o demo.
+Entonces el sistema captura la intención del usuario para facilitar la coordinación de una presentación detallada sobre las capacidades de inteligencia hídrica.
 </td>
       <td>EP08</td>
     </tr>
