@@ -860,29 +860,33 @@ Entonces el sistema organiza las anomalías según su nivel de severidad para fa
       <td>
 <b>Criterio de aceptación 1:</b><br>
 Dado que el visitante desea explorar un tema específico (como la solución o los beneficios).
-Cuando utiliza el sistema de navegación de la landing page.
-Entonces el sistema lo posiciona de manera inmediata en la sección correspondiente del contenido.
-
+Cuando elige una sección en el sistema de navegación de la Landing Page.
+Entonces el sistema lo posiciona de manera inmediata en la sección correspondiente.
 <br><br>
-
+        
 <b>Criterio de aceptación 2:</b><br>
 Dado que el visitante se encuentra en cualquier sección de la página.
 Cuando el visitante desea cambiar de sección.
-Entonces el visitante puede elegir otra sección sin tener que regresar a inicio.
+Entonces el visitante puede elegir otra sección sin tener que volver al inicio.
 
 </td>
       <td>EP08</td>
     </tr>
     <tr>
-      <td>US4#</td>
-      <td></td>
-      <td></td>
+      <td>US45</td>
+      <td>Evaluación de viabilidad</td>
+      <td>Como visitante corporativo, quiero conocer las capacidades y el alcance del sistema para determinar la rentabilidad y el valor estratégico de adquirir el servicio.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-
+Dado que el visitante evalúa soluciones para su organización.
+Cuando consulta la información sobre las capacidades del ecosistema.
+Entonces el sistema presenta de forma clara cómo la gestión automatizada y el monitoreo en tiempo real resuelven deficiencias operativas.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
+Dado que el visitante requiere justificar la inversión económica.
+Cuando explora los beneficios de la plataforma.
+Entonces el sistema destaca la optimización de costos operativos y la reducción de riesgos mediante alertas tempranas.
 
 </td>
       <td>EP08</td>
