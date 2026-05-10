@@ -927,47 +927,5 @@ Entonces el sistema captura la intención del usuario para facilitar la coordina
 </td>
       <td>EP08</td>
     </tr>
-    <tr>
-      <td>US4#</td>
-      <td></td>
-      <td></td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-
-<br><br>
-
-<b>Criterio de aceptación 2:</b><br>
-
-</td>
-      <td>EP08</td>
-    </tr>
-    <tr>
-      <td>US4#</td>
-      <td></td>
-      <td></td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-
-<br><br>
-
-<b>Criterio de aceptación 2:</b><br>
-
-</td>
-      <td>EP08</td>
-    </tr>
-    <tr>
-      <td>US4#</td>
-      <td></td>
-      <td></td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-
-<br><br>
-
-<b>Criterio de aceptación 2:</b><br>
-
-</td>
-      <td>EP08</td>
-    </tr>
   </tbody>
 </table>
