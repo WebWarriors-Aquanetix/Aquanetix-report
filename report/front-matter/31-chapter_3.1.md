@@ -740,7 +740,7 @@ Entonces el sistema proporciona un medio para establecer contacto.
 
 <b>Criterio de aceptación 2:</b><br>
 Dado que el visitante revisa la sección final de la landing page.
-Cuando selecciona el botón “Agendar Consultoría Técnica” o “Solicitar Demo”.
+Cuando el visitante quiere solicitar una consultoría técnica.
 Entonces el sistema dirige al usuario hacia el canal de contacto correspondiente.
 </td>
       <td>EP08</td>
