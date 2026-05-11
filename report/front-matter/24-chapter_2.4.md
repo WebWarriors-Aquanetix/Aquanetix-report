@@ -3,16 +3,16 @@ En esta sección se procedera a mostrar el mapeo del recorrido de la aplicación
 
 #### Paso 1: Recoleccion de Domain Events
 <p align = "left">
-   <img src="/report/assets/miro/Deteccion domain events.jpg">
+   <img src="../assets/miro/Deteccion domain events.jpg">
 </p>
 En este primer paso, el equipo procedio a lanzar una lluvia de ideas y luego identificar todos los Domain Events posibles que formaran parte de nuestro mapeo de la aplicación.
 
 #### Paso 2: Secuenciación e Identificación de Pain Points
 <p align = "left">
-   <img src="/report/assets/miro/TimeLine Domain Events.jpg">
+   <img src="../assets/miro/TimeLine Domain Events.jpg">
 </p>
 
 #### Paso 3: Definición de Bounded Contexts y Trazado de Fronteras
 <p align = "left">
-   <img src="/report/assets/miro/BigPictureEventStormingV2.jpg">
+   <img src="../assets/miro/BigPictureEventStormingV2.jpg">
 </p>
