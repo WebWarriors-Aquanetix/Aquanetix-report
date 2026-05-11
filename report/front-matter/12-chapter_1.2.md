@@ -37,6 +37,10 @@ User Assumptions:<br>
 > *	Creemos que nuestro primer tipo de usuario son los trabajadores de empresas prestadoras de servicios de agua y alcantarillados (ej. SEDAPAL), quienes actualmente se enfrentan a la falta de datos históricos y en tiempo real sobre la calidad del agua (PH), lo que resulta en multas inesperadas y costosas por vertimientos que no cumplen con la normativa vigente.<br>
 > *	Creemos que nuestro segundo tipo de usuario son los supervisores y operarios de empresas gestoras de residuos sólidos (ej. RESITER), quienes actualmente se enfrentan a una incertidumbre crítica sobre la composición química y el estado de los residuos líquidos que recolectan, lo que les impide clasificar eficientemente el material para su reaprovechamiento y los obliga a realizar procesos de tratamiento genéricos que elevan los costos logísticos.<br>
 
+User Benefits Assumptions:<br>
+> * Creemos que el usuario quiere lograr una validación precisa de las condiciones del entorno antes de realizar una intervención física para poder obtener la tranquilidad de que su integridad física y salud no están en riesgo por agentes invisibles o peligrosos.<br>
+> * Creemos que el usuario quiere lograr la consolidación inmediata de los datos de calidad de agua recolectados durante el mes para poder obtener un ahorro significativo de tiempo administrativo y eliminar la frustración que genera el procesamiento manual de datos para reportes de cumplimiento.<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements:
 Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.<br>
 Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".<br>
