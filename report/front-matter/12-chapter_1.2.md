@@ -33,6 +33,10 @@ Business Outcome Assumptions:<br>
 > *	Sabremos que el negocio está teniendo éxito cuando veamos una reducción del 20% en las salidas de cuadrillas de emergencia por parte de los equipos de mantenimiento en un plazo de un semestre, validando que el monitoreo preventivo está funcionando.<br>
 > *	Sabremos que el negocio está teniendo éxito cuando veamos un registro de cero infracciones por parámetros de PH fuera de norma por parte de las autoridades reguladoras hacia nuestros clientes en un plazo de un año tras la implementación.<br>
 
+User Assumptions:<br>
+> *	Creemos que nuestro primer tipo de usuario son los trabajadores de empresas prestadoras de servicios de agua y alcantarillados (ej. SEDAPAL), quienes actualmente se enfrentan a la falta de datos históricos y en tiempo real sobre la calidad del agua (PH), lo que resulta en multas inesperadas y costosas por vertimientos que no cumplen con la normativa vigente.<br>
+> *	Creemos que nuestro segundo tipo de usuario son los supervisores y operarios de empresas gestoras de residuos sólidos (ej. RESITER), quienes actualmente se enfrentan a una incertidumbre crítica sobre la composición química y el estado de los residuos líquidos que recolectan, lo que les impide clasificar eficientemente el material para su reaprovechamiento y los obliga a realizar procesos de tratamiento genéricos que elevan los costos logísticos.<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements:
 Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.<br>
 Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".<br>
