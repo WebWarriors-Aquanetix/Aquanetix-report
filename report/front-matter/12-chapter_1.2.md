@@ -41,6 +41,10 @@ User Benefits Assumptions:<br>
 > * Creemos que el usuario quiere lograr una validación precisa de las condiciones del entorno antes de realizar una intervención física para poder obtener la tranquilidad de que su integridad física y salud no están en riesgo por agentes invisibles o peligrosos.<br>
 > * Creemos que el usuario quiere lograr la consolidación inmediata de los datos de calidad de agua recolectados durante el mes para poder obtener un ahorro significativo de tiempo administrativo y eliminar la frustración que genera el procesamiento manual de datos para reportes de cumplimiento.<br>
 
+Feature Assumptions:<br>
+> * Creemos que construir un panel de control interactivo con comparativas de datos históricos y en tiempo real permitirá a los gerentes de planta identificar tendencias de contaminación de manera predictiva para ajustar los procesos de tratamiento antes de que ocurra un incidente.<br>
+> *	Creemos que construir un sistema de notificaciones críticas con umbrales de PH configurables permitirá a los encargados de cumplimiento ambiental reaccionar instantáneamente ante vertimientos fuera de norma, evitando así sanciones y multas regulatorias.<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements:
 Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.<br>
 Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".<br>
