@@ -29,6 +29,10 @@ Business Assumptions:<br>
 > *	Creemos que nuestros clientes necesitan ver la calidad y flujo de sus redes para evitar mantenimientos reactivos, y que están dispuestos a pagar una suscripción recurrente por el servicio de monitoreo por una solución que ofrezca alertas tempranas de obstrucciones y detección de gases tóxicos.<br>
 > *	Creemos que el valor #1 que el cliente quiere de nuestro producto es el módulo de logística para la redistribución de agua en las regiones necesitadas.<br>
 
+Business Outcome Assumptions:<br>
+> *	Sabremos que el negocio está teniendo éxito cuando veamos una reducción del 20% en las salidas de cuadrillas de emergencia por parte de los equipos de mantenimiento en un plazo de un semestre, validando que el monitoreo preventivo está funcionando.<br>
+> *	Sabremos que el negocio está teniendo éxito cuando veamos un registro de cero infracciones por parámetros de PH fuera de norma por parte de las autoridades reguladoras hacia nuestros clientes en un plazo de un año tras la implementación.<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements:
 Creemos que al proporcionar sensores de PH y flujo a las empresas de alcantarillado, lograremos que se reduzcan los costos de mantenimiento. Sabremos que estaremos en lo correcto cuando veamos una disminución del 20% en el número de cuadrillas enviadas por emergencias de obstrucción.<br>
 Creemos que integrar detectores de gases tóxicos en el plan base lograremos aumentar la seguridad percibida por los trabajadores. Sabremos que tenemos razón cuando el 80% de los usuarios califiquen la plataforma como "esencial para la seguridad".<br>
