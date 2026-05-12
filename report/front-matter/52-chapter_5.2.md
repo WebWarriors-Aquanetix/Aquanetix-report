@@ -164,7 +164,12 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 | Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | L | C | C | C |
 | Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
 
+
 #### 5.2.2.3. Sprint Backlog 2
+
+El objetivo de este sprint backlog 2 fue el designar tareas referente al frontend de nuestra web application del sistema Aquanetix en lo que refiere a diseño y funcionalidad. Mayormente el enfoque fue la maquetación de los paneles de control y la integración de la interfaz con las lógicas de estado, garantizando que el sistema refleje adecuadamente los datos de calidad de agua y las métricas operativas del usuario.
+
+Durante este Sprint, el equipo trabajó de manera colaborativa en la construcción de las diferentes secciones de la web application, asegurando una muestra del como funciona la aplicacion que se está proponiendo.
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
