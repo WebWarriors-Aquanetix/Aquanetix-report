@@ -1,6 +1,8 @@
 ### 4.6. Domain-Driven Software Architecture
 En esta seccion, se ha tomado el tiempo de 2 horas para identificar los diversos puntos de integración con servicios externos y definir la estructura necesaria por cada Bounded Context, con la seguridad de implementar una arquitectura SaaS escalable.
 ### 4.6.1. Design-Level EventStorming
+
+A continuacion, se mostrará el Design-Level Event Storming de nuestra aplicación. En esta sección se profundizó a mayor detalle nuestro Big Picture Event Storming, enfocandonos en la arquitectura interna, componentes y resultados finales.
 <div align="center"><img src="../assets/miro/Design-Level Event Storming.jpg" width ="100%"></div>
 
 ### 4.6.2. Software Architecture Context Diagram
