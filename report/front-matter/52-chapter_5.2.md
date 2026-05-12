@@ -126,3 +126,26 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 <p align = "left">
    <img src="../assets/insights/Team Collaboration Insights.jpg">
 </p>
+
+### 5.2.2. Sprint 2
+El segundo sprint de nuestro proyecto estuvo enfocado en el desarrollo de funcionalidades relacionadas al monitoreo inteligente de la red hídrica, la gestión de alertas automáticas y la administración de parámetros operativos dentro del sistema. Durante este periodo, el equipo priorizó la implementación de módulos backend orientados al procesamiento de datos de sensores, validación de condiciones críticas y generación de información operativa para supervisores y operadores técnicos.
+
+#### 5.2.2.2. Sprint Planning 2.
+
+En esta sección se especifican los aspectos principales del Sprint Planning Meeting. El segundo sprint de nuestro proyecto posee una gran importancia en lo que refiere al proceso de desarrollo ágil y la construcción de la lógica de negocio en el backend. A lo largo de este periodo, se ha dado un enfoque con mayor énfasis en la implementación de las características fundamentales de monitoreo químico y la gestión de acceso, así como en las funcionalidades de mayor prioridad en nuestra planificación de inicio, asegurando que el equipo entregue valor tangible a los usuarios de la plataforma.
+
+| Campo / Sección | Detalle |
+| :--- | :--- |
+| Sprint # | Sprint 1 |
+| Date | 2026-05-10 |
+| Time | 9:00 PM |
+| Location | Google meet |
+| Prepared By | Castro Solorza, Nicolas Eduardo |
+| Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
+| Sprint 1  Review Summary | Durante el Sprint 1 se lograron desplegar los cimientos de la arquitectura backend y los endpoints iniciales de registro de cuentas. El Product Owner validó positivamente la estructura inicial, pero resaltó que para entregar verdadero valor al negocio es prioritario enfocarse ahora en el flujo de suscripciones que habilita los tableros, y en el motor de reglas de los sensores químicos para la detección temprana de anomalías. |
+| Sprint 1  Retrospective Summary | El equipo identificó como un gran acierto la comunicación constante en los Daily Stand-ups. Sin embargo, como oportunidad de mejora, se evidenció la necesidad de aplicar de forma más estricta las buenas prácticas de programación (uso de DTOs, Inyección de Dependencias y manejo de excepciones) desde la planificación de las tareas, para evitar bloqueos técnicos y mantener un flujo de trabajo continuo. |
+| Sprint 2 Goal |Nuestro enfoque está en implementar un control de acceso automatizado por suscripciones y configurar los rangos de seguridad para los sensores químicos (pH) en la API del backend.
+||Creemos que esto entrega una experiencia de inicio ágil y capacidades de monitoreo proactivo para prevenir la corrosión de las tuberías a los operadores técnicos.
+||Esto se confirmará cuando los operadores técnicos puedan adquirir con éxito una suscripción para desbloquear los endpoints protegidos del tablero, y el sistema evalúe correctamente las lecturas de los umbrales de pH, activando alertas de forma precisa sin fallos en el backend cuando los valores superen los límites permitidos. |
+| Sprint 2 Velocity | Para este Sprint 2, evaluando el desempeño previo y la capacidad actual del equipo, se ha establecido un Velocity de 67 Story Points. |
+| Sum of Story Points | 67 |
