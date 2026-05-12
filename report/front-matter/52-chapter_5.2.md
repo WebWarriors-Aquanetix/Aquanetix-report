@@ -44,6 +44,8 @@ El objetivo del presente Sprint fue el diseño y desarrollo de la landing page d
 
 Durante este Sprint, el equipo trabajó de manera colaborativa en la construcción de las diferentes secciones de la landing page, asegurando una experiencia de usuario clara, intuitiva y alineada con los objetivos del sistema.
 
+--Espacio para las capturas--
+
 A continuación, se detallan las User Stories priorizadas y las tareas asociadas:
 
 | US Id | Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
