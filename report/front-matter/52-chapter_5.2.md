@@ -51,6 +51,8 @@ Durante este Sprint, el equipo trabajó de manera colaborativa en la construcci�
   <img src="../assets/Jira/Sprint1_4.png">
 </div>
 
+Enlace a la herramienta utilizada: https://shorturl.at/xs1Pv
+
 A continuación, se detallan las User Stories priorizadas y las tareas asociadas:
 
 | US Id | Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
