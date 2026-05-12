@@ -114,6 +114,8 @@ Esta seccion se ha decidido omitir debido que, para este avance, solamente se ha
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa ycontinua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 <p align = "left">
+   <img src="/report/assets/insights/Team Collaboration Insights.jpg">
+</p>
 
 ### 5.2.2. Sprint 2
 El primer sprint de nuestro proyecto posee una gran importancia en lo que refiere al proceso de desarrollo ágil. A lo largo de este periodo, se ha dado un enfoque con mayor énfasis en la implementación de las caracetericas fundamentales así como en las funcionalidades de mayor prioridad en nuestra planificación de inicio.
@@ -136,5 +138,4 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 | Sprint 1 Velocity | Para este sprint se han elegido 5 User Stories con estimaciones basadas en la serie de Fibonacci. |
 | Sum of Story Points | 26 |
 
-   <img src="/report/assets/insights/Team Collaboration Insights.jpg">
-</p>
+
