@@ -150,6 +150,20 @@ En esta sección se especifican los aspectos principales del Sprint Planning Mee
 | Sprint 2 Velocity | Para este Sprint 2, evaluando el desempeño previo y la capacidad actual del equipo, se ha establecido un Velocity de 67 Story Points. |
 | Sum of Story Points | 67 |
 
+#### 5.2.2.2 Aspect Leaders and Collaborators
+
+En esta sección se presenta la matriz de liderazgo y colaboración (LACX), donde se definen los roles de cada integrante del equipo en los distintos aspectos considerados dentro del Sprint.
+
+Los aspectos seleccionados corresponden a las principales áreas del proyecto Aquanetix, incluyendo diseño UX/UI, desarrollo de la web application, documentación y modelado del sistema.
+
+| Team Member (Last Name, First Name) | GitHub Username | UX/UI Design | Web Application | Documentation | Modeling |
+|------------------------------------|----------------|-------------|-------------|--------------|----------|
+| Bojórquez Bustinza, Renzo Alejandro | DeterminedSoul7 | C | C | C | L |
+| Cabrera Novoa, Leonardo Moisés | u202415820 | C | L | C | C |
+| Castro Solorza, Nicolás Eduardo | NicoCSE | C | C | L | C |
+| Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | L | C | C | C |
+| Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
+
 #### 5.2.2.3. Sprint Backlog 2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
