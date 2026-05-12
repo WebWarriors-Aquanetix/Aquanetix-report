@@ -8,20 +8,22 @@ A continuacion, se mostrará el Design-Level Event Storming de nuestra aplicaci�
 
 Iniciamos el análisis identificando las acciones específicas (Comandos) que disparan los procesos en cada sub-dominio y  a los actores (usuarios o sistemas) responsables de ejecutar dichas acciones.
 
-<div align="center"><img src="../assets/miro/Design-Level Event Storming.jpg" width ="100%"></div>
+<div align="center"><img src="../assets/miro/ActorsandCommands.jpg" width ="100%"></div>
 
 **Paso 2: Policy Design and Inter-Context Orchestration**
 
 En este paso, establecimos con paciencia las Policies para gestionar el comportamiento reactivo y la comunicación entre los Bounded Contexts.
 
-<div align="center"><img src="../assets/miro/Design-Level Event Storming.jpg" width ="100%"></div>
+<div align="center"><img src="../assets/miro/Policies.jpg" width ="100%"></div>
 
 
 **Paso 3: Aggregate Modeling and Business Logic Rules**
 
 Ya con el flujo de comunicación claro y definido, decidimos introducir los Agregados para definir las fronteras de consistencia, agrupando los comandos y eventos bajo entidades lógicas.
 
-<div align="center"><img src="../assets/miro/Design-Level Event Storming.jpg" width ="100%"></div>
+<div align="center"><img src="../assets/miro/Aggregates.jpg" width ="100%"></div>
+
+<div align="center"><img src="../assets/miro/relacionBoundedContext.jpg" width ="100%"></div>
 
 **Paso 4: Identification of External Systems, Read Models and Attribute Refinement**
 
