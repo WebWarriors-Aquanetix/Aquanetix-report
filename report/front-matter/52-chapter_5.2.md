@@ -136,7 +136,7 @@ En esta sección se especifican los aspectos principales del Sprint Planning Mee
 
 | Campo / Sección | Detalle |
 | :--- | :--- |
-| Sprint # | Sprint 1 |
+| Sprint # | Sprint 2 |
 | Date | 2026-05-10 |
 | Time | 9:00 PM |
 | Location | Google meet |
