@@ -186,7 +186,6 @@ URL base: `https://69fb530188a7af0ecca8fada.mockapi.io/api/v1`
 
 La interacción con estos servicios se realiza a través de la infraestructura definida en las clases `BaseApi`, `BaseEndpoint` y `MonitoringApi`, siguiendo la arquitectura DDD implementada en la aplicación. Las variables de entorno `VITE_AQUANETIX_API_URL`, `VITE_SUBSCRIPTION_API_URL` y las rutas de cada endpoint están configuradas en el archivo `.env` del proyecto.
 
----
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
