@@ -149,3 +149,127 @@ En esta sección se especifican los aspectos principales del Sprint Planning Mee
 ||Esto se confirmará cuando los operadores técnicos puedan adquirir con éxito una suscripción para desbloquear los endpoints protegidos del tablero, y el sistema evalúe correctamente las lecturas de los umbrales de pH, activando alertas de forma precisa sin fallos en el backend cuando los valores superen los límites permitidos. |
 | Sprint 2 Velocity | Para este Sprint 2, evaluando el desempeño previo y la capacidad actual del equipo, se ha establecido un Velocity de 67 Story Points. |
 | Sum of Story Points | 67 |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En el alcance del presente Sprint 2, el equipo no ha implementado un Web Service propio con documentación OpenAPI/Swagger, dado que el backend formal en ASP.NET Core corresponde a un entregable posterior (AV2/TB2). Sin embargo, la Frontend Web Application integra dos servicios REST externos que actúan como fuente de datos simulada durante esta fase de desarrollo:
+
+**Servicio 1 — MockAPI (Sensores y Alertas)**
+URL base: `https://6a01f74d0d92f63dd2531d8e.mockapi.io/api/v1`
+
+| Endpoint | Verbo HTTP | Descripción | Parámetros | Response ejemplo |
+|----------|-----------|-------------|------------|-----------------|
+| `/sensors` | GET | Obtiene todos los dispositivos IoT registrados | — | Array de objetos Sensor (id, name, location, type, currentValue, unit, status, minAlert, maxAlert, history) |
+| `/sensors/{id}` | GET | Obtiene un dispositivo por ID | `id`: string | Objeto Sensor |
+| `/sensors` | POST | Registra un nuevo dispositivo IoT | Body: objeto Sensor sin id | Objeto Sensor creado con id asignado |
+| `/sensors/{id}` | PUT | Actualiza datos de un dispositivo | `id`: string · Body: objeto Sensor | Objeto Sensor actualizado |
+| `/sensors/{id}` | DELETE | Elimina un dispositivo | `id`: string | Objeto eliminado |
+| `/alerts` | GET | Obtiene todas las alertas del sistema | — | Array de objetos Alert (id, sensorName, location, type, severity, message, timestamp, status, value, threshold) |
+| `/alerts` | POST | Crea una nueva alerta automática | Body: objeto Alert sin id | Objeto Alert creado |
+| `/alerts/{id}` | PUT | Actualiza el estado de una alerta (ej. Resuelta) | `id`: string · Body: objeto Alert | Objeto Alert actualizado |
+| `/alerts/{id}` | DELETE | Elimina una alerta | `id`: string | Objeto eliminado |
+
+**Servicio 2 — MockAPI (Suscripción y Planes)**
+URL base: `https://69fb530188a7af0ecca8fada.mockapi.io/api/v1`
+
+| Endpoint | Verbo HTTP | Descripción | Parámetros | Response ejemplo |
+|----------|-----------|-------------|------------|-----------------|
+| `/subscription` | GET | Obtiene la suscripción activa de la empresa | — | Objeto con plan, tier, price, currency, billingCycle, features, usage |
+| `/subscription/{id}` | PUT | Actualiza el plan de suscripción | `id`: string · Body: objeto Subscription | Objeto Subscription actualizado |
+| `/plans` | GET | Obtiene los planes disponibles | — | Array de objetos Plan (id, name, tier, monthlyPrice, annualMonthlyPrice, maxSensors, highlight, features) |
+
+La interacción con estos servicios se realiza a través de la infraestructura definida en las clases `BaseApi`, `BaseEndpoint` y `MonitoringApi`, siguiendo la arquitectura DDD implementada en la aplicación. Las variables de entorno `VITE_AQUANETIX_API_URL`, `VITE_SUBSCRIPTION_API_URL` y las rutas de cada endpoint están configuradas en el archivo `.env` del proyecto.
+
+---
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo realizó el despliegue de la primera versión funcional de la **Frontend Web Application** de Aquanetix en Firebase Hosting, plataforma de hosting en la nube de Google. A continuación se describen los pasos realizados.
+
+**1. Configuración del proyecto en Firebase**
+
+Se creó el proyecto `aquanetix-deploy` en [console.firebase.google.com](https://console.firebase.google.com), habilitando el servicio Firebase Hosting. Se vinculó el proyecto local ejecutando:
+
+```bash
+firebase login
+firebase init hosting
+```
+
+Durante la inicialización se configuró `dist/` como directorio público (output del build de Vite) y se habilitó el modo Single Page Application para que todas las rutas redirijan a `index.html`.
+
+**2. Configuración del firebase.json**
+
+Se configuró el archivo `firebase.json` con las reglas de reescritura necesarias para el routing de Vue Router, además de headers de caché optimizados:
+
+```json
+{
+  "hosting": {
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "headers": [
+      {
+        "source": "/index.html",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+        ]
+      },
+      {
+        "source": "/assets/**",
+        "headers": [
+          { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        ]
+      }
+    ],
+    "rewrites": [{ "source": "**", "destination": "/index.html" }]
+  }
+}
+```
+
+**3. Build y despliegue**
+
+Se generó el build de producción con Vite y se desplegó con los siguientes comandos:
+
+```bash
+npm run build
+firebase deploy
+```
+
+**4. URL de la aplicación desplegada**
+
+La aplicación quedó publicada y accesible en:
+
+🔗 **[https://aquanetix-deploy.web.app](https://aquanetix-deploy.web.app)**
+
+Al acceder a la URL raíz, el sistema redirige automáticamente a `/monitoring/dashboard`, donde se puede visualizar el Dashboard principal con los datos en tiempo real provenientes de las APIs externas configuradas.
+
+**5. Configuración de variables de entorno**
+
+Las variables de entorno necesarias para conectar con las APIs externas se configuraron localmente en el archivo `.env` (excluido del repositorio por seguridad):
+
+```
+VITE_AQUANETIX_API_URL=https://6a01f74d0d92f63dd2531d8e.mockapi.io/api/v1
+VITE_SENSORS_ENDPOINT_PATH=/sensors
+VITE_ALERTS_ENDPOINT_PATH=/alerts
+VITE_SUBSCRIPTION_API_URL=https://69fb530188a7af0ecca8fada.mockapi.io/api/v1
+VITE_SUBSCRIPTION_ENDPOINT_PATH=/subscription
+VITE_PLANS_ENDPOINT_PATH=/plans
+```
+
+**6. Versiones desplegadas**
+
+El panel de Firebase Hosting registra el historial de versiones del Sprint 2, evidenciando las iteraciones de despliegue realizadas durante el desarrollo:
+
+| Versión | Fecha | Descripción |
+|---------|-------|-------------|
+| e6b1a0 | 11/05/2026 | Versión final Sprint 2 — i18n completo, cambio de plan, gestión de alertas |
+| f270f5 | 11/05/2026 | Fix: routing SPA y caché headers |
+| 0dbaf0 | 11/05/2026 | Feat: subscription change plan view |
+| 2e3863 | 11/05/2026 | Feat: dashboard y sensor detail views |
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
