@@ -22,7 +22,7 @@ Para este sprint, la reunión de Sprint Planning nos permite evaluar nuestra vel
 ||Creemos que esto entrega autonomía a los administradores de las EPS para registrar sus organizaciones, seleccionar un plan de suscripción y gestionar de forma segura el acceso de sus ingenieros operativos.
 ||Esto será confirmado cuando un administrador de la empresa pueda registrar exitosamente su organización, elegir el plan 'Piloto' o 'Integral', e iniciar sesión en el panel de control de Aquanetix de forma segura sin intervención del equipo de soporte técnico.|
 | Sprint 1 Velocity | El equipo ha establecido un Velocity de 26 Story Points, que representa la capacidad máxima de esfuerzo que los developers pueden aceptar de manera realista para este Sprint 1. |
-| Sum of Story Points | 26 |
+| Sum of Story Points | 24 |
 
 #### 5.2.1.2 Aspect Leaders and Collaborators
 
