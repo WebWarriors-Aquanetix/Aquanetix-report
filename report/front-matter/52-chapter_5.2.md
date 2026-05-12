@@ -168,6 +168,14 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| WebApplication_Aquanetix | develop | 236860c843b3994a07d4343fea70ae5e2d23547c | feat: add environment configuration and mock data for sensors, alerts, and subscription |  | 11/05/2026 |
+| WebApplication_Aquanetix | develop | b91719d0b7528d4590acb04b9cad82ace9ab4f44 | feat: add suscription view and global styles |  | 11/05/2026 |
+| WebApplication_Aquanetix | develop | 42029d5820c7057a3c83a8f369ef244e052a8931 | feat: add monitoring api |  | 11/05/2026 |
+| WebApplication_Aquanetix | develop | 14ad2b6af63d89a504668db6d7c9ee7ee666c404 | feat: set up global router with monitoring routes |  | 11/05/2026 |
+| WebApplication_Aquanetix | develop | 711f56ed7ee0b2c4e00645e420774cdd44102c5b | feat: add shared layout and language switcher components |  | 11/05/2026 |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
