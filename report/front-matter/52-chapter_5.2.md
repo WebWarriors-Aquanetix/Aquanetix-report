@@ -178,6 +178,50 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+En esta sección se presentan evidencias de la ejecución de la landing page desarrollada durante el Sprint.
+
+Las siguientes capturas muestran la interacción del usuario con las diferentes secciones de la web application, permitiendo validar la estructura de información, la propuesta de valor y la navegación definida para el sistema Aquanetix.
+
+**Figura 1. Dashboard de la Web Application**
+
+<div align="center">
+  <img src="../assets/web_applications/Web-App-Cap1.jpg">
+</div>
+La figura muestra la sección principal de la web application, donde se presenta la propuesta de valor del sistema Aquanetix junto con un llamado a la acción dirigido al usuario.
+
+
+**Figura 2. Sección informativa de la landing page**
+
+<div align="center">
+  <img src="../assets/web_applications/Web-App-Cap2.jpg">
+</div>
+
+En esta sección se describe el problema abordado y la solución propuesta por el sistema, permitiendo al usuario comprender el propósito y beneficios del servicio.
+
+**Figura 3. Sección de funcionalidades**
+
+<div align="center">
+  <img src="../assets/web_applications/Web-App-Cap3.jpg">
+</div>
+
+La figura muestra las principales funcionalidades del sistema, destacando las capacidades de monitoreo, gestión de alertas y análisis de datos.
+
+**Figura 4. Sección final y llamado a la acción**
+
+<div align="center">
+  <img src="../assets/web_applications/Web-App-Cap4.jpg">
+</div>
+
+En esta sección final se incluye un llamado a la acción que invita al usuario a interactuar con el sistema, junto con información adicional relevante.
+
+**Figura 5. Sección final y llamado a la acción**
+
+<div align="center">
+  <img src="../assets/web_applications/Web-App-Cap5.jpg">
+</div>
+
+En esta sección final se incluye un llamado a la acción que invita al usuario a interactuar con el sistema, junto con información adicional relevante.
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En el alcance del presente Sprint 2, el equipo no ha implementado un Web Service propio con documentación OpenAPI/Swagger, dado que el backend formal en ASP.NET Core corresponde a un entregable posterior (AV2/TB2). Sin embargo, la Frontend Web Application integra dos servicios REST externos que actúan como fuente de datos simulada durante esta fase de desarrollo:
