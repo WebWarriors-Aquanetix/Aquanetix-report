@@ -122,7 +122,7 @@ Esta seccion se ha decidido omitir debido que, para este avance, solamente se ha
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa ycontinua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 <p align = "left">
    <img src="../assets/insights/Team Collaboration Insights.jpg">
 </p>
@@ -286,3 +286,8 @@ El panel de Firebase Hosting registra el historial de versiones del Sprint 2, ev
 | 2e3863 | 11/05/2026 | Feat: dashboard y sensor detail views |
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+<p align = "left">
+   <img src="../assets/insights/team-insights.jpg">
+</p>
