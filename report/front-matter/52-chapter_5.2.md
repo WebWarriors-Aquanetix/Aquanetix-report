@@ -370,9 +370,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
    <img src="../assets/insights/team-insights.jpg">
 </p>
 
-### 5.2.2. Sprint 2
+### 5.2.3. Sprint 3
 
-#### 5.2.2.3. Sprint Planning 3.
+#### 5.2.3.1. Sprint Planning 3.
 
 | Campo / Sección | Detalle |
 | :--- | :--- |
