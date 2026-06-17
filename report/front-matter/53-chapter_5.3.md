@@ -38,3 +38,25 @@ Con la Landing Page y Aplicación Frontend de Aquanetix desplegadas, hemos dise�
 - En la sección de suscripción y uso del plan, ¿le resulta fácil entender cuánto margen de consumo le queda en dispositivos o almacenamiento antes de necesitar una actualización de plan?
 
 - "Si el próximo mes su empresa decide instalar 60 sensores nuevos en una planta, mirando las barras de progreso de 'Plan usage', ¿le resulta fácil identificar si su plan actual tiene espacio para soportarlos o si tendría que pagar más?"
+
+### 5.3.2. Registro de entrevistas
+
+#### Segmento 2: Empresas gestoras de residuos sólidos
+**Entrevista 1**
+
+Edward Fernando Bojórquez Gonzales
+
+Evidencia:
+<p align = "left">
+ <img src="/report/assets/interviews/Entrevista_Validacion_Fernando_Foto.png">
+</p>
+
+Duración de la entrevista:
+
+Resumen:
+
+Nos encontramos nuevamente con Fernando Bojórquez, administrador de una empresa de servicios de residuos sólidos, quien participó en una entrevista de validación académica para el proyecto Aquanetix. Durante el encuentro, se mostró como un profesional atento, metódico y enfocado en la utilidad práctica de las herramientas tecnológicas en entornos operativos. Para interactuar con la plataforma y evaluar sus funciones, Fernando se apoyó en el uso de una laptop, demostrando un enfoque centrado en cómo este tipo de software puede facilitar el control de los recursos dentro de una organización.
+
+Primero, a Fernando se le presentó la landing page de la plataforma, donde se describen la problemática de la brecha hídrica en el Perú y las soluciones que ofrece Aquanetix a través de sensores IoT. Al evaluar las opciones, nos comentó que preferiría hacer clic primero en el botón "Conoce más" para entender los beneficios operativos de la aplicación antes de registrarse. Respecto a los pilares del ecosistema, consideró que las alertas tempranas de contaminación son el beneficio más crítico para tomar acciones rápidas ante cualquier anomalía, y validó como un punto decisivo que el software esté directamente alineado con el contexto regulatorio y la Ley General del Ambiente del país.
+
+Por último, al ingresar a la aplicación web y revisar el dashboard, Fernando destacó que los datos con mayor relevancia visual al iniciar el día son las alertas críticas y el volumen de tratamiento diario en metros cúbicos. Comentó que las etiquetas de estado por colores son muy intuitivas para identificar fallas en los dispositivos, aunque sugirió que el sistema debería incluir un botón para redireccionar la alerta de forma inmediata al personal operativo de campo. Finalmente, tras interactuar con las pestañas de sensores y suscripciones, consideró que los flujos para dar de alta un nuevo dispositivo y para verificar el margen de consumo del plan son bastante sencillos, rápidos y fáciles de entender para cualquier usuario corporativo.
