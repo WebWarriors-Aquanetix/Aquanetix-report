@@ -12,16 +12,29 @@ Con la Landing Page y Aplicación Frontend de Aquanetix desplegadas, hemos dise�
 
 **Bloque 2: Validación de la Aplicación Web**
 **User Flow 1: Monitoreo General y Diagnóstico Rápido**
-•	Al mirar el Dashboard por primera vez, ¿qué tipo de información identifica que tiene mayor relevancia o prioridad? 
-•	¿Qué opina del uso de los colores y etiquetas de estado (Alerta, Normal, Advertencia) para el monitoreo en tiempo real? ¿Le resultan intuitivos? 
-•	Si ocurriera una anomalía crítica en el sistema en este momento, ¿qué tan rápido cree que podría identificarla basándose en este diseño? 
-•	Una vez que identifica un dispositivo en estado de Alerta o Advertencia en la tabla, ¿cuál sería el siguiente paso lógico que esperaría dar dentro de la plataforma para resolver el problema?
+
+-	Al mirar el Dashboard por primera vez, ¿qué tipo de información identifica que tiene mayor relevancia o prioridad?
+
+-	¿Qué opina del uso de los colores y etiquetas de estado (Alerta, Normal, Advertencia) para el monitoreo en tiempo real? ¿Le resultan intuitivos?
+
+-	Si ocurriera una anomalía crítica en el sistema en este momento, ¿qué tan rápido cree que podría identificarla basándose en este diseño?
+
+-	Una vez que identifica un dispositivo en estado de Alerta o Advertencia en la tabla, ¿cuál sería el siguiente paso lógico que esperaría dar dentro de la plataforma para resolver el problema?
+
 **User Flow 2: Control de Infraestructura y Búsqueda de Sensores**
-•	Imagine que necesita verificar el último estado de actualización de un sensor específico en una planta. Mirando la lista de dispositivos, ¿cuál sería su flujo de interacción para encontrarlo?
-•	Si su empresa adquiere un nuevo sensor de turbidez para una planta, ¿qué tan visible y claro le resulta el proceso para darlo de alta en el sistema mirando el botón "Add device"?
+
+-	Imagine que necesita verificar el último estado de actualización de un sensor específico en una planta. Mirando la lista de dispositivos, ¿cuál sería su flujo de interacción para encontrarlo?
+
+-	Si su empresa adquiere un nuevo sensor de turbidez para una planta, ¿qué tan visible y claro le resulta el proceso para darlo de alta en el sistema mirando el botón "Add device"?
+
 **User Flow 3: Respuesta ante Alertas del Sistema**
-•	Al revisar el historial de alertas, ¿el texto de las descripciones (ej. "El sensor superó el umbral permitido") le proporciona suficiente contexto para tomar una decisión inmediata?
-•	En la vista de alertas avanzadas, vemos filtros como "All priorities". ¿Qué criterios de prioridad (ej. por tipo de químico, por planta o por nivel de urgencia) le serían más útiles para clasificar el historial de incidencias?
+
+-	Al revisar el historial de alertas, ¿el texto de las descripciones (ej. "El sensor superó el umbral permitido") le proporciona suficiente contexto para tomar una decisión inmediata?
+
+-	En la vista de alertas avanzadas, vemos filtros como "All priorities". ¿Qué criterios de prioridad (ej. por tipo de químico, por planta o por nivel de urgencia) le serían más útiles para clasificar el historial de incidencias?
+
 **User Flow 4: Control Administrativo y de Recursos Corporativos**
-•	En la sección de suscripción y uso del plan, ¿le resulta fácil entender cuánto margen de consumo le queda en dispositivos o almacenamiento antes de necesitar una actualización de plan?
-•	"Si el próximo mes su empresa decide instalar 60 sensores nuevos en una planta, mirando las barras de progreso de 'Plan usage', ¿le resulta fácil identificar si su plan actual tiene espacio para soportarlos o si tendría que pagar más?"
+
+- En la sección de suscripción y uso del plan, ¿le resulta fácil entender cuánto margen de consumo le queda en dispositivos o almacenamiento antes de necesitar una actualización de plan?
+
+- "Si el próximo mes su empresa decide instalar 60 sensores nuevos en una planta, mirando las barras de progreso de 'Plan usage', ¿le resulta fácil identificar si su plan actual tiene espacio para soportarlos o si tendría que pagar más?"
