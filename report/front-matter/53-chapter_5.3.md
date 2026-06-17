@@ -51,7 +51,7 @@ Evidencia:
  <img src="/report/assets/interviews/Entrevista_Validacion_Fernando_Foto.png">
 </p>
 
-Duración de la entrevista:
+Enlace de la entrevista: https://shorturl.at/NLHNr
 
 Resumen:
 
