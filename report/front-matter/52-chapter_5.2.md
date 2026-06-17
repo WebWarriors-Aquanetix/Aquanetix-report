@@ -141,7 +141,7 @@ En esta sección se especifican los aspectos principales del Sprint Planning Mee
 | Time | 9:00 PM |
 | Location | Google meet |
 | Prepared By | Castro Solorza, Nicolas Eduardo |
-| Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés |
+| Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés / Bojórquez Bustinza, Renzo Alejandro |
 | Sprint 2  Review Summary | Durante el Sprint 2 se lograron desplegar los cimientos de la arquitectura backend y los endpoints iniciales de registro de cuentas. El Product Owner validó positivamente la estructura inicial, pero resaltó que para entregar verdadero valor al negocio es prioritario enfocarse ahora en el flujo de suscripciones que habilita los tableros, y en el motor de reglas de los sensores químicos para la detección temprana de anomalías. |
 | Sprint 2  Retrospective Summary | El equipo identificó como un gran acierto la comunicación constante en los Daily Stand-ups. Sin embargo, como oportunidad de mejora, se evidenció la necesidad de aplicar de forma más estricta las buenas prácticas de programación (uso de DTOs, Inyección de Dependencias y manejo de excepciones) desde la planificación de las tareas, para evitar bloqueos técnicos y mantener un flujo de trabajo continuo. |
 | Sprint 2 Goal |Nuestro enfoque está en implementar un control de acceso automatizado por suscripciones y configurar los rangos de seguridad para los sensores químicos (pH) en la API del backend.
