@@ -800,25 +800,8 @@ Entonces se activa automáticamente el protocolo de ventilación, si este se enc
       <td>EP01</td>
     </tr>
     <tr>
+       <tr>
       <td>US41</td>
-      <td>Monitoreo en tiempo real mediante mapa interactivo.</td>
-      <td>Como supervisor, quiero visualizar la ubicación geográfica de todos los nodos de la red en un mapa para identificar rápidamente qué zonas presentan estados críticos (alerta/alarma).</td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-Dado que el supervisor registrado accede al mapa.
-Cuando el sistema carga las coordenadas de los sensores IoT.
-Entonces se muestran marcadores con código de colores: verde (normal), amarillo (advertencia) y rojo (crítico).
-<br><br>
-
-<b>Criterio de aceptación 2:</b><br>
-Dado que el supervisor visualiza el mapa interactivo.
-Cuando selecciona un marcador correspondiente a un sensor.
-Entonces el sistema muestra información detallada sobre el estado y los parámetros monitoreados de dicho nodo.
-</td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>US42</td>
       <td>Consulta de gráficas de comportamiento temporal.</td>
       <td>Como supervisor, quiero consultar gráficas de tendencias de los sensores en rangos de tiempo específicos para detectar patrones de degradación en la calidad del agua.</td>
       <td>
@@ -836,7 +819,7 @@ Entonces el sistema resalta visualmente los puntos críticos dentro de la gráfi
       <td>EP02</td>
     </tr>
     <tr>
-      <td>US43</td>
+      <td>US42</td>
       <td>Consolidado de alertas operativas pendientes.</td>
       <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
       <td>
@@ -854,7 +837,7 @@ Entonces el sistema organiza las anomalías según su nivel de severidad para fa
       <td>EP02</td>
     </tr>
     <tr>
-      <td>US44</td>
+      <td>US43</td>
       <td>Navegación de contenido</td>
       <td>Como visitante, quiero disponer de puntos de acceso directo a las secciones clave de la página para localizar rápidamente la información que es de mi interés sin realizar un recorrido lineal.</td>
       <td>
@@ -873,7 +856,7 @@ Entonces el visitante puede elegir otra sección sin tener que volver al inicio.
       <td>EP08</td>
     </tr>
     <tr>
-      <td>US45</td>
+      <td>US44</td>
       <td>Comprensión del problema</td>
       <td>Como visitante corporativo, quiero conocer el problema a enfrentar para comprender mejor el enfoque de la solución.</td>
       <td>
@@ -892,7 +875,7 @@ Entonces el sistema establece una conexión directa entre la problemática expue
       <td>EP08</td>
     </tr>
     <tr>
-      <td>US46</td>
+      <td>US45</td>
       <td>Acceso a información de respaldo y transparencia</td>
       <td>Como visitante, quiero disponer de un espacio con referencias institucionales y legales para validar la formalidad del proyecto y conocer mis derechos como usuario.</td>
       <td>
@@ -910,7 +893,7 @@ Entonces el sistema muestra la identificación de la empresa como desarrolladore
       <td>EP08</td>
     </tr>
     <tr>
-      <td>US47</td>
+      <td>US46</td>
       <td>Solicitud de demostración del sistema</td>
       <td>Como visitante corporativo interesado, quiero solicitar una demostración personalizada del ecosistema para observar cómo las funcionalidades de monitoreo y trazabilidad se adaptan a las necesidades específicas de mi organización.</td>
       <td>
