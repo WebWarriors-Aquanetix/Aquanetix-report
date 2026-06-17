@@ -369,3 +369,23 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 <p align = "left">
    <img src="../assets/insights/team-insights.jpg">
 </p>
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.3. Sprint Planning 3.
+
+| Campo / Sección | Detalle |
+| :--- | :--- |
+| Sprint # | Sprint 3 |
+| Date | 2026-06-14 |
+| Time | 9:00 PM |
+| Location | Google meet |
+| Prepared By | Castro Solorza, Nicolas Eduardo |
+| Attendees (to planning meeting) | Pinedo Sánchez, Sebastián Martín / Castro Solorza, Nicolás Eduardo / Cochachi Chagua, Sebastián Josué / Cabrera Novoa, Leonardo Moisés / Bojórquez Bustinza, Renzo Alejandro |
+| Sprint 3  Review Summary | Durante el sprint 3, se logro desplegar la arquitectura backend de la aplicacion web, y crear los endpoints relacionados a los bounded context identificados. Asimismo, se corrigieron varias observaciones identificadas tanto en la Landing Page como en la aplicacion frontend. El Product Owner aprobo la estructura inicial, mas recomendo poner un mayor enfasis en la interaccion de backend con el frontend. |
+| Sprint 3  Retrospective Summary | El equipo identifico como acierto verificar la funcionalidad de los endpoints antes de subirlos al repositorio. Sin embargo, como oportunidad de mejora, se identifico implementar el uso de GitFlow en nuestro proyecto para trabajar de manera mas ordenada. |
+| Sprint 3 Goal |Nuestro enfoque esta en habilitar la integracion completa de los modulos de Dashboard, Devices, Monitoring, Subscription y Service Design.|
+|Creemos que esto proporciona autonomia en la gestion de planes y una visibilidad operativa fiable en tiempo real para las empresas prestadoras de servicios de agua y gestoras de residuos solidos.|
+|Esto se confirmará cuando los clientes puedan actualizar y ver los datos logisticos, como sus dispositivos conectados y alertas, obtenidos dinamicamente de la base de datos, sin depender de datos codificados.|
+| Sprint 3 Velocity |Para este Sprint 3, evaluando el desempennio previo, capacidad actual del equipo, y circunstancias actuales de tiempo, se establecio un Velocity de 112 Story Points.|
+| Sum of Story Points | 112 |
