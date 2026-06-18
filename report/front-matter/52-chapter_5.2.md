@@ -419,6 +419,9 @@ A continuación, se detallan las User Stories priorizadas y las tareas asociadas
 |------|------|--------|------------|------------|-------------------|-------------|--------|
 | US-03 | Ajuste de frecuencia de monitoreo | T-01 | Exponer endpoint de tipo PUT | Exponer endpoint REST implementando comando de actualización (PUT/api/v1/devices/{id}) en DevicesController | 5 | Renzo Bojórquez | Done |
 | US-21 | Visualización gráfica | T-02 | Exponer endpoint de tipo GET | Exponer endpoint REST para listar análisis ('GET/api/v1/quality-analysis') implementando 'GetAllQualityAnalysesQuery' en 'QualityAnalysisController'  | 4 | Sebastián Pinedo | Done |
+| US-39 | Configuración de límites de caudal para detección de fugas u obstruccciones. | T-03 | Exponer endpoint de tipo POST | Exponer endpoint REST para registrar umbrales de caudal ('GET/api/v1/devices/{id}/thresholds') | 6 | Nicolás Castro | Done |
+| US-01 | Suscripción automatizada y control de acceso. | T-04 | Prueba de registro de suscripciones | Insertar datos de prueba en tabla 'subscriptions' para validar el endpoint ('GET/api/v1/subscriptions/{id}')| 5 | Sebastián Cochachi | Done |
+| US-27 | Registro de volúmenes reutilizables | T-05 | Exponer endpoint de tipo DELETE | Exponer endpoint REST para eliminar lotes {'DELETE/api/v1/water-batches/{id}'} en 'WaterBatchesController'| 4 | Leonardo Cabrera| Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
