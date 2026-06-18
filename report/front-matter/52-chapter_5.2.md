@@ -471,6 +471,7 @@ En esta imagen se observa el resultado de subir la base de datos de nuestra Web 
   <img src="../assets/endpoints/render_backend.jpeg">
 </div>
 En esta imagen se observa el resultado de desplegar el backend de nuestra web application en Render. Esto fue fundamental debido a que se automatiza la configuración de servidores y el despliegue continuo de nuestro código.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
