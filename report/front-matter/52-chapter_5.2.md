@@ -425,6 +425,52 @@ A continuación, se detallan las User Stories priorizadas y las tareas asociadas
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección se presentan evidencias de la ejecución de la web platform y sus respectivos endpoints desarrollado durante el Sprint .
+
+Las siguientes capturas muestran los endpoints validados y desplegados en un servidor en la nube la web platform posea funcionalidad.
+
+**Figura 1. Endpoints del Bounded Context Monitoring**
+<div align="center">
+  <img src="../assets/endpoints/alerts_endpoints.png">
+</div>
+En esta imagen, se visualiza todas las acciones que se realiza en los endpoints de Alerts. Dichas acciones permiten visualizar todas las alertas disponibles, buscar una alerta por su ID, buscar una alerta por el ID del dispositivo, buscar una alerta por su estado, crear una alerta y actualizar una alerta.
+
+**Figura 2. Endpoints del Bounded Context Devices**
+<div align="center">
+  <img src="../assets/endpoints/devices_endpoints.png">
+</div>
+ En esta imagen, se visualiza todas las acciones que se realiza en los endpoints de Devices. Dichas acciones permiten visualizar todas los dispositivos disponibles, buscar una dispositivo por su ID, buscar un limite mediante el ID del dispositivio,crear un límite para un dispositivo, crear un nuevo dispositivo y actualizar la frecuencia de monitoreo de un dispositivo.
+
+**Figura 3. Endpoints del Bounded Context Dashboard**
+<div align="center">
+  <img src="../assets/endpoints/qualityanalysis_endpoints.png">
+</div>
+En esta imagen, se visualiza todas las acciones que se realiza en los endpoints de QualiyAnalysis. Dichas acciones permiten obtener todos las consultas de análisis, crear una consulta de análisis y obtener una consulta de analisis mediante su ID.
+
+
+**Figura 4. Endpoints del Bounded Context Suscriptions**
+<div align="center">
+  <img src="../assets/endpoints/suscriptions_endpoints.png">
+</div>
+En esta imagen, se visualiza todas las acciones que se realiza en los endpoints de Suscriptions. Dichas acciones permiten obtener una suscripción mediante su ID, cancelar una suscripcion, renovar una suscripción y obtener una nueva suscripción.
+
+**Figura 5. Endpoints del Bounded Context Management**
+<div align="center">
+  <img src="../assets/endpoints/waterbatches_endpoints.png">
+</div>
+En esta imagen, se visualiza todas las acciones que se realiza en los endpoints de WaterBatches. Dichas acciones permiten obtener todos los lotes de agua registrados, crear un lote de agua, obtener un lote de agua mediante su ID, actualizar los datos de un lote de agua y eliminar un lote de agua.
+
+**Figura 6. Base de Datos subida a la nube mediante Aiven**
+<div align="center">
+  <img src="../assets/endpoints/db_cloud.jpeg">
+</div>
+En esta imagen se observa el resultado de subir la base de datos de nuestra Web Platform en la nube mediante la plataforma Aiven. Gracias a esto se automatiza la administración, seguridad, respaldos y escalabilidad de la infrsestructura  de nuestra plataforma web.
+
+**Figura 7. Despliegue del backend de la Web Application en Render**
+<div align="center">
+  <img src="../assets/endpoints/render_backend.jpeg">
+</div>
+En esta imagen se observa el resultado de desplegar el backend de nuestra web application en Render. Esto fue fundamental debido a que se automatiza la configuración de servidores y el despliegue continuo de nuestro código.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
