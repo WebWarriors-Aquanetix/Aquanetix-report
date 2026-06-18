@@ -534,7 +534,7 @@ El despliegue de la plataforma se distribuye en tres servicios cloud independien
 | Componente | Proveedor | Tecnología | URL |
 |---|---|---|---|
 | Web Services (Backend) | Render | Docker · ASP.NET Core 10 | https://aquanetix-platform.onrender.com/swagger |
-| Web Application (Frontend) | Firebase Hosting | Vue 3 · Vite | https://aquanetix-deploy.web.app |
+| Web Application (Frontend) | Firebase Hosting | Vue 3 · Vite | https://shorturl.at/n8nN7 |
 | Base de datos | Aiven | MySQL 8 | (privada, accedida vía connection string) |
 
  #### 1. Despliegue de la Base de Datos (Aiven — MySQL 8)
