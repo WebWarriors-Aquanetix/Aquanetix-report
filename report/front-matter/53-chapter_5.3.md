@@ -60,3 +60,22 @@ Nos encontramos nuevamente con Fernando Bojórquez, administrador de una empresa
 Primero, a Fernando se le presentó la landing page de la plataforma, donde se describen la problemática de la brecha hídrica en el Perú y las soluciones que ofrece Aquanetix a través de sensores IoT. Al evaluar las opciones, nos comentó que preferiría hacer clic primero en el botón "Conoce más" para entender los beneficios operativos de la aplicación antes de registrarse. Respecto a los pilares del ecosistema, consideró que las alertas tempranas de contaminación son el beneficio más crítico para tomar acciones rápidas ante cualquier anomalía, y validó como un punto decisivo que el software esté directamente alineado con el contexto regulatorio y la Ley General del Ambiente del país.
 
 Por último, al ingresar a la aplicación web y revisar el dashboard, Fernando destacó que los datos con mayor relevancia visual al iniciar el día son las alertas críticas y el volumen de tratamiento diario en metros cúbicos. Comentó que las etiquetas de estado por colores son muy intuitivas para identificar fallas en los dispositivos, aunque sugirió que el sistema debería incluir un botón para redireccionar la alerta de forma inmediata al personal operativo de campo. Finalmente, tras interactuar con las pestañas de sensores y suscripciones, consideró que los flujos para dar de alta un nuevo dispositivo y para verificar el margen de consumo del plan son bastante sencillos, rápidos y fáciles de entender para cualquier usuario corporativo.
+
+**Entrevista 2**
+
+Jose Ignacio Calle Chumacero
+
+Evidencia:
+<p align = "left">
+ <img src="/report/assets/interviews/Entrevista_Validacion_Jose_Ignacio_Foto.png">
+</p>
+
+Enlace de la entrevista: https://shorturl.at/2Tfga
+
+Resumen:
+
+Nos encontramos con José Ignacio Calle Chumacero, ingeniero industrial y actual líder de operaciones en la empresa Reciter Perú SAC. Durante la sesión, demostró ser un profesional analítico, pragmático y con una sólida experiencia técnica, destacando su especialización en el manejo de herramientas de control como Excel y el uso de tableros de mando. Para interactuar con el entrevistador y evaluar los prototipos presentados por el equipo, José Ignacio se conectó a una videollamada de forma remota, manteniendo una postura orientada a la eficiencia de los procesos y aportando una visión corporativa muy clara.
+
+Primero, a José Ignacio se le mostró la landing page de la plataforma Aquanetix para recoger sus impresiones sobre el diseño y la propuesta del ecosistema. Al leer el título principal, nos comentó que lo primero que asocia con la plataforma es una nueva versión de las tecnologías para plantas de tratamiento y reutilización de recursos hídricos en el país. Si bien consideró la interfaz muy ágil y directa por no saturar al usuario con botones innecesarios, señaló que a nivel cultural en el Perú existe un gran reto para el cumplimiento normativo. No obstante, por su perfil como ingeniero industrial enfocado en la logística de operaciones, destacó que el pilar más atractivo del proyecto es la optimización de costos operativos, ya que una mala planificación financiera puede arruinar cualquier plan teórico.
+
+Por último, al ingresar a la aplicación web y revisar el funcionamiento del dashboard, el entrevistado validó rápidamente la estructura visual afirmando que el diseño del panel de control es espectacular. Comentó que al iniciar el día lo primero que revisaría serían las alertas críticas, y consideró que el monitoreo en tiempo real con un formato de semáforo resulta sumamente intuitivo para efectos de ayuda visual. Respecto al tarifario presentado en la sección de suscripciones, José Ignacio lo percibió como una opción muy correcta y flexible para plantas que requieran una gran cantidad de sensores. No obstante, sugirió al equipo que se enfoquen en garantizar un margen mínimo de error desde el primer mes, argumentando que los gerentes de las grandes empresas suelen ser impacientes y exigen un retorno de inversión inmediato.
