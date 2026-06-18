@@ -381,7 +381,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 | Sprint 3  Review Summary | Durante el sprint 3, se logro desplegar la arquitectura backend de la aplicacion web, y crear los endpoints relacionados a los bounded context identificados. Asimismo, se corrigieron varias observaciones identificadas tanto en la Landing Page como en la aplicacion frontend. El Product Owner aprobo la estructura inicial, mas recomendo poner un mayor enfasis en la interaccion de backend con el frontend. |
 | Sprint 3  Retrospective Summary | El equipo identifico como acierto verificar la funcionalidad de los endpoints antes de subirlos al repositorio. Sin embargo, como oportunidad de mejora, se identifico implementar el uso de GitFlow en nuestro proyecto para trabajar de manera mas ordenada.|
 | Sprint 3 Goal |Nuestro enfoque está en ofrecer información detallada y real para los visitantes, facilidad de monitoreo y manejo de almacenamiento para las empresas suscritas a la plataforma, y aumentar las posibilidades para nuevos features para los desarrolladores.<br>Creemos que esto proporcionará una Landing Page atractiva para los visitantes, una aplicación de monitoreo estable para las empresas, y un entorno de desarrollo estable para los desarrolladores.<br>Esto se confirmará cuando los visitantes puedan ingresar a la plataforma directamente desde la Landing Page, las empresas puedan actualizar y ver los datos logisticos, obtenidos dinamicamente de la base de datos, sin depender de datos codificados; y cuando los desarrolladores puedan implementar nuevos features desde los endpoints existentes con facilidad.|
-| Sprint 3 Velocity |Para este Sprint 3, evaluando el desempennio previo, capacidad actual del equipo, y circunstancias actuales de tiempo, se establecio un Velocity de 112 Story Points.|
+| Sprint 3 Velocity |Para este Sprint 3, evaluando el desempeño previo, capacidad actual del equipo, y circunstancias actuales de tiempo, se establecio un Velocity de 112 Story Points.|
 | Sum of Story Points | 112 |
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 En esta sección se presenta la matriz de liderazgo y colaboración (LACX), donde se definen los roles de cada integrante del equipo en los distintos aspectos considerados dentro del Sprint.
@@ -397,6 +397,22 @@ Los aspectos seleccionados corresponden a las principales áreas del proyecto Aq
 | Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
 
 #### 5.2.3.3. Sprint Backlog 3.
+
+El objetivo de este sprint backlog 3 fue la asignación de tareas relacionadas al servicio backend de nuestra plataforma en lo que refiere a métodos HTTP: GET, PUT, POST y DELETE. Se asignó un líder por cada bounded context para el desarrollo de cada endpoint, asegurándonos de que se cumplan las Technical Stories especificadas. Asimismo, se levantaron las observaciones identificadas tanto en la Landing Page como en la aplicación frontend.
+
+Durante este Sprint, el equipo trabajó de manera colaborativa en la implementación de los diversos endpoints del servicio backend.
+
+<div align="center">
+  <img src="../assets/Jira/Captura SB3.png">
+  <img src="../assets/Jira/CapturaSB3_2.png">
+  <img src="../assets/Jira/CapturaSB3_3.png">
+  <img src="../assets/Jira/CapturaSB3_4.png">
+</div>
+
+Enlace a la herramienta utilizada: https://shorturl.at/xs1Pv
+
+A continuación, se detallan las User Stories priorizadas y las tareas asociadas:
+
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
