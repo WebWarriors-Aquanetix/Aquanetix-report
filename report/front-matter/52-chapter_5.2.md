@@ -574,4 +574,9 @@ Las actividades realizadas fueron:
 4. Despliegue mediante `firebase deploy`, verificando la publicación exitosa (`Deploy complete!`) y la disponibilidad de la aplicación en la URL de hosting.
 5. Verificación funcional de extremo a extremo: creación, edición y consulta de dispositivos desde el frontend desplegado, comprobando la persistencia real de los datos en la base de datos de Aiven a través del backend de Render.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+<p align = "left">
+   <img src="../assets/endpoints/captura_commits_AV2.png">
+</p>
 
