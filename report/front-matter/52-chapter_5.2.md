@@ -384,6 +384,18 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 | Sprint 3 Velocity |Para este Sprint 3, evaluando el desempennio previo, capacidad actual del equipo, y circunstancias actuales de tiempo, se establecio un Velocity de 112 Story Points.|
 | Sum of Story Points | 112 |
 #### 5.2.3.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la matriz de liderazgo y colaboración (LACX), donde se definen los roles de cada integrante del equipo en los distintos aspectos considerados dentro del Sprint.
+
+Los aspectos seleccionados corresponden a las principales áreas del proyecto Aquanetix, incluyendo desarrollo de la web application, Web Platform, la documentación y modelado del sistema.
+
+| Team Member (Last Name, First Name) | GitHub Username | Web Application | Web Platform | Documentation | Modeling |
+|------------------------------------|----------------|-------------|-------------|--------------|----------|
+| Bojórquez Bustinza, Renzo Alejandro | DeterminedSoul7 | C | C | L | L |
+| Cabrera Novoa, Leonardo Moisés | u202415820 | C | L | C | C |
+| Castro Solorza, Nicolás Eduardo | NicoCSE | L | C | C | C |
+| Cochachi Chagua, Sebastian Josue | sebastiancochachi02-cmd | C | C | C | C |
+| Pinedo Sanchez, Sebastián Martín | smp1107 | L | C | C | C |
+
 #### 5.2.3.3. Sprint Backlog 3.
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
