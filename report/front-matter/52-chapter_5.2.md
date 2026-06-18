@@ -383,3 +383,11 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 | Sprint 3 Goal |Nuestro enfoque está en ofrecer información detallada y real para los visitantes, facilidad de monitoreo y manejo de almacenamiento para las empresas suscritas a la plataforma, y aumentar las posibilidades para nuevos features para los desarrolladores.<br>Creemos que esto proporcionará una Landing Page atractiva para los visitantes, una aplicación de monitoreo estable para las empresas, y un entorno de desarrollo estable para los desarrolladores.<br>Esto se confirmará cuando los visitantes puedan ingresar a la plataforma directamente desde la Landing Page, las empresas puedan actualizar y ver los datos logisticos, obtenidos dinamicamente de la base de datos, sin depender de datos codificados; y cuando los desarrolladores puedan implementar nuevos features desde los endpoints existentes con facilidad.|
 | Sprint 3 Velocity |Para este Sprint 3, evaluando el desempennio previo, capacidad actual del equipo, y circunstancias actuales de tiempo, se establecio un Velocity de 112 Story Points.|
 | Sum of Story Points | 112 |
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.3. Sprint Backlog 3.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
