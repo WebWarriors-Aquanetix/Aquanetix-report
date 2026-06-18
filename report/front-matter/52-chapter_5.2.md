@@ -407,11 +407,18 @@ Durante este Sprint, el equipo trabajó de manera colaborativa en la implementac
   <img src="../assets/Jira/CapturaSB3_2.png">
   <img src="../assets/Jira/CapturaSB3_3.png">
   <img src="../assets/Jira/CapturaSB3_4.png">
+  <img src="../assets/Jira/CapturaSB3_5.png">
 </div>
 
 Enlace a la herramienta utilizada: https://shorturl.at/xs1Pv
 
 A continuación, se detallan las User Stories priorizadas y las tareas asociadas:
+
+
+| US Id | Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|------|------|--------|------------|------------|-------------------|-------------|--------|
+| US-03 | Ajuste de frecuencia de monitoreo | T-01 | Exponer endpoint de tipo PUT | Exponer endpoint REST implementando comando de actualización (PUT/api/v1/devices/{id}) en DevicesController | 5 | Renzo Bojórquez | Done |
+| US-21 | Visualización gráfica | T-02 | Exponer endpoint de tipo GET | Exponer endpoint REST para listar análisis ('GET/api/v1/quality-analysis') implementando 'GetAllQualityAnalysesQuery' en 'QualityAnalysisController'  | 4 | Sebastián Pinedo | Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
