@@ -424,6 +424,15 @@ A continuación, se detallan las User Stories priorizadas y las tareas asociadas
 | US-27 | Registro de volúmenes reutilizables | T-05 | Exponer endpoint de tipo DELETE | Exponer endpoint REST para eliminar lotes {'DELETE/api/v1/water-batches/{id}'} en 'WaterBatchesController'| 4 | Leonardo Cabrera| Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| aquanetix_platform | feature/get-all-devices | 7c8bad665184224272dd8a07fbf80f5c6c129def | feat(get-all-devices): add get all devices query. |  | 16/06/2026 |
+| aquanetix_platform | feature/get-all-quality-analyses |  | feat: implement GetAllQualityAnalyses query and endpoint |  | 17/05/2026 |
+| aquanetix_platform | feature/get-all-alerts |  | feat(monitoring): implement GetAllAlerts query and endpoint |  | 17/06/2026 |
+| aquanetix_platform | feature/get-subscription-by-id |  | feat(subscription): implement create subscription and get subscription by id |  | 16/06/2026 |
+| aquanetix_platform | feature/delete-water-batch | 53f8ddc14c1a8325a3597c8b538ac46499378ef2 | feat(service-design): add DeleteWaterBatch endpoint and command for deleting water batch entries |  | 15/06/2026 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 En esta sección se presentan evidencias de la ejecución de la web platform y sus respectivos endpoints desarrollado durante el Sprint .
 
