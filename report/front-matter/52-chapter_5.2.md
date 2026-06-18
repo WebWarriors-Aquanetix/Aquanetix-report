@@ -482,6 +482,96 @@ En esta imagen se observa el resultado de subir la base de datos de nuestra Web 
 En esta imagen se observa el resultado de desplegar el backend de nuestra web application en Render. Esto fue fundamental debido a que se automatiza la configuración de servidores y el despliegue continuo de nuestro código.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 3, el equipo consolidó la documentación de los Web Services de la plataforma Aquanetix utilizando OpenAPI (Swagger), generada automáticamente a partir de las anotaciones `SwaggerTag`, `SwaggerOperation` y `SwaggerResponse` incorporadas en cada controlador de la API. El alcance de este Sprint comprendió la documentación de los endpoints de los cinco Bounded Contexts del backend (ServiceDesign, Monitoring, Devices, Dashboard y Subscription), así como la incorporación del nuevo endpoint de creación de dispositivos (`POST /api/v1/devices`) y la documentación de los sub-recursos de configuración de umbrales (thresholds). La documentación se encuentra desplegada y accesible públicamente a través de la interfaz Swagger UI del servicio desplegado en Render.
+
+La especificación OpenAPI completa puede consultarse en los siguientes enlaces:
+
+- **Swagger UI (documentación interactiva):** https://aquanetix-platform.onrender.com/swagger
+- **Especificación OpenAPI (JSON):** https://aquanetix-platform.onrender.com/swagger/v1/swagger.json
+
+A continuación se presenta la relación de endpoints documentados con OpenAPI durante este Sprint, indicando para cada acción el verbo HTTP, la sintaxis de llamada, los parámetros esperados y la respuesta correspondiente.
+
+## Tabla de endpoints documentados
+
+| Bounded Context | Acción | Verbo HTTP | Sintaxis de llamada | Parámetros | Ejemplo de Request | Response |
+|---|---|---|---|---|---|---|
+| ServiceDesign | Listar lotes de agua | GET | `/api/v1/water-batches` | — | `GET /api/v1/water-batches` | `200 OK` · `WaterBatchResource[]` |
+| ServiceDesign | Obtener lote por id | GET | `/api/v1/water-batches/{id}` | `id` (path, int) | `GET /api/v1/water-batches/1` | `200 OK` · `WaterBatchResource` / `404` |
+| ServiceDesign | Crear lote de agua | POST | `/api/v1/water-batches` | Body `CreateWaterBatchResource` | `{ "certificationCode": "WB-2026-001", "destinationSectorId": 3, "volumeLiters": 1200.5, "deliveryTimestamp": "2026-06-18T10:00:00Z", "status": "Certified", "source": "Plant A" }` | `201 Created` · `WaterBatchResource` |
+| ServiceDesign | Actualizar lote | PUT | `/api/v1/water-batches/{id}` | `id` (path) + Body `UpdateWaterBatchResource` | `PUT /api/v1/water-batches/1` | `200 OK` / `404` |
+| ServiceDesign | Eliminar lote | DELETE | `/api/v1/water-batches/{id}` | `id` (path, int) | `DELETE /api/v1/water-batches/1` | `204 No Content` / `404` |
+| Monitoring | Listar alertas | GET | `/api/v1/alerts` | — | `GET /api/v1/alerts` | `200 OK` · `AlertResource[]` |
+| Monitoring | Obtener alerta por id | GET | `/api/v1/alerts/{id}` | `id` (path, int) | `GET /api/v1/alerts/5` | `200 OK` · `AlertResource` / `404` |
+| Monitoring | Alertas por dispositivo | GET | `/api/v1/alerts/device/{deviceId}` | `deviceId` (path, int) | `GET /api/v1/alerts/device/2` | `200 OK` · `AlertResource[]` |
+| Monitoring | Alertas por estado | GET | `/api/v1/alerts/status/{status}` | `status` (path, string) | `GET /api/v1/alerts/status/Active` | `200 OK` · `AlertResource[]` |
+| Monitoring | Crear alerta | POST | `/api/v1/alerts` | Body `CreateAlertResource` | `{ "deviceId": 2, "type": "Turbidity", "severity": "Warning", "message": "...", "value": 8.0, "threshold": 6.0 }` | `201 Created` · `AlertResource` |
+| Monitoring | Actualizar alerta | PUT | `/api/v1/alerts/{id}` | `id` (path) + Body `UpdateAlertResource` | `PUT /api/v1/alerts/5` | `200 OK` / `404` |
+| Devices | Listar dispositivos | GET | `/api/v1/devices` | — | `GET /api/v1/devices` | `200 OK` · `DeviceResource[]` |
+| Devices | Obtener dispositivo por id | GET | `/api/v1/devices/{deviceId}` | `deviceId` (path, int) | `GET /api/v1/devices/1` | `200 OK` · `DeviceResource` / `404` |
+| Devices | Crear dispositivo | POST | `/api/v1/devices` | Body `CreateDeviceResource` | `{ "ownerId": 1, "serialNumber": "SN-PH-007", "deviceType": "PH", "name": "SN-PH-007", "location": "Planta Norte", "unit": "pH", "currentValue": 7.2 }` | `201 Created` · `DeviceResource` |
+| Devices | Actualizar dispositivo | PUT | `/api/v1/devices/{deviceId}` | `deviceId` (path) + Body `UpdateDeviceResource` | `PUT /api/v1/devices/1` | `200 OK` · `DeviceResource` / `404` |
+| Devices | Listar umbrales de un dispositivo | GET | `/api/v1/devices/{deviceId}/thresholds` | `deviceId` (path, int) | `GET /api/v1/devices/1/thresholds` | `200 OK` · `ThresholdResource[]` |
+| Devices | Crear umbral de un dispositivo | POST | `/api/v1/devices/{deviceId}/thresholds` | `deviceId` (path) + Body `CreateThresholdResource` | `{ "minValue": 6.5, "maxValue": 8.5, "unit": "pH", "alertLevel": "Warning" }` | `201 Created` · `ThresholdResource` |
+| Dashboard | Listar análisis de calidad | GET | `/api/v1/quality-analysis` | — | `GET /api/v1/quality-analysis` | `200 OK` · `QualityAnalysisResource[]` |
+| Dashboard | Obtener análisis por id | GET | `/api/v1/quality-analysis/{id}` | `id` (path, int) | `GET /api/v1/quality-analysis/1` | `200 OK` · `QualityAnalysisResource` / `404` |
+| Dashboard | Crear análisis de calidad | POST | `/api/v1/quality-analysis` | Body `CreateQualityAnalysisResource` | `POST /api/v1/quality-analysis` | `201 Created` · `QualityAnalysisResource` |
+| Subscription | Obtener suscripción por id | GET | `/api/v1/subscriptions/{id}` | `id` (path) | `GET /api/v1/subscriptions/1` | `200 OK` · `SubscriptionResource` / `404` |
+| Subscription | Crear suscripción | POST | `/api/v1/subscriptions` | Body `CreateSubscriptionResource` | `POST /api/v1/subscriptions` | `201 Created` · `SubscriptionResource` |
+| Subscription | Cancelar suscripción | PUT | `/api/v1/subscriptions/{id}/cancel` | `id` (path) | `PUT /api/v1/subscriptions/1/cancel` | `200 OK` / `404` |
+| Subscription | Renovar suscripción | PUT | `/api/v1/subscriptions/{id}/renew` | `id` (path) | `PUT /api/v1/subscriptions/1/renew` | `200 OK` / `404` |
+
+> Todos los endpoints aceptan un `CancellationToken` y devuelven respuestas de error estandarizadas mediante `ProblemDetailsFactory`. Los enumerados (`DeviceType`, `DeviceStatus`, `AlertLevel`, etc.) se serializan como cadena en los recursos de respuesta para facilitar su lectura desde el cliente.
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 3, el equipo completó el despliegue de los componentes principales de la plataforma Aquanetix en proveedores cloud, abarcando los Web Services (backend), la Web Application (frontend) y la base de datos. El objetivo de este Sprint fue garantizar que la aplicación funcionara de extremo a extremo en entornos productivos: que el frontend desplegado consumiera datos reales del backend desplegado, y que este último persistiera la información en una base de datos gestionada en la nube. A continuación se describen las actividades de creación de cuentas, configuración de recursos en los proveedores cloud y configuración de los proyectos para la integración del despliegue.
+
+ #### Arquitectura de despliegue
+
+El despliegue de la plataforma se distribuye en tres servicios cloud independientes:
+
+| Componente | Proveedor | Tecnología | URL |
+|---|---|---|---|
+| Web Services (Backend) | Render | Docker · ASP.NET Core 10 | https://aquanetix-platform.onrender.com/swagger |
+| Web Application (Frontend) | Firebase Hosting | Vue 3 · Vite | https://aquanetix-deploy.web.app |
+| Base de datos | Aiven | MySQL 8 | (privada, accedida vía connection string) |
+
+ #### 1. Despliegue de la Base de Datos (Aiven — MySQL 8)
+
+Durante Sprints previos, la base de datos se hospedaba en Filess.io con MySQL 5.7; sin embargo, dicho proveedor presentaba incompatibilidades con las conexiones asíncronas del proveedor `MySql.EntityFrameworkCore` de Oracle. Por este motivo, durante este Sprint se migró la base de datos al servicio gestionado de **Aiven con MySQL 8**, que ofrece soporte completo para conexiones SSL y mayor estabilidad.
+
+Las actividades realizadas fueron:
+
+1. Creación de la cuenta en Aiven y aprovisionamiento de un servicio MySQL 8 gestionado.
+2. Obtención de la connection string con SSL requerido (`SslMode=Required`), host, puerto y credenciales del servicio.
+3. Aplicación del esquema de base de datos mediante migraciones de Entity Framework Core (`dotnet ef database update`), incluyendo la nueva migración `AddDevicePresentationFields` de este Sprint, que añade las columnas `name`, `location`, `unit` y `current_value` a la tabla `devices`.
+4. Verificación de la creación de las tablas (`devices`, `threshold_configurations`, `alerts`, `quality_analyses`, `water_batches`, `subscriptions`, `__EFMigrationsHistory`) y del registro de la migración en el historial.
+
+ #### 2. Despliegue de los Web Services (Render — Docker)
+
+El backend se desplegó en **Render** utilizando un contenedor Docker, conectado a la rama `main` del repositorio para despliegue continuo: cada vez que se realiza un merge a `main`, Render reconstruye y redespliega el servicio automáticamente.
+
+Las actividades realizadas fueron:
+
+1. Creación del servicio web en Render a partir del repositorio de GitHub, configurado para construir mediante el Dockerfile del proyecto.
+2. Configuración de las variables de entorno del servicio, incluyendo la connection string hacia Aiven (gestionada como variable de entorno y no versionada en el repositorio por motivos de seguridad).
+3. Habilitación de Swagger UI en todos los entornos, de modo que la documentación de la API sea accesible públicamente en producción.
+4. Verificación del arranque del servicio mediante los logs de Render (`Your service is live`) y la respuesta exitosa de la especificación OpenAPI (`GET /swagger/v1/swagger.json → 200`).
+
+> Durante el Sprint se gestionó adecuadamente un incidente de seguridad: GitHub Push Protection detectó una connection string con credenciales de Aiven en un commit. Se resolvió eliminando los archivos `appsettings.json` del control de versiones (añadiéndolos al `.gitignore`) y reescribiendo el historial del feature branch para no exponer secretos, siguiendo buenas prácticas de manejo de credenciales.
+
+
+#### 3. Despliegue de la Web Application (Firebase Hosting)
+
+El frontend, desarrollado en Vue 3 con Vite, se desplegó en **Firebase Hosting**. Durante este Sprint se reconfiguró la aplicación para que consumiera el backend real desplegado en Render (reemplazando los servicios mock utilizados previamente), apuntando las variables de entorno (`VITE_AQUANETIX_API_URL`) a la URL del servicio en Render.
+
+Las actividades realizadas fueron:
+
+1. Configuración del proyecto de Firebase y del hosting (`firebase.json`), estableciendo la carpeta `dist` (generada por `vite build`) como directorio público.
+2. Reconfiguración de la capa de infraestructura del frontend para consumir los endpoints reales del backend, con mapeo de datos (assemblers) entre el contrato del backend y el modelo de la interfaz.
+3. Generación del build de producción mediante `npm run build`.
+4. Despliegue mediante `firebase deploy`, verificando la publicación exitosa (`Deploy complete!`) y la disponibilidad de la aplicación en la URL de hosting.
+5. Verificación funcional de extremo a extremo: creación, edición y consulta de dispositivos desde el frontend desplegado, comprobando la persistencia real de los datos en la base de datos de Aiven a través del backend de Render.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
