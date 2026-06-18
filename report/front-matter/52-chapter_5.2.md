@@ -428,9 +428,9 @@ A continuación, se detallan las User Stories priorizadas y las tareas asociadas
 | Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
 | aquanetix_platform | feature/get-all-devices | 7c8bad665184224272dd8a07fbf80f5c6c129def | feat(get-all-devices): add get all devices query. |  | 16/06/2026 |
-| aquanetix_platform | feature/get-all-quality-analyses |  | feat: implement GetAllQualityAnalyses query and endpoint |  | 17/05/2026 |
-| aquanetix_platform | feature/get-all-alerts |  | feat(monitoring): implement GetAllAlerts query and endpoint |  | 17/06/2026 |
-| aquanetix_platform | feature/get-subscription-by-id |  | feat(subscription): implement create subscription and get subscription by id |  | 16/06/2026 |
+| aquanetix_platform | feature/get-all-quality-analyses | 7be44256f1cdf815b9eca3611f5311138886f647 | feat: implement GetAllQualityAnalyses query and endpoint |  | 17/05/2026 |
+| aquanetix_platform | feature/get-all-alerts | 77026adc3d13ad0c6072a74fcf81d430e6155eca | feat(monitoring): implement GetAllAlerts query and endpoint |  | 17/06/2026 |
+| aquanetix_platform | feature/get-subscription-by-id | 29187e7120e7fe903b80af4d66975ce7624cabba | feat(subscription): implement create subscription and get subscription by id |  | 16/06/2026 |
 | aquanetix_platform | feature/delete-water-batch | 53f8ddc14c1a8325a3597c8b538ac46499378ef2 | feat(service-design): add DeleteWaterBatch endpoint and command for deleting water batch entries |  | 15/06/2026 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
