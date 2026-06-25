@@ -61,6 +61,13 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>US01</td>
+      <td>Suscripción Automatizada y Control de Acceso</td>
+      <td>Como operador técnico, quiero realizar el pago de mi suscripción mensual a través de una pasarela segura, para obtener acceso inmediato a los tableros de control y reportes de calidad del agua.</td>
+      <td>8</td>
+    </tr>
+    <tr>
       <td>9</td>
       <td>US38</td>
       <td>Configuración de rangos de seguridad para pH</td>
@@ -96,6 +103,41 @@
       <td>5</td>
     </tr>
     <tr>
+      <td>43</td>
+     <td>US32</td>
+      <td>Análisis de tendencias de datos</td>
+      <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>44</td>
+     <td>US33</td>
+      <td>Reporte de incidencias</td>
+      <td>Como supervisor, quiero consultar reportes de incidencias para evaluar la frecuencia de eventos críticos en la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>US07</td>
+      <td>Identificación de variaciones anómalas</td>
+      <td>Como operador técnico, quiero detectar variaciones anómalas en los parámetros monitoreados para actuar antes de que ocurra una falla.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Consulta de alertas activas</td>
+      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>27</td>
+     <td>US14</td>
+      <td>Registro del historial de alertas</td>
+      <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
     <td>42</td>
      <td>US31</td>
       <td>Generación de reportes operativos</td>
@@ -124,19 +166,26 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>US01</td>
-      <td>Suscripción Automatizada y Control de Acceso</td>
-      <td>Como operador técnico, quiero realizar el pago de mi suscripción mensual a través de una pasarela segura, para obtener acceso inmediato a los tableros de control y reportes de calidad del agua.</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>25</td>
       <td>US08</td>
       <td>Renovación automática de suscripción</td>
       <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
       <td>5</td>
      </tr>
+    <tr>
+      <td>11</td>
+      <td>US40</td>
+      <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
+      <td>Como operador técnico, quiero definir la concentración máxima permitida de gases (como $H_2S$ o $CH_4$) para prevenir explosiones o intoxicaciones en la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US41</td>
+      <td>Consolidado de alertas operativas pendientes.</td>
+      <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
+      <td>3</td>
+    </tr>
     <tr>
       <td>17</td>
       <td>US20</td>
@@ -166,20 +215,6 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>43</td>
-     <td>US32</td>
-      <td>Análisis de tendencias de datos</td>
-      <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>44</td>
-     <td>US33</td>
-      <td>Reporte de incidencias</td>
-      <td>Como supervisor, quiero consultar reportes de incidencias para evaluar la frecuencia de eventos críticos en la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>22</td>
      <td>US03</td>
       <td>Ajuste de frecuencia de monitoreo</td>
@@ -206,41 +241,6 @@
       <td>Actualización automática de datos</td>
       <td>Como operador técnico, quiero que los datos del monitoreo se actualicen automáticamente para mantener información vigente durante la supervisión.</td>
       <td>5</td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>US07</td>
-      <td>Identificación de variaciones anómalas</td>
-      <td>Como operador técnico, quiero detectar variaciones anómalas en los parámetros monitoreados para actuar antes de que ocurra una falla.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>US13</td>
-      <td>Consulta de alertas activas</td>
-      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>27</td>
-     <td>US14</td>
-      <td>Registro del historial de alertas</td>
-      <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>US40</td>
-      <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
-      <td>Como operador técnico, quiero definir la concentración máxima permitida de gases (como $H_2S$ o $CH_4$) para prevenir explosiones o intoxicaciones en la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>US41</td>
-      <td>Consolidado de alertas operativas pendientes.</td>
-      <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
-      <td>3</td>
     </tr>
     <tr>
       <td>20</td>
