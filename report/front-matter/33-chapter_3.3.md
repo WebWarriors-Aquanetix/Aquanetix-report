@@ -82,9 +82,6 @@
       <td>8</td>
     </tr>
     <tr>
-     <tr>
-    </tr>
-    <tr>
       <td>13</td>
       <td>US11</td>
       <td>Generación automática de alertas</td>
@@ -96,13 +93,6 @@
       <td>US12</td>
       <td>Clasificación de alertas por nivel de riesgo</td>
       <td>Como operador técnico, quiero que las alertas se clasifiquen según su nivel de riesgo para priorizar la atención de incidencias.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>US13</td>
-      <td>Consulta de alertas activas</td>
-      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
       <td>3</td>
     </tr>
     <tr>
@@ -118,6 +108,55 @@
       <td>Visualización del estado general del sistema</td>
       <td>Como supervisor, quiero visualizar el estado general del sistema para identificar rápidamente situaciones críticas.</td>
       <td>5</td>
+    </tr>
+     <tr>
+      <td>25</td>
+      <td>US08</td>
+      <td>Renovación automática de suscripción</td>
+      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>26</td>
+     <td>US15</td>
+      <td>Marcado de alertas atendidas</td>
+      <td>Como operador técnico, quiero marcar alertas como atendidas para llevar control sobre las incidencias resueltas en la red.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>28</td>
+       <td>US10</td>
+      <td>Consulta de historial reciente de monitoreo</td>
+      <td>Como operador técnico, quiero revisar el historial reciente de los sensores para comparar cambios en el comportamiento de la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>US21</td>
+      <td>Visualización gráfica de datos</td>
+      <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>43</td>
+     <td>US32</td>
+      <td>Análisis de tendencias de datos</td>
+      <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>44</td>
+     <td>US33</td>
+      <td>Reporte de incidencias</td>
+      <td>Como supervisor, quiero consultar reportes de incidencias para evaluar la frecuencia de eventos críticos en la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Consulta de alertas activas</td>
+      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>19</td>
@@ -183,39 +222,11 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>US08</td>
-      <td>Renovación automática de suscripción</td>
-      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>26</td>
-     <td>US15</td>
-      <td>Marcado de alertas atendidas</td>
-      <td>Como operador técnico, quiero marcar alertas como atendidas para llevar control sobre las incidencias resueltas en la red.</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>27</td>
      <td>US14</td>
       <td>Registro del historial de alertas</td>
       <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
       <td>3</td>
-    </tr>
-    <tr>
-      <td>28</td>
-       <td>US10</td>
-      <td>Consulta de historial reciente de monitoreo</td>
-      <td>Como operador técnico, quiero revisar el historial reciente de los sensores para comparar cambios en el comportamiento de la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>US21</td>
-      <td>Visualización gráfica de datos</td>
-      <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
-      <td>5</td>
     </tr>
     <tr>
       <td>30</td>
@@ -309,27 +320,12 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>43</td>
-     <td>US32</td>
-      <td>Análisis de tendencias de datos</td>
-      <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>44</td>
-     <td>US33</td>
-      <td>Reporte de incidencias</td>
-      <td>Como supervisor, quiero consultar reportes de incidencias para evaluar la frecuencia de eventos críticos en la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>45</td>
      <td>US34</td>
       <td>Reporte de impacto en reutilización de agua</td>
       <td>Como supervisor, quiero visualizar el impacto del uso de agua reutilizada para evaluar los beneficios operativos y ambientales.</td>
       <td>5</td>
     </tr>
-    
   </tbody>
 </table>
 
