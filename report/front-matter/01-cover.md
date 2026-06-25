@@ -1,26 +1,43 @@
 <p align = "center">
   <img src="../assets/logos/UPC_Logo.png" width ="100" height="100">
 </p>
-<h1 align = "center">
-  UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS<br>
-  Carrera de Ingeniería de Software
-</h1>
 <p align = "center">
-  <b>1ASI0730<br></b>
-  <b>Aplicaciones Web<br></b> 
-  NRC<br>
-  <b>12242<br></b>
-  <b>Informe del Trabajo Final<br></b>
-  Docente<br>
-  <b>Velásquez Nuñez, Angel Augusto<br></b>
-  Equipo<br>
-  <b>WebWarriors<br></b>
-  Proyecto<br>
-  <b>Aquanetix<br></b>
+  Universidad Peruana de Ciencias Aplicadas<br>
+  Carrera de Ingeniería de Software
 </p>
+<h4 align = "center">
+  1ASI0730
+</h4>
+<h4 align = "center">
+  Aplicaciones Web
+</h4>
+<p align = "center">
+  NRC
+</p>
+<h4 align = "center">
+  12242
+</h4>
 <h3 align = "center">
-  Relación de integrantes:
+  Informe del Trabajo Final
 </h3>
+<p align = "center">
+  Docente
+</p>
+<h4 align = "center">
+  Velásquez Nuñez, Angel Augusto
+</h4>
+  <p align = "center">Equipo<br>
+  </p>
+  <h4 align = "center">
+  WebWarriors
+  </h4>
+  <p align = "center">Proyecto</p>
+  <h4 align = "center">
+  Aquanetix
+  </h4>
+<h4 align = "center">
+  Integrantes
+</h4>
 <div align = "center">
   
   || Código | Apellidos y Nombres |
@@ -32,6 +49,9 @@
   |5| U202416320 | Cochachi Chagua Sebastian Josue |
   
 </div>
-<h3 align = "center">
+<h4 align = "center">
   Período 202610
-</h3>
+</h4>
+<h4 align = "center">
+  Julio 2026
+</h4>
