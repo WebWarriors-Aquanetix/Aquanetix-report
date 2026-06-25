@@ -61,13 +61,6 @@
       <td>2</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>US01</td>
-      <td>Suscripción Automatizada y Control de Acceso</td>
-      <td>Como operador técnico, quiero realizar el pago de mi suscripción mensual a través de una pasarela segura, para obtener acceso inmediato a los tableros de control y reportes de calidad del agua.</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>9</td>
       <td>US38</td>
       <td>Configuración de rangos de seguridad para pH</td>
@@ -96,6 +89,55 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>29</td>
+      <td>US21</td>
+      <td>Visualización gráfica de datos</td>
+      <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+    <td>42</td>
+     <td>US31</td>
+      <td>Generación de reportes operativos</td>
+      <td>Como supervisor, quiero generar reportes operativos para evaluar el desempeño del sistema de monitoreo.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>US25</td>
+      <td>Identificación de agua reutilizable</td>
+      <td>Como operador técnico, quiero identificar cuando el agua cumple parámetros adecuados para su reutilización para aprovechar el recurso disponible.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>US26</td>
+      <td>Validación de condiciones de reutilización</td>
+      <td>Como operador técnico, quiero validar que el agua cumpla condiciones específicas antes de su reutilización para garantizar su uso seguro.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>US27</td>
+      <td>Registro de volúmenes reutilizables</td>
+      <td>Como operador técnico, quiero registrar el volumen de agua reutilizable para gestionar su disponibilidad.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US01</td>
+      <td>Suscripción Automatizada y Control de Acceso</td>
+      <td>Como operador técnico, quiero realizar el pago de mi suscripción mensual a través de una pasarela segura, para obtener acceso inmediato a los tableros de control y reportes de calidad del agua.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US08</td>
+      <td>Renovación automática de suscripción</td>
+      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
+      <td>5</td>
+     </tr>
+    <tr>
       <td>17</td>
       <td>US20</td>
       <td>Visualización de indicadores clave</td>
@@ -107,13 +149,6 @@
      <td>US23</td>
       <td>Visualización del estado general del sistema</td>
       <td>Como supervisor, quiero visualizar el estado general del sistema para identificar rápidamente situaciones críticas.</td>
-      <td>5</td>
-    </tr>
-     <tr>
-      <td>25</td>
-      <td>US08</td>
-      <td>Renovación automática de suscripción</td>
-      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
       <td>5</td>
     </tr>
     <tr>
@@ -131,13 +166,6 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>US21</td>
-      <td>Visualización gráfica de datos</td>
-      <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>43</td>
      <td>US32</td>
       <td>Análisis de tendencias de datos</td>
@@ -152,11 +180,25 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>US13</td>
-      <td>Consulta de alertas activas</td>
-      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
+      <td>22</td>
+     <td>US03</td>
+      <td>Ajuste de frecuencia de monitoreo</td>
+      <td>Como operador técnico, quiero definir la frecuencia de captura de datos de los sensores para optimizar el monitoreo.</td>
       <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US04</td>
+      <td>Configuración de visualización del monitoreo</td>
+      <td>Como usuario, quiero configurar la visualización de los datos para facilitar el análisis de la información.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
+     <td>US39</td>
+      <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
+      <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>19</td>
@@ -164,6 +206,27 @@
       <td>Actualización automática de datos</td>
       <td>Como operador técnico, quiero que los datos del monitoreo se actualicen automáticamente para mantener información vigente durante la supervisión.</td>
       <td>5</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>US07</td>
+      <td>Identificación de variaciones anómalas</td>
+      <td>Como operador técnico, quiero detectar variaciones anómalas en los parámetros monitoreados para actuar antes de que ocurra una falla.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Consulta de alertas activas</td>
+      <td>Como supervisor, quiero consultar las alertas activas para identificar rápidamente los eventos que requieren atención inmediata.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>27</td>
+     <td>US14</td>
+      <td>Registro del historial de alertas</td>
+      <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>11</td>
@@ -194,27 +257,6 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>22</td>
-     <td>US03</td>
-      <td>Ajuste de frecuencia de monitoreo</td>
-      <td>Como operador técnico, quiero definir la frecuencia de captura de datos de los sensores para optimizar el monitoreo.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>US04</td>
-      <td>Configuración de visualización del monitoreo</td>
-      <td>Como usuario, quiero configurar la visualización de los datos para facilitar el análisis de la información.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>10</td>
-     <td>US39</td>
-      <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
-      <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>24</td>
       <td>US24</td>
       <td>Personalización de vistas del dashboard</td>
@@ -222,25 +264,11 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>27</td>
-     <td>US14</td>
-      <td>Registro del historial de alertas</td>
-      <td>Como supervisor, quiero acceder al historial de alertas para analizar incidentes previos y mejorar la toma de decisiones operativas.</td>
-      <td>3</td>
-    </tr>
-    <tr>
       <td>30</td>
      <td>US22</td>
       <td>Filtrado de información por zona y tiempo</td>
       <td>Como usuario, quiero filtrar los datos por zona y periodo de tiempo para analizar información específica.</td>
       <td>3</td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>US07</td>
-      <td>Identificación de variaciones anómalas</td>
-      <td>Como operador técnico, quiero detectar variaciones anómalas en los parámetros monitoreados para actuar antes de que ocurra una falla.</td>
-      <td>5</td>
     </tr>
     <tr>
       <td>32</td>
@@ -271,27 +299,6 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>US25</td>
-      <td>Identificación de agua reutilizable</td>
-      <td>Como operador técnico, quiero identificar cuando el agua cumple parámetros adecuados para su reutilización para aprovechar el recurso disponible.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>US26</td>
-      <td>Validación de condiciones de reutilización</td>
-      <td>Como operador técnico, quiero validar que el agua cumpla condiciones específicas antes de su reutilización para garantizar su uso seguro.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>US27</td>
-      <td>Registro de volúmenes reutilizables</td>
-      <td>Como operador técnico, quiero registrar el volumen de agua reutilizable para gestionar su disponibilidad.</td>
-      <td>3</td>
-    </tr>
-    <tr>
       <td>39</td>
        <td>US28</td>
       <td>Gestión de disponibilidad de agua reutilizada</td>
@@ -311,13 +318,6 @@
       <td>Seguimiento del uso de agua reutilizada</td>
       <td>Como supervisor, quiero hacer seguimiento del uso de agua reutilizada para evaluar el impacto en la operación.</td>
       <td>3</td>
-    </tr>
-    <tr>
-      <td>42</td>
-     <td>US31</td>
-      <td>Generación de reportes operativos</td>
-      <td>Como supervisor, quiero generar reportes operativos para evaluar el desempeño del sistema de monitoreo.</td>
-      <td>5</td>
     </tr>
     <tr>
       <td>45</td>
