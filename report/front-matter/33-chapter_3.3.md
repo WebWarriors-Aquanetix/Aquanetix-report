@@ -75,42 +75,77 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>US05</td>
       <td>Visualización de datos en tiempo real</td>
       <td>Como operador técnico, quiero visualizar los datos de pH, flujo y gases en tiempo real para supervisar el estado de la red.</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>US11</td>
       <td>Generación automática de alertas</td>
       <td>Como operador técnico, quiero que el sistema genere alertas automáticas cuando detecte valores críticos para actuar oportunamente ante riesgos en la red.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>US12</td>
       <td>Clasificación de alertas por nivel de riesgo</td>
       <td>Como operador técnico, quiero que las alertas se clasifiquen según su nivel de riesgo para priorizar la atención de incidencias.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>13</td>
+      <td>US20</td>
+      <td>Visualización de indicadores clave</td>
+      <td>Como supervisor, quiero visualizar indicadores clave del sistema para evaluar el estado general de la operación.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>14</td>
+     <td>US23</td>
+      <td>Visualización del estado general del sistema</td>
+      <td>Como supervisor, quiero visualizar el estado general del sistema para identificar rápidamente situaciones críticas.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US08</td>
+      <td>Renovación automática de suscripción</td>
+      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
+      <td>5</td>
+     </tr>
+    <tr>
+      <td>16</td>
+     <td>US15</td>
+      <td>Marcado de alertas atendidas</td>
+      <td>Como operador técnico, quiero marcar alertas como atendidas para llevar control sobre las incidencias resueltas en la red.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
+       <td>US10</td>
+      <td>Consulta de historial reciente de monitoreo</td>
+      <td>Como operador técnico, quiero revisar el historial reciente de los sensores para comparar cambios en el comportamiento de la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>US21</td>
       <td>Visualización gráfica de datos</td>
       <td>Como usuario, quiero ver gráficos de los datos monitoreados para interpretar tendencias de manera clara.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>19</td>
      <td>US32</td>
       <td>Análisis de tendencias de datos</td>
       <td>Como supervisor, quiero analizar tendencias en los datos para identificar patrones de comportamiento en la red.</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>20</td>
      <td>US33</td>
       <td>Reporte de incidencias</td>
       <td>Como supervisor, quiero consultar reportes de incidencias para evaluar la frecuencia de eventos críticos en la red.</td>
@@ -166,13 +201,6 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>US08</td>
-      <td>Renovación automática de suscripción</td>
-      <td>Como usuario, quiero que el sistema gestione la renovación automática de mi suscripción, para evitar interrupciones en el monitoreo de mis sensores y en la programación de mis pedidos de agua.</td>
-      <td>5</td>
-     </tr>
-    <tr>
       <td>11</td>
       <td>US40</td>
       <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
@@ -186,35 +214,7 @@
       <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
       <td>3</td>
     </tr>
-    <tr>
-      <td>17</td>
-      <td>US20</td>
-      <td>Visualización de indicadores clave</td>
-      <td>Como supervisor, quiero visualizar indicadores clave del sistema para evaluar el estado general de la operación.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>18</td>
-     <td>US23</td>
-      <td>Visualización del estado general del sistema</td>
-      <td>Como supervisor, quiero visualizar el estado general del sistema para identificar rápidamente situaciones críticas.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>26</td>
-     <td>US15</td>
-      <td>Marcado de alertas atendidas</td>
-      <td>Como operador técnico, quiero marcar alertas como atendidas para llevar control sobre las incidencias resueltas en la red.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>28</td>
-       <td>US10</td>
-      <td>Consulta de historial reciente de monitoreo</td>
-      <td>Como operador técnico, quiero revisar el historial reciente de los sensores para comparar cambios en el comportamiento de la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
+        <tr>
       <td>22</td>
      <td>US03</td>
       <td>Ajuste de frecuencia de monitoreo</td>
