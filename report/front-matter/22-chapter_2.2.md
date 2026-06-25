@@ -9,7 +9,9 @@ Para que Aquanetix logre tener éxito como la aplicación que permitirá reutili
 4.	¿Cuál es su estado civil? / ¿Cómo está compuesta su familia?
 5.	¿A qué se dedica? ¿Estudia o trabaja?
 6.	¿Qué dispositivos tecnológicos prefiere utilizar?
-7.	¿Cuáles son sus cualidades y debilidades?<br>
+7.	¿Cuáles son sus cualidades y debilidades?
+8. ¿A través de qué canales digitales prefiere comunicarse o informarse (redes sociales, correo, foros especializados)?
+9. ¿Hay alguna marca de tecnología, herramienta o referente en su sector(tablet, celular o laptop)? <br>
 
 **Bloque de preguntas enfocadas en el segmento 1: Empresas prestadoras de servicios de agua y alcantarillados.**
 1.	¿Cómo monitorean actualmente la calidad del agua en tiempo real antes de su tratamiento?
