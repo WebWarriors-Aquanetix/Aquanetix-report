@@ -75,20 +75,6 @@
       <td>5</td>
     </tr>
     <tr>
-      <td>10</td>
-     <td>US39</td>
-      <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
-      <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>US40</td>
-      <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
-      <td>Como operador técnico, quiero definir la concentración máxima permitida de gases (como $H_2S$ o $CH_4$) para prevenir explosiones o intoxicaciones en la red.</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>12</td>
       <td>US05</td>
       <td>Visualización de datos en tiempo real</td>
@@ -120,13 +106,6 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>US41</td>
-      <td>Consolidado de alertas operativas pendientes.</td>
-      <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
-      <td>3</td>
-    </tr>
-    <tr>
       <td>17</td>
       <td>US20</td>
       <td>Visualización de indicadores clave</td>
@@ -146,6 +125,20 @@
       <td>Actualización automática de datos</td>
       <td>Como operador técnico, quiero que los datos del monitoreo se actualicen automáticamente para mantener información vigente durante la supervisión.</td>
       <td>5</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US40</td>
+      <td>Configuración de niveles de alerta para gases inflamables/tóxicos.</td>
+      <td>Como operador técnico, quiero definir la concentración máxima permitida de gases (como $H_2S$ o $CH_4$) para prevenir explosiones o intoxicaciones en la red.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US41</td>
+      <td>Consolidado de alertas operativas pendientes.</td>
+      <td>Como supervisor, quiero ver un listado priorizado de todas las anomalías activas en la red para asignar equipos de mantenimiento de manera eficiente.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>20</td>
@@ -174,6 +167,13 @@
       <td>Configuración de visualización del monitoreo</td>
       <td>Como usuario, quiero configurar la visualización de los datos para facilitar el análisis de la información.</td>
       <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
+     <td>US39</td>
+      <td>Configuración de límites de caudal para detección de fugas u obstrucciones.</td>
+      <td>Como operador técnico, quiero establecer el flujo nominal y los márgenes de tolerancia para identificar fugas (caída de presión) o taponamientos (sobrepresión).</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>24</td>
