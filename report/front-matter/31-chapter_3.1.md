@@ -961,16 +961,34 @@ Entonces el sistema debe rechazar la operación retornando un código de estado 
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T05</td>
+      <td>Register-Devices-BC</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/devices, para procesar el registro masivo o individual de nuevos dispositivos de monitoreo hídrico dentro de su respectivo contexto de negocio en la plataforma.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que una aplicación emisora envía una solicitud HTTP POST a /api/devices incluyendo los campos obligatorios del dispositivo (número de serie, modelo, etc.).
+Cuando el backend verifica que el dispositivo no se encuentra duplicado y lo persiste en la base de datos de manera exitosa.
+Entonces el sistema debe retornar un código de estado 201 Created y el recurso recién creado en el cuerpo de la respuesta.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se envía una solicitud HTTP POST para registrar un dispositivo cuyo identificador único o número de serie ya existe en el sistema.
+Cuando el backend realiza la validación de unicidad en la persistencia.
+Entonces el sistema debe prevenir la duplicación de datos retornando un código de estado 490 Conflict (o 400 Bad Request) informando la naturaleza del problema.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-        <br><br>
+<br><br>
         
 <b>Criterio de aceptación 2:</b><br>
 <br></td>
       <td>N/A</td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
