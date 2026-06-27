@@ -1355,13 +1355,19 @@ Entonces el sistema debe denegar la operación devolviendo un código de estado 
     </tr>    
       <tr>
       <td>T27</td>
-      <td></td>
-      <td></td>
+      <td>Register-Subscription-BC</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/subscriptions, para registrar la adquisición de una nueva suscripción corporativa en su respectivo contexto de negocio.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
+Dado que una aplicación emisora envía una solicitud HTTP POST a /api/subscriptions incluyendo los campos obligatorios del plan y cliente.
+Cuando el backend valida e inserta exitosamente la suscripción en la base de datos.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el recurso recién creado en el cuerpo de la respuesta.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+Dado que se procesa una solicitud POST omitiendo parámetros críticos del contrato de suscripción (como el identificador del cliente o el tipo de plan).
+Cuando el middleware de la API intercepta y evalúa el request.
+Entonces el sistema debe rechazar el registro retornando un código de estado 400 Bad Request.
 <br></td>
       <td>N/A</td>
     </tr>
