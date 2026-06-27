@@ -943,6 +943,24 @@ Entonces el sistema debe retornar un código de estado 400 Bad Request junto con
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T04</td>
+      <td>Create-Device-Thresholds</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/devices/{id}/thresholds, para registrar los umbrales de alerta mínimos y máximos asignados a las métricas de un dispositivo de monitoreo hídrico.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP POST a /api/devices/{id}/thresholds enviando un JSON con los límites de alerta estructurados correctamente.
+Cuando el sistema procesa el almacenamiento de estos nuevos parámetros de control.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto JSON de los umbrales creados y su respectivo identificador.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud POST al endpoint omitiendo campos obligatorios o definiendo un umbral mínimo mayor que el máximo.
+Cuando el backend evalúa la integridad y lógica de los datos recibidos.
+Entonces el sistema debe rechazar la operación retornando un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
