@@ -1144,6 +1144,24 @@ Entonces el sistema debe retornar un código de estado 200 OK junto con un arreg
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T15</td>
+      <td>Create-Quality-Analysis</td>
+      <td>Como Developer, quiero implementar el endpoint de la API RESTful POST /api/quality-analyses, para registrar un nuevo reporte de parámetros químicos o físicos del agua evaluada en el sistema de monitoreo.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que una entidad autorizada envía una solicitud HTTP POST a /api/quality-analyses con un JSON válido que incluye las métricas requeridas (pH, turbidez, etc.).
+Cuando el sistema valida y almacena exitosamente el registro en la base de datos.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto JSON del reporte generado.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud POST omitiendo campos obligatorios o enviando valores fuera de los rangos físicos permitidos por las reglas del backend.
+Cuando el controlador de la API procesa la validación del request.
+Entonces el sistema debe rechazar la inserción devolviendo un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+        <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
