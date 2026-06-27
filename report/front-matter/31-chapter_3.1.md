@@ -1337,13 +1337,19 @@ Entonces el sistema debe responder con un código de estado 500 Internal Server 
     </tr>
       <tr>
       <td>T26</td>
-      <td></td>
-      <td></td>
+      <td>Update-Subscription</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful PUT /api/subscriptions/{id}, para permitir la actualización integral de los parámetros de una suscripción (como la renovación, cambio de plan o cancelación).</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP PUT a /api/subscriptions/{id} enviando el payload completo modificado.
+Cuando el sistema persiste los cambios en la base de datos de manera exitosa.
+Entonces el sistema debe retornar un código de estado 200 OK (o 204 No Content) confirmando la modificación.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+Dado que se envía una solicitud PUT con una estructura malformada o valores lógicos incorrectos (ej. fecha de fin anterior a la fecha de inicio).
+Cuando el backend ejecuta las validaciones de negocio.
+Entonces el sistema debe denegar la operación devolviendo un código de estado 400 Bad Request.
 <br></td>
       <td>N/A</td>
     </tr>    
