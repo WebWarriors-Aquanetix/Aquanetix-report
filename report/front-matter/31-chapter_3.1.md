@@ -1319,13 +1319,19 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
     </tr>
       <tr>
       <td>T25</td>
-      <td></td>
-      <td></td>
+      <td>Get-All-Subscriptions</td>
+      <td>Como developer, quiero implementar el endpoint de la API RESTful GET /api/subscriptions, para proveer un listado centralizado con todas las suscripciones de los clientes registradas en la plataforma.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/subscriptions.
+Cuando la base de datos responde correctamente a la consulta de registros.
+Entonces el sistema debe retornar un código de estado 200 OK junto con un arreglo JSON que contenga las suscripciones (o vacío []).
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+Dado que se invoca el endpoint /api/subscriptions mediante una petición GET.
+Cuando el servicio de persistencia experimenta un error de conexión interno o un timeout.
+Entonces el sistema debe responder con un código de estado 500 Internal Server Error.
 <br></td>
       <td>N/A</td>
     </tr>
