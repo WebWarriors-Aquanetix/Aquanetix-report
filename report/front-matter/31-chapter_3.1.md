@@ -996,7 +996,25 @@ Entonces el sistema debe responder con un código de estado 500 Internal Server 
 <br></td>
       <td>N/A</td>
     </tr>
-        <tr>
+    <tr>
+      <td>T07</td>
+      <td>Get-Alerts-By-Device-Id</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/devices/{deviceId}/alerts, para filtrar y recuperar únicamente las alertas que pertenecen a un dispositivo de monitoreo específico.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET a /api/devices/{deviceId}/alerts enviando un ID de dispositivo existente.
+Cuando el backend procesa la consulta con la condición de filtrado.
+Entonces el sistema debe retornar un código de estado 200 OK y el arreglo JSON con las alertas asociadas a ese dispositivo.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza la solicitud HTTP GET especificando un deviceId que no está registrado en el sistema.
+Cuando el backend valida la integridad estructural de los datos.
+Entonces el sistema debe retornar un código de estado 404 Not Found informando que el dispositivo referenciado no existe.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
