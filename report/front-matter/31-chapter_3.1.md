@@ -1126,6 +1126,24 @@ Entonces el sistema debe retornar un código de estado 404 Not Found acompañado
       <td>N/A</td>
     </tr>
      <tr>
+      <td>T14</td>
+      <td>Get-All-Quality-Analyses</td>
+      <td>Como Desarrollador, quiero implementar el endpoint de la API RESTful GET /api/quality-analyses, para proveer un listado histórico centralizado con todos los análisis de calidad de agua registrados en la plataforma.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/quality-analyses.
+Cuando la base de datos responde correctamente a la consulta de registros.
+Entonces el sistema debe retornar un código de estado 200 OK junto con un arreglo JSON que contenga los análisis almacenados (o vacío []).
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/quality-analyses.
+Cuando la base de datos responde correctamente a la consulta de registros.
+Entonces el sistema debe retornar un código de estado 200 OK junto con un arreglo JSON que contenga los análisis almacenados (o vacío []).
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
