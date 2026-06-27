@@ -1161,9 +1161,9 @@ Entonces el sistema debe rechazar la inserción devolviendo un código de estado
 <br></td>
       <td>N/A</td>
     </tr>
-        <tr>
+    <tr>
       <td>T16</td>
-      <td>SRegister-Dashboard-BC</td>
+      <td>Register-Dashboard-BC</td>
       <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/dashboard-metrics, para registrar, consolidar o recalcular los KPI generales (consumo, eficiencia, estado global) requeridos por el contexto de negocio del Dashboard.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
@@ -1176,6 +1176,36 @@ Entonces el sistema debe retornar un código de estado 201 Created o 200 OK conf
 Dado que se envía una solicitud POST al endpoint pero con un formato corrupto o datos temporales desalineados.
 Cuando el backend ejecuta las reglas de integridad del contexto del Dashboard.
 Entonces el sistema debe prevenir el registro inconsistente retornando un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>T17</td>
+      <td>Get-All-Water-Batches</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/water-batches, para proveer un listado centralizado de todos los lotes de agua registrados para su monitoreo y distribución.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/water-batches.
+Cuando la base de datos responde correctamente a la consulta de registros.
+Entonces el sistema debe retornar un código de estado 200 OK junto con un arreglo JSON que contenga los lotes de agua (o vacío []).
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se invoca el endpoint /api/water-batches mediante una petición GET.
+Cuando el servicio de base de datos experimenta un error de conexión interno.
+Entonces el sistema debe responder con un código de estado 500 Internal Server Error.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>T##</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
 <br></td>
       <td>N/A</td>
     </tr>
