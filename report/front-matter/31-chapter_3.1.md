@@ -1162,14 +1162,20 @@ Entonces el sistema debe rechazar la inserción devolviendo un código de estado
       <td>N/A</td>
     </tr>
         <tr>
-      <td>T0#</td>
-      <td>Story-Name</td>
-      <td>Story-Description</td>
+      <td>T16</td>
+      <td>SRegister-Dashboard-BC</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/dashboard-metrics, para registrar, consolidar o recalcular los KPI generales (consumo, eficiencia, estado global) requeridos por el contexto de negocio del Dashboard.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
+Dado que un servicio interno realiza una solicitud HTTP POST a /api/dashboard-metrics con el consolidado periódico de datos hídricos.
+Cuando el backend actualiza de forma correcta las proyecciones y resúmenes estadísticos en la persistencia del dashboard.
+Entonces el sistema debe retornar un código de estado 201 Created o 200 OK confirmando la actualización del panel visual.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+Dado que se envía una solicitud POST al endpoint pero con un formato corrupto o datos temporales desalineados.
+Cuando el backend ejecuta las reglas de integridad del contexto del Dashboard.
+Entonces el sistema debe prevenir el registro inconsistente retornando un código de estado 400 Bad Request.
 <br></td>
       <td>N/A</td>
     </tr>
