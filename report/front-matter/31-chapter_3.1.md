@@ -1033,6 +1033,25 @@ Entonces el sistema debe rechazar la petición retornando un código de estado 4
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T09</td>
+      <td>Get-Alerts-By-Status</td>
+      <td> Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/alerts?status={status}, para permitir al frontend filtrar las alertas del sistema de acuerdo a su estado actual (ej. Activa, Atendida, Resuelta).
+</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que se realiza una solicitud HTTP GET a /api/alerts incluyendo un parámetro de estado válido (ej. status=active).
+Cuando el backend procesa la consulta aplicando dicho criterio.
+Entonces el sistema debe retornar un código de estado 200 OK junto con el listado JSON filtrado.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se invoca el endpoint enviando un estado que no coincide con los enumerados permitidos por el sistema (ej. status=desconocido).
+Cuando el backend valida la consulta.
+Entonces el sistema debe retornar un código de estado 400 Bad Request indicando el error de sintaxis en el parámetro.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
@@ -1044,5 +1063,6 @@ Entonces el sistema debe rechazar la petición retornando un código de estado 4
 <br></td>
       <td>N/A</td>
     </tr>
+
   </tbody>
 </table>
