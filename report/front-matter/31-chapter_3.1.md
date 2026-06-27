@@ -891,5 +891,22 @@ Entonces el sistema captura la intención del usuario para facilitar la coordina
 </td>
       <td>EP08</td>
     </tr>
+    <tr>
+      <td>T01</td>
+      <td>Get-All-Devices</td>
+      <td>Como desarrollador, quiero implementar un endpoint de tipo API REST con el método GET /api/devices, para proveer un listado centralizado en formato JSON con la información de todos los dispositivos de monitoreo hídrico que consumirá el frontend.</td>
+      <td>
+<b>Criterio de Aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/devices.
+Cuando la base de datos responde correctamente (tenga o no registros almacenados).
+Entonces el sistema debe retornar un código de estado 200 OK junto con el arreglo JSON correspondiente (con los datos de los dispositivos o vacío []).
+        <br><br>
+        
+<b>Criterio de Aceptación 2:</b><br>
+Dado que se invoca el endpoint /api/devices mediante una petición GET.
+Cuando la base de datos no se encuentra disponible o el servidor experimenta una falla interna.
+Entonces el sistema debe retornar un código de estado 500 Internal Server Error y registrar el error en los logs de la aplicación de forma segura.<br></td>
+      <td>N/A</td>
+    </tr>
   </tbody>
 </table>
