@@ -1216,18 +1216,6 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
       <td>N/A</td>
     </tr>
     <tr>
-      <td>T##</td>
-      <td></td>
-      <td></td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-<br><br>
-        
-<b>Criterio de aceptación 2:</b><br>
-<br></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
       <td>T19</td>
       <td>Create-Water-Batch</td>
       <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/water-batches, para registrar un nuevo lote de agua con sus especificaciones de origen y volumen en el sistema.</td>
@@ -1241,6 +1229,36 @@ Entonces el sistema debe retornar un código de estado 201 Created junto con el 
 Dado que se realiza una solicitud POST omitiendo parámetros requeridos o enviando valores de volumen inconsistentes.
 Cuando el backend procesa la validación del request.
 Entonces el sistema debe rechazar la inserción devolviendo un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+       <tr>
+      <td>T20</td>
+      <td>Update-Water-Batch</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful PUT /api/water-batches/{id}, para actualizar de forma integral las propiedades o el estado de un lote de agua específico.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP PUT a /api/water-batches/{id} enviando el payload completo modificado.
+Cuando el sistema persiste los cambios del recurso en la base de datos de manera exitosa.
+Entonces el sistema debe retornar un código de estado 200 OK (o 204 No Content).
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se envía una solicitud PUT con una estructura malformada o valores fuera de rango para el lote de agua.
+Cuando el backend ejecuta las validaciones de negocio.
+Entonces el sistema debe denegar la operación devolviendo un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+       <tr>
+      <td>T##</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
 <br></td>
       <td>N/A</td>
     </tr>
