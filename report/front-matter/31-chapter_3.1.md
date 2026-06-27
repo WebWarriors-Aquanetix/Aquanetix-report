@@ -1251,6 +1251,24 @@ Entonces el sistema debe denegar la operación devolviendo un código de estado 
       <td>N/A</td>
     </tr>
        <tr>
+      <td>T21</td>
+      <td>Delete-Water-Batch</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful DELETE /api/water-batches/{id}, para remover (o dar de baja de forma lógica) un lote de agua del sistema mediante su identificador único.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP DELETE al endpoint /api/water-batches/{id} con un ID válido.
+Cuando el backend procesa el borrado físico o el cambio de estado a inactivo en la persistencia.
+Entonces el sistema debe retornar un código de estado 200 OK (o 240 No Content) confirmando la eliminación del recurso.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se intenta eliminar un lote de agua enviando un ID que ya no existe o nunca fue registrado.
+Cuando el sistema comprueba la ausencia del registro.
+Entonces el sistema debe retornar un código de estado 404 Not Found.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T##</td>
       <td></td>
       <td></td>
