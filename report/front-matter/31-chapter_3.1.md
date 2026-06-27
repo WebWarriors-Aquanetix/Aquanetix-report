@@ -1219,10 +1219,11 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
       <td>T19</td>
       <td>Create-Water-Batch</td>
       <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/water-batches, para registrar un nuevo lote de agua con sus especificaciones de origen y volumen en el sistema.</td>
+      <td>
 <b>Criterio de aceptación 1:</b><br>
 Dado que una entidad autorizada envía una solicitud HTTP POST a /api/water-batches con un JSON válido que incluye los campos obligatorios del lote.
 Cuando el sistema almacena exitosamente el registro en la base de datos.
-Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto JSON del lote generado.</td>
+Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto JSON del lote generado.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
@@ -1299,7 +1300,37 @@ Entonces el sistema debe denegar el registro retornando un código de estado 490
       <td>N/A</td>
     </tr>
   <tr>
-      <td>T##</td>
+      <td>T24</td>
+      <td></td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/subscriptions/{id}, para permitir la consulta individual de los detalles y el estado de una suscripción específica mediante su identificador único.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/subscriptions/{id} enviando un ID válido y existente.
+Cuando el sistema procesa la consulta en la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK junto con el objeto JSON que contiene los datos de la suscripción (fechas, plan, estado).
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud HTTP GET al endpoint con un identificador que no está registrado.
+Cuando el backend verifica la inexistencia del recurso.
+Entonces el sistema debe retornar un código de estado 404 Not Found.
+<br></td>
+      <td>N/A</td>
+    </tr>
+      <tr>
+      <td>T25</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+<br></td>
+      <td>N/A</td>
+    </tr>
+      <tr>
+      <td>T26</td>
       <td></td>
       <td></td>
       <td>
@@ -1310,5 +1341,17 @@ Entonces el sistema debe denegar el registro retornando un código de estado 490
 <br></td>
       <td>N/A</td>
     </tr>    
+      <tr>
+      <td>T27</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+<br></td>
+      <td>N/A</td>
+    </tr>
   </tbody>
 </table>
