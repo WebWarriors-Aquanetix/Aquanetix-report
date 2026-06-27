@@ -1089,6 +1089,24 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T12</td>
+      <td>Register-Monitoring-BC</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/monitoring-records, para procesar e ingresar las tramas de telemetría continuas recibidas desde los sensores (flujo, presión, etc.) en su respectivo contexto de negocio.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un dispositivo emisor envía un payload JSON válido con las lecturas capturadas al endpoint de monitoreo.
+Cuando el sistema valida la estructura del mensaje y lo registra exitosamente en la persistencia temporal/histórica.
+Entonces el sistema debe retornar un código de estado 201 Created confirmando la correcta recepción del paquete de telemetría.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se recibe una petición HTTP POST pero con una estructura JSON rota o con tipos de datos inválidos en las lecturas de los sensores.
+Cuando el middleware de la API o el controlador validan el request.
+Entonces el sistema debe descartar el paquete devolviendo un código de estado
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
