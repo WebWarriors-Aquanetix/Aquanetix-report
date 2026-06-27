@@ -75,6 +75,8 @@ Enlace: https://shorturl.at/rJZxC
 Duración de la entrevista: **06:15 - 12:31 min** 
 
 Tecnología que utiliza: 
+1.  Celular: Samsung S23 
+2.  Laptop: HP ProBook 440 G9
 
 Resumen:
 
