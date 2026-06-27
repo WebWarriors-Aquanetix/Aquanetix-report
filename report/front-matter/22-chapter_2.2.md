@@ -129,8 +129,8 @@ Enlace: https://shorturl.at/rJZxC
 Duración de la entrevista: **20:05 - 27:22 min**
 
 Tecnologái que utiliza: 
-1.  Celular samsung 
-2.  Computadora HP
+1.  Celular: Samsung 
+2.  Computadora: HP
 
 Resumen:
 
@@ -155,6 +155,10 @@ Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista:**27:23 - 39:53 min**
 
+Tecnología que utiliza:
+1. Celular:
+2. Laptop:
+
 Resumen:
 
 Nos encontramos con José Ignacio Calle Chumacero, residente del distrito de Jesús María y jefe de operaciones en RESITER Perú SAC. Tiene 33 años y convive con su pareja y sus dos hijos. Durante la entrevista se mostró como una persona responsable, comprometida y abierta al uso de nuevas tecnologías para optimizar procesos operativos. Entre sus herramientas tecnológicas preferidas destacan la laptop, el teléfono móvil y plataformas basadas en inteligencia artificial como ChatGPT, las cuales utiliza como apoyo para consultas y toma de decisiones.
@@ -177,6 +181,10 @@ Evidencia:
 Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista: **39:54 - 45:00 min**
+
+Tecnología que utiliza:
+1.  Celular: Samsung S24 ultra
+2.  Laptop: ASUS Windows
 
 Resumen: 
 
