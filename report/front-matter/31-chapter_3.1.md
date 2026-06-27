@@ -1067,6 +1067,25 @@ Dado que se procesa una solicitud PUT enviando datos inconsistentes o intentando
 Cuando se ejecutan las reglas de negocio en el backend.
 Entonces el sistema debe denegar la operación devolviendo un código de estado 400 Bad Request.
 <br></td>
+      <td>N/A</td>    
+    </tr>
+    <tr>
+      <td>T11</td>
+      <td>Get-Alert-By-Id</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/alerts/{id}, para permitir la consulta individual y detallada de una alerta específica mediante su identificador único.
+  </td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que se realiza una solicitud HTTP GET al endpoint /api/alerts/{id} enviando un ID válido y existente.
+Cuando el sistema lee el registro desde la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK acompañado del objeto JSON completo de la alerta.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se solicita una alerta mediante un ID inexistente en la persistencia.
+Cuando se valida la ausencia del recurso.
+Entonces el sistema debe retornar un código de estado 404 Not Found.
+<br></td>
       <td>N/A</td>
     </tr>
     <tr>
