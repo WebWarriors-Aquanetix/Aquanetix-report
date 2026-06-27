@@ -1272,12 +1272,18 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
     <tr>
       <td>T22</td>
       <td>Validate-Water-Batch</td>
-      <td></td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/water-batches/{id}/validate, para evaluar y certificar si un lote de agua cumple con las normas de calidad necesarias antes de autorizar su redistribución.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
+Dado que se realiza una solicitud HTTP POST a /api/water-batches/{id}/validate con los datos de las pruebas de laboratorio o sensores.
+Cuando los parámetros químicos y físicos evaluados cumplen rigurosamente con los rangos permitidos.
+Entonces el sistema debe actualizar el estado del lote a "Validado/Aprobado" y retornar un código 200 OK.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+Dado que se invoca el endpoint de validación pero los datos del payload indican que se excedieron los límites de contaminación permitidos.
+Cuando el sistema procesa las reglas de control de calidad.
+Entonces el sistema debe registrar el lote con estado "Rechazado" y retornar un código 200 OK (o 422 Unprocessable Entity) detallando las métricas fuera de norma.
 <br></td>
       <td>N/A</td>
     </tr>
