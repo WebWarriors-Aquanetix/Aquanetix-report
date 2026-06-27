@@ -1052,6 +1052,24 @@ Entonces el sistema debe retornar un código de estado 400 Bad Request indicando
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T10</td>
+      <td>Update-Alert</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful PUT /api/alerts/{id}, para actualizar de forma integral las propiedades o comentarios de gestión de una alerta en particular.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP PUT a /api/alerts/{id} enviando el payload completo modificado.
+Cuando el sistema persiste los cambios del recurso en la base de datos de forma exitosa.
+Entonces el sistema debe retornar un código de estado 200 OK (o 204 No Content) confirmando la actualización del recurso.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se procesa una solicitud PUT enviando datos inconsistentes o intentando alterar campos inmutables de la alerta histórica.
+Cuando se ejecutan las reglas de negocio en el backend.
+Entonces el sistema debe denegar la operación devolviendo un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
@@ -1063,6 +1081,5 @@ Entonces el sistema debe retornar un código de estado 400 Bad Request indicando
 <br></td>
       <td>N/A</td>
     </tr>
-
   </tbody>
 </table>
