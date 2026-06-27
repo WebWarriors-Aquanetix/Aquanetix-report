@@ -979,6 +979,24 @@ Entonces el sistema debe prevenir la duplicación de datos retornando un código
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T06</td>
+      <td>Get-All-Alerts</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/alerts, para proveer un listado histórico y centralizado de todas las alertas generadas por el sistema de monitoreo hídrico.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/alerts.
+Cuando la base de datos responde de manera correcta.
+Entonces el sistema debe retornar un código de estado 200 OK junto con un arreglo JSON que contenga las alertas registradas (o vacío []).
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se invoca el endpoint /api/alerts mediante una petición GET.
+Cuando ocurre un problema de conectividad interna con la base de datos o un timeout.
+Entonces el sistema debe responder con un código de estado 500 Internal Server Error y registrar el error en los logs del servidor.
+<br></td>
+      <td>N/A</td>
+    </tr>
+        <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
@@ -989,6 +1007,6 @@ Entonces el sistema debe prevenir la duplicación de datos retornando un código
 <b>Criterio de aceptación 2:</b><br>
 <br></td>
       <td>N/A</td>
-    </tr>    
+    </tr>
   </tbody>
 </table>
