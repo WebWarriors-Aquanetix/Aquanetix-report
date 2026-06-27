@@ -1198,6 +1198,24 @@ Entonces el sistema debe responder con un código de estado 500 Internal Server 
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T18</td>
+      <td>Get-Water-Batch-By-Id</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/water-batches/{id}, para permitir la consulta individual de un lote de agua específico mediante su identificador único.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/water-batches/{id} enviando un ID válido y existente.
+Cuando el sistema procesa la consulta en la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK junto con el objeto JSON que contiene los detalles del lote de agua.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud HTTP GET al endpoint con un identificador que no está registrado.
+Cuando el backend verifica la inexistencia del recurso.
+Entonces el sistema debe retornar un código de estado 404 Not Found.
+<br></td>
+      <td>N/A</td>
+    </tr>
+        <tr>
       <td>T##</td>
       <td></td>
       <td></td>
