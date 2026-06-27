@@ -1269,6 +1269,36 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T22</td>
+      <td>Validate-Water-Batch</td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+<br></td>
+      <td>N/A</td>
+    </tr>
+        <tr>
+      <td>T23</td>
+      <td></td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/service-designs, para registrar las configuraciones estructurales, topologías o especificaciones iniciales del servicio de distribución en su respectivo contexto de negocio.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que una aplicación emisora envía una solicitud HTTP POST a /api/service-designs con un payload JSON que define el diseño del servicio.
+Cuando el backend valida que la topología y configuraciones cumplen con las reglas del contexto y las persiste de manera exitosa.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el recurso de configuración creado.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se envía un request POST intentando registrar un diseño de servicio con un identificador o versión que ya se encuentra activo en el sistema.
+Cuando el backend realiza el control de duplicidad.
+Entonces el sistema debe denegar el registro retornando un código de estado 490 Conflict (o 400 Bad Request).
+<br></td>
+      <td>N/A</td>
+    </tr>
+  <tr>
       <td>T##</td>
       <td></td>
       <td></td>
@@ -1279,6 +1309,6 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
 <b>Criterio de aceptación 2:</b><br>
 <br></td>
       <td>N/A</td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
