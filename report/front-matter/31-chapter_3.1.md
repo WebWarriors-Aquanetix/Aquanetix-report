@@ -926,6 +926,23 @@ Entonces el sistema debe retornar un código de estado 404 Not Found acompañado
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T03</td>
+      <td>Update-Device-Frequency</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful UPDATE /api/devices/{id}/frequency, para permitir la actualización remota de la frecuencia de transmisión de datos de un dispositivo de monitoreo específico.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP PATCH a /api/devices/{id}/frequency con un JSON que contiene el nuevo intervalo de tiempo válido.
+Cuando el sistema actualiza exitosamente el parámetro en la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK (o 204 No Content) confirmando que la frecuencia de transmisión se modificó correctamente.<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se envía una solicitud HTTP PATCH al endpoint pero con un valor de frecuencia negativo, vacío o en un formato de datos incorrecto.
+Cuando el backend ejecuta las reglas de validación de negocio.
+Entonces el sistema debe retornar un código de estado 400 Bad Request junto con un JSON que describa los errores de validación del payload.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
