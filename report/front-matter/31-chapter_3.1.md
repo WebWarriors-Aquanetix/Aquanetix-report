@@ -1215,7 +1215,7 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
 <br></td>
       <td>N/A</td>
     </tr>
-        <tr>
+    <tr>
       <td>T##</td>
       <td></td>
       <td></td>
@@ -1224,6 +1224,23 @@ Entonces el sistema debe retornar un código de estado 404 Not Found.
 <br><br>
         
 <b>Criterio de aceptación 2:</b><br>
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>T19</td>
+      <td>Create-Water-Batch</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/water-batches, para registrar un nuevo lote de agua con sus especificaciones de origen y volumen en el sistema.</td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que una entidad autorizada envía una solicitud HTTP POST a /api/water-batches con un JSON válido que incluye los campos obligatorios del lote.
+Cuando el sistema almacena exitosamente el registro en la base de datos.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto JSON del lote generado.</td>
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud POST omitiendo parámetros requeridos o enviando valores de volumen inconsistentes.
+Cuando el backend procesa la validación del request.
+Entonces el sistema debe rechazar la inserción devolviendo un código de estado 400 Bad Request.
 <br></td>
       <td>N/A</td>
     </tr>
