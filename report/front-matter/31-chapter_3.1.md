@@ -1287,9 +1287,9 @@ Entonces el sistema debe registrar el lote con estado "Rechazado" y retornar un 
 <br></td>
       <td>N/A</td>
     </tr>
-        <tr>
+      <tr>
       <td>T23</td>
-      <td></td>
+      <td>Register-Service-Design-BC</td>
       <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/service-designs, para registrar las configuraciones estructurales, topologías o especificaciones iniciales del servicio de distribución en su respectivo contexto de negocio.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
@@ -1307,7 +1307,7 @@ Entonces el sistema debe denegar el registro retornando un código de estado 490
     </tr>
   <tr>
       <td>T24</td>
-      <td></td>
+      <td>Get-Subscription-By-Id</td>
       <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/subscriptions/{id}, para permitir la consulta individual de los detalles y el estado de una suscripción específica mediante su identificador único.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
