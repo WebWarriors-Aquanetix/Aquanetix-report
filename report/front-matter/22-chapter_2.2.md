@@ -100,6 +100,9 @@ Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista: **12:32 - 20:04 min**
 
+Tecnología que utiliza: 
+1.  Celular: Oppo
+2.  Laptop: HP 15-bs015la
 Resumen:
 
 Nos reunimos con Liliana del Pilar Sánchez Fajardo, residente del distrito de Comas, de 57 años, quien se desempeña como ingeniera ambiental y consultora en temas vinculados a la gestión del recurso hídrico. Durante la entrevista se mostró como una persona responsable, puntual y orientada al trabajo en equipo, aunque también reconoció ser perfeccionista y tener poca tolerancia frente a la impuntualidad y la falta de compromiso del personal. En su labor diaria utiliza principalmente la laptop y el teléfono celular para la coordinación de actividades y supervisión de operaciones.
@@ -124,6 +127,10 @@ Evidencia:
 Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista: **20:05 - 27:22 min**
+
+Tecnologái que utiliza: 
+1.  Celular samsung 
+2.  Computadora HP
 
 Resumen:
 
