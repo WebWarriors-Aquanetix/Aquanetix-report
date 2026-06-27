@@ -1106,10 +1106,9 @@ Entonces el sistema debe descartar el paquete devolviendo un código de estado
 <br></td>
       <td>N/A</td>
     </tr>
-
     <tr>
-      <td>T0#</td>
-      <td>Story-Name</td>
+      <td>T13</td>
+      <td>Get-Quality-Analysis-By-Id</td>
       <td> Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/quality-analyses/{id}, para permitir la consulta individual de un reporte técnico o análisis de calidad de agua específico mediante su identificador único.
     </td>
       <td>
