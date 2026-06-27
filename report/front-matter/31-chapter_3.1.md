@@ -1106,7 +1106,27 @@ Entonces el sistema debe descartar el paquete devolviendo un código de estado
 <br></td>
       <td>N/A</td>
     </tr>
+
     <tr>
+      <td>T0#</td>
+      <td>Story-Name</td>
+      <td> Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/quality-analyses/{id}, para permitir la consulta individual de un reporte técnico o análisis de calidad de agua específico mediante su identificador único.
+    </td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/quality-analyses/{id} enviando un ID válido y existente.
+Cuando el sistema procesa la consulta en la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK junto con el objeto JSON que contiene los parámetros detallados del análisis de calidad.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud HTTP GET al endpoint /api/quality-analyses/{id} con un identificador que no está registrado.
+Cuando el backend verifica la inexistencia del recurso.
+Entonces el sistema debe retornar un código de estado 404 Not Found acompañado de un mensaje JSON estructurado.
+<br></td>
+      <td>N/A</td>
+    </tr>
+     <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
