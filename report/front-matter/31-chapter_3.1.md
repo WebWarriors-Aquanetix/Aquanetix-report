@@ -1015,6 +1015,24 @@ Entonces el sistema debe retornar un código de estado 404 Not Found informando 
       <td>N/A</td>
     </tr>
     <tr>
+      <td>T08</td>
+      <td>Create-Alert</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful POST /api/alerts, para permitir que el motor de reglas o los servicios de monitoreo registren de forma automática una nueva alerta cuando se superen los umbrales definidos.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el servicio emite una solicitud HTTP POST a /api/alerts con los datos obligatorios (dispositivo de origen, métrica excedida, timestamp).
+Cuando el sistema procesa de manera correcta la inserción del registro.
+Entonces el sistema debe retornar un código de estado 201 Created junto con el objeto de la alerta creada.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud POST al endpoint omitiendo parámetros críticos de la alerta (como el ID del dispositivo o la descripción).
+Cuando el backend intercepta el payload y ejecuta la validación.
+Entonces el sistema debe rechazar la petición retornando un código de estado 400 Bad Request.
+<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>T0#</td>
       <td>Story-Name</td>
       <td>Story-Description</td>
