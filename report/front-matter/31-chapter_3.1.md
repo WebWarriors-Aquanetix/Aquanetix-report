@@ -908,5 +908,34 @@ Cuando la base de datos no se encuentra disponible o el servidor experimenta una
 Entonces el sistema debe retornar un código de estado 500 Internal Server Error y registrar el error en los logs de la aplicación de forma segura.<br></td>
       <td>N/A</td>
     </tr>
+    <tr>
+      <td>T02</td>
+      <td>Get-Device-By-Id</td>
+      <td>Como desarrollador, quiero implementar el endpoint de la API RESTful GET /api/devices/{id}, para permitir la consulta individual de un dispositivo de monitoreo hídrico específico mediante su identificador único.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que un componente autorizado realiza una solicitud HTTP GET al endpoint /api/devices/{id} enviando un ID válido y existente.
+Cuando el sistema procesa la consulta en la base de datos.
+Entonces el sistema debe retornar un código de estado 200 OK junto con el objeto JSON que contiene los detalles específicos de ese dispositivo.
+        <br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que se realiza una solicitud HTTP GET al endpoint /api/devices/{id} enviando un ID que no corresponde a ningún dispositivo registrado.
+Cuando el sistema valida la inexistencia del recurso.
+Entonces el sistema debe retornar un código de estado 404 Not Found acompañado de un mensaje JSON indicando que el dispositivo no fue localizado.<br></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>T0#</td>
+      <td>Story-Name</td>
+      <td>Story-Description</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+        <br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+<br></td>
+      <td>N/A</td>
+    </tr>
   </tbody>
 </table>
