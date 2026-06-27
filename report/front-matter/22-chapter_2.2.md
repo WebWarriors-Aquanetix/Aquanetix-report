@@ -47,6 +47,10 @@ Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista: **00:00 - 06:14 min**
 
+Tecnología que utiliza: 
+  1. Celular: Motorola g56
+  2. Laptop: Asus Vivobook Flip 14
+
 Resumen:
 
 Nos encontramos con Elizabeth Nava, residente del distrito de Independencia, y quien se desempeña como ingeniera ambiental y consultora en gestión hídrica y saneamiento. Tiene 55 años y cuenta con experiencia en la evaluación y optimización de procesos relacionados al uso del recurso hídrico. Durante la entrevista se mostró como una profesional analítica, organizada y orientada a la prevención de riesgos operativos. En su trabajo utiliza principalmente laptop, software técnico y sistemas GIS para el análisis de datos y la identificación de puntos críticos, además de apoyarse en aplicaciones móviles para coordinar con equipos en campo.
@@ -69,6 +73,8 @@ Evidencia:
 Enlace: https://shorturl.at/rJZxC
 
 Duración de la entrevista: **06:15 - 12:31 min** 
+
+Tecnología que utiliza: 
 
 Resumen:
 
