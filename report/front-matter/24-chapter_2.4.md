@@ -6,19 +6,19 @@ Antes de iniciar con la sesión programada, el equipo definió el alcance princi
 
 #### Paso 1: Recoleccion de Domain Events
 <p align = "left">
-   <img src="../assets/miro/Deteccion domain events.jpg">
+   <img src="../assets/miro/BP1.jpg">
 </p>
 En este primer paso, el equipo procedio a lanzar una lluvia de ideas y luego identificar todos los Domain Events posibles que formaran parte de nuestro mapeo de la aplicación, los cuales son representados mediante post-it's anaranjados y en tiempo pasado.
 
 #### Paso 2: Secuenciación e Identificación de Pain Points
 <p align = "left">
-   <img src="../assets/miro/TimeLine Domain Events.jpg">
+   <img src="../assets/miro/BP2.jpg">
 </p>
 Una vez que los eventos hayan sido recolectados, se procedio a ordernarlos de forma cronológica para formar una línea de tiempo natural y lógica del flujo de negocio.
 
 #### Paso 3: Definición de Bounded Contexts y Trazado de Fronteras
 <p align = "left">
-   <img src="../assets/miro/BigPictureEventStormingV3.jpg">
+   <img src="../assets/miro/BP3.jpg">
 </p>
 
 Finalmente, a partir de la línea de tiempo establecida, se trazan fronteras con el fin de agrupar y definir los bounded contexts iniciales con sus respectivos nombres, luego se colocaron indicadores fucsias para identificar cuellos de botella o ineficiencias técnicas y logísticas en el proceso actual. A continuacion se describirá a mayor detalle dichos cuellos de botella:
