@@ -142,3 +142,5 @@ Primero, a José Ignacio se le mostró la landing page de la plataforma Aquaneti
 
 Por último, al ingresar a la aplicación web y revisar el funcionamiento del dashboard, el entrevistado validó rápidamente la estructura visual afirmando que el diseño del panel de control es espectacular. Comentó que al iniciar el día lo primero que revisaría serían las alertas críticas, y consideró que el monitoreo en tiempo real con un formato de semáforo resulta sumamente intuitivo para efectos de ayuda visual. Respecto al tarifario presentado en la sección de suscripciones, José Ignacio lo percibió como una opción muy correcta y flexible para plantas que requieran una gran cantidad de sensores. No obstante, sugirió al equipo que se enfoquen en garantizar un margen mínimo de error desde el primer mes, argumentando que los gerentes de las grandes empresas suelen ser impacientes y exigen un retorno de inversión inmediato.
 
+
+### 5.3.3 Evaluaciones según heurísticas
