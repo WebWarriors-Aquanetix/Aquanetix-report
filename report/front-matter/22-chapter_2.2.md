@@ -101,7 +101,7 @@ Enlace: https://shorturl.at/rJZxC
 Duración de la entrevista: **12:32 - 20:04 min**
 
 Tecnología que utiliza: 
-1.  Celular: Oppo
+1.  Celular: Oppo a5
 2.  Laptop: HP 15-bs015la
 
 Resumen:
@@ -157,8 +157,8 @@ Enlace: https://shorturl.at/rJZxC
 Duración de la entrevista:**27:23 - 39:53 min**
 
 Tecnología que utiliza:
-1. Celular:
-2. Laptop:
+1. Celular: Galaxy A14
+2. Laptop: HP 250 15.6 inch G9 Notebook PC
 
 Resumen:
 
