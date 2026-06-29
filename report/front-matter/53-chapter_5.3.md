@@ -61,7 +61,7 @@ Durante la revisión de la landing page, Diana identificó rápidamente que la p
 Al ingresar a la aplicación web, Diana señaló que los indicadores prioritarios para un operador al iniciar su turno son el caudal, el nivel de turbidez promedio y un contador destacado que muestre los equipos en estado crítico. Consideró muy práctico e intuitivo el uso de un sistema de colores tipo semáforo para monitorear el estado de los dispositivos, aunque recomendó que las alertas rojas activen un banner superior fijo o parpadeante para garantizar una respuesta visual inmediata.
 Además, encontró lógico el flujo de investigación al hacer clic en un dispositivo para ver su gráfica histórica y evaluó como adecuado el formulario para registrar nuevos sensores. En el apartado de notificaciones, sugirió evitar mensajes ambiguos; indicó que el sistema debe mostrar el valor exacto registrado en la alerta para dimensionar la gravedad del problema al instante. Finalmente, validó que el panel de suscripciones es muy claro gracias al uso de barras de progreso, y recomendó que, si se excede el límite del plan por agregar más equipos, la plataforma facilite un botón de actualización directa sin interrumpir la recepción de datos de los sensores activos.
 
-**Entrevista 2**
+**Entrevista 3**
 
 Liliana Sánchez Fajardo
 
@@ -70,7 +70,7 @@ Liliana Sánchez Fajardo
  <img src="/report/assets/interviews/Entrevista_Validacion_Liliana_Sanchez_Foto.png">
 </p>
 
-**Enlace de la entrevista:** 
+**Enlace de la entrevista:** https://shorturl.at/WyZBZ
 
 **Resumen:**
 
