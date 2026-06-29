@@ -61,6 +61,26 @@ Durante la revisión de la landing page, Diana identificó rápidamente que la p
 Al ingresar a la aplicación web, Diana señaló que los indicadores prioritarios para un operador al iniciar su turno son el caudal, el nivel de turbidez promedio y un contador destacado que muestre los equipos en estado crítico. Consideró muy práctico e intuitivo el uso de un sistema de colores tipo semáforo para monitorear el estado de los dispositivos, aunque recomendó que las alertas rojas activen un banner superior fijo o parpadeante para garantizar una respuesta visual inmediata.
 Además, encontró lógico el flujo de investigación al hacer clic en un dispositivo para ver su gráfica histórica y evaluó como adecuado el formulario para registrar nuevos sensores. En el apartado de notificaciones, sugirió evitar mensajes ambiguos; indicó que el sistema debe mostrar el valor exacto registrado en la alerta para dimensionar la gravedad del problema al instante. Finalmente, validó que el panel de suscripciones es muy claro gracias al uso de barras de progreso, y recomendó que, si se excede el límite del plan por agregar más equipos, la plataforma facilite un botón de actualización directa sin interrumpir la recepción de datos de los sensores activos.
 
+**Entrevista 2**
+
+Liliana Sánchez Fajardo
+
+**Evidencia:**
+<p align = "left">
+ <img src="/report/assets/interviews/Entrevista_Validacion_Liliana_Sanchez_Foto.png">
+</p>
+
+**Enlace de la entrevista:** 
+
+**Resumen:**
+
+En esta sesión nos reunimos con Liliana Sánchez, ingeniera ambiental y consultora en gestión del recurso hídrico, quien participó en la entrevista de validación del proyecto Aquanetix. Durante la evaluación, Liliana demostró ser una profesional con una visión práctica y orientada al impacto social del manejo del agua, destacando en todo momento la importancia de contar con herramientas que permitan prevenir problemas de salud pública en la comunidad. Su perfil como consultora ambiental se reflejó en la forma en que evaluó la plataforma, priorizando la utilidad real del sistema por encima de aspectos técnicos o estéticos.
+
+Al revisar la landing page, Liliana identificó con claridad que Aquanetix es una plataforma para monitorear la calidad del agua en tiempo real y controlar sus parámetros de forma centralizada. Entre los tres beneficios presentados, destacó las alertas tempranas como el más importante, argumentando que detectar a tiempo una contaminación o una falla en un sensor puede evitar consecuencias graves para la salud de la población. Asimismo, sugirió que la página incluya información clara sobre planes y precios, testimonios de empresas que ya utilicen la plataforma y un video demostrativo corto que facilite la decisión de adoptar el servicio.
+
+Al ingresar al panel de control, Liliana señaló que lo primero que analizaría son las alertas activas y la cantidad de dispositivos en funcionamiento, ya que esa información le daría una visión inmediata del estado general del sistema. Al explorar la sección de dispositivos, valoró positivamente el uso del sistema de colores tipo semáforo, indicando que el verde, naranja y rojo son intuitivos y comprensibles para cualquier operador sin necesidad de capacitación adicional. En cuanto al panel de alertas, coincidió en que el criterio de ordenamiento más útil sería por nivel de urgencia, de modo que los problemas más críticos sean visibles de inmediato y puedan atenderse sin demora.
+
+Finalmente, Liliana validó que la plataforma responde a una necesidad real y relevante en el contexto peruano, especialmente ante los altos niveles de contaminación del agua en el país. Como oportunidades de mejora, sugirió que las alertas incluyan más detalle sobre el problema detectado y que el sistema permita exportar reportes fácilmente, lo cual haría la plataforma más completa y útil para el trabajo diario de las empresas prestadoras de servicios de agua.
 
 
 
