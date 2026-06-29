@@ -1,49 +1,55 @@
 ### 2.5. Ubiquitous Language
 
-**Usuario (User):**
-Profesional de empresas prestadoras de servicios de agua o gestión de residuos que utiliza Aquanetix para monitorear y gestionar la red hidráulica.
-Términos relacionados: Operador, Supervisor, Perfil de usuario.
+En esta sección se presenta el glosario de términos y conceptos propios del dominio del negocio de Aquanetix. Este lenguaje ubicuo (Ubiquitous Language) garantiza una comunicación clara y sin ambigüedades entre todos los miembros del equipo y los stakeholders, omitiendo términos técnicos de ingeniería de software para enfocarnos estrictamente en el contexto de la economía circular hídrica y la gestión de residuos.
 
-**Operador (Operator):**
-Usuario encargado de supervisar los datos en tiempo real y gestionar alertas dentro del sistema.
-Términos relacionados: Monitoreo, Alerta, Sensor.
+**Operator (Operador):**
+Personal encargado de supervisar los datos en campo o en tiempo real y gestionar las alertas tempranas dentro de la red.
+*Términos relacionados:* Monitoring, Alert, IoT Sensor.
 
 **Supervisor (Supervisor):**
-Usuario responsable de analizar la información del sistema y tomar decisiones operativas y estratégicas.
-Términos relacionados: Reporte, Dashboard, Mantenimiento.
+Responsable de analizar la información operativa, evaluar los indicadores hídricos y tomar decisiones estratégicas de negocio o mantenimiento.
+*Términos relacionados:* Maintenance, Water Footprint, Reuse Validation.
 
-**Sensor IoT (IoT Sensor):**
-Dispositivo instalado en la red hidráulica que mide variables como pH, flujo y gases.
-Términos relacionados: Datos del sensor, Monitoreo, Parámetros del agua.
+**IoT Sensor (Sensor IoT):**
+Dispositivo de hardware instalado en la infraestructura hídrica que mide de forma continua variables químicas y físicas como el pH, flujo y emisión de gases.
+*Términos relacionados:* Monitoring, Anomaly, Threshold.
 
-**Monitoreo (Monitoring):**
-Proceso de seguimiento continuo de los parámetros del agua en tiempo real.
-Términos relacionados: Datos del sensor, Dashboard, Red hidráulica.
+**Monitoring (Monitoreo):**
+Proceso de seguimiento y telemetría continua de los parámetros del agua para asegurar el cumplimiento normativo.
+*Términos relacionados:* IoT Sensor, Anomaly, Water Quality.
 
-**Alerta (Alert):**
-Notificación generada cuando se detecta una anomalía en los parámetros del sistema.
-Términos relacionados: Anomalía, Umbral, Incidencia.
+**Alert (Alerta):**
+Notificación crítica generada automáticamente cuando se detecta que los parámetros del recurso hídrico sobrepasan los límites permitidos.
+*Términos relacionados:* Anomaly, Threshold, Preventive Maintenance.
 
-**Anomalía (Anomaly):**
-Variación fuera de los valores normales en los parámetros del agua.
-Términos relacionados: Alerta, Monitoreo, Zona crítica.
+**Threshold (Umbral):**
+Límite máximo o mínimo permitido para un parámetro de calidad del agua (ej. niveles de pH o turbidez) establecido por entidades reguladoras como la ANA o el OEFA.
+*Términos relacionados:* Alert, Monitoring, Anomaly.
 
-**Mantenimiento (Maintenance):**
-Acciones realizadas para prevenir o corregir fallas en la red hidráulica.
-Términos relacionados: Zona crítica, Incidencia, Planificación.
+**Anomaly (Anomalía):**
+Variación riesgosa o fuera de los valores normales en los parámetros del agua que puede indicar una fuga, obstrucción o contaminación.
+*Términos relacionados:* Alert, Threshold, Maintenance.
 
-**Agua Reutilizable (Reusable Water):**
-Agua residual que cumple con los parámetros necesarios para su reutilización.
-Términos relacionados: Validación de reutilización, Parámetros del agua.
+**Maintenance (Mantenimiento):**
+Acciones preventivas o correctivas ejecutadas por cuadrillas en campo para reparar fallas en la red hidráulica o en la infraestructura de recolección.
+*Términos relacionados:* Anomaly, Operator, Alert.
 
-**Validación de Reutilización (Reuse Validation):**
-Proceso de verificación de que el agua cumple con las condiciones para ser reutilizada.
-Términos relacionados: Agua reutilizable, Monitoreo, Parámetros.
+**Reusable Water (Agua Reutilizable):**
+Agua residual que ha sido monitoreada y certificada por cumplir con los parámetros químicos necesarios para su reaprovechamiento seguro.
+*Términos relacionados:* Reuse Validation, Water Allocation.
 
-**Asignación de Agua (Water Allocation):**
-Distribución del agua reutilizada hacia procesos o sectores que la requieren.
-Términos relacionados: Agua reutilizable, Logística, Reutilización.
+**Reuse Validation (Validación de Reutilización):**
+Proceso analítico de verificación que certifica que un volumen de agua cumple con las condiciones normativas para ser reutilizada en operaciones logísticas.
+*Términos relacionados:* Reusable Water, Monitoring, Threshold.
 
-**Plataforma Aquanetix (Platform):**
-Sistema web que integra sensores IoT para monitorear, analizar y gestionar la red hidráulica y la reutilización del agua.
-Términos relacionados: Dashboard, Monitoreo, Alertas.
+**Water Allocation (Asignación de Agua):**
+Proceso logístico de redistribución del agua reutilizada hacia procesos operativos o sectores específicos (como el lavado de flotas o rellenos sanitarios) que la requieren.
+*Términos relacionados:* Reusable Water, Circular Economy.
+
+**Water Footprint (Huella Hídrica):**
+Indicador que cuantifica el volumen total de agua dulce utilizado para producir los bienes y servicios consumidos por la empresa, fundamental para la auditoría ambiental.
+*Términos relacionados:* Reusable Water, Monitoring.
+
+**Lixiviate (Lixiviado):**
+Líquido residual altamente contaminante generado por la descomposición de los residuos sólidos, el cual requiere un tratamiento y monitoreo especial.
+*Términos relacionados:* Anomaly, IoT Sensor.
