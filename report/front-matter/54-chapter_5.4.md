@@ -1,18 +1,29 @@
-## 5.4 Video About-the-Product
+## 5.4. Video About the Product
+El video About-the-Product posee por objetivo documentar de forma audiovisual la propuesta de valor de Aquanetix. El video ha sido publicado tanto en las plataformas de Microsoft Stream/SharePoint como en Youtube. A su vez se ha incorporado el video en el reporte. 
+### 5.4.1. Objetivo del video
+El objetivo del video es presentar a Aquanetix como una plataforma digital capaz de monitorear y analizar la calidad del agua para facilitar su redistribución hacia los sectores con mayor necesidad. Además, busca dar a conocer esta solución a empresas de saneamiento, alcantarillado y operadores de residuos sólidos, con la finalidad de escalar los sistemas de tratamiento a un nivel industrial.
+### 5.4.2. Resumen del contenido
+El video inicia con una introducción a la problemática de la brecha hídrica en el Perú, destacando la importancia de la gestión eficiente del agua y la necesidad de soluciones innovadoras.
+<br> A continuación, se presenta la plataforma Aquanetix, mostrando sus principales características y funcionalidades, incluyendo el monitoreo en tiempo real mediante sensores IoT, la detección de anomalías y alertas tempranas, así como la capacidad de análisis de datos para optimizar la redistribución del agua tratada.
+### 5.4.3. Registro de video
+| Elemento                  | Detalle                                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Título del video          | `upc-pre-202610-1asi0730-12242-Aquanetix-about-the-product-tf`                                                                                          |
+| Plataforma de publicación | Microsoft Stream / SharePoint y YouTube                                                                                                                 |
+| URL Microsoft Stream      |                                                                                                                                                         |
+| URL Youtube               |                                                                                                                                                         |
+| Duración                  |                                                                                                                                                         |
+| Fecha de publicación | /2026                                                                                                                                                   |
+| Testimonio positivo incluido | Testimonios de un usuario del segmento de empresa prestadora de servicios de agua y un usuario del segmento proveedor de servicios de residuos sólidos. |
 
-Con el propósito de presentar AquaNetix, se desarrolló un Video About-the-Product dirigido a los visitantes de la Landing Page y a los usuarios de la aplicación web. En el video se explica la problemática identificada, la solución propuesta y las principales funcionalidades del producto, además de una breve demostración de la Landing Page y de la aplicación.
+### 5.4.4. Evidencia fotográfica del video
+La siguiente captura corresponde al Video About-the-Product publicado para el cierre TF:
 
-Asimismo, se incluye un testimonio positivo de un usuario que participó en las entrevistas de validación, resaltando la utilidad y facilidad de uso de la solución.
+### 5.4.5. Testimonios positivos incluidos
+En el video se incorpora un testimonio positivo de un usuario del segmento de empresa prestadora de servicios de agua y un usuario del segmento proveedor de servicios de residuos sólidos, quienes destacan la utilidad y efectividad de la plataforma Aquanetix para el monitoreo y análisis de la calidad del agua, así como su contribución a la gestión eficiente de los recursos hídricos.
 
-### Captura del video
+| Segmento                                                        | Testimonio incluido en el video |
+|-----------------------------------------------------------------|---|
+| Usuario del segmento de empresa prestadora de servicios de agua |  |
+| Usuario del segmento proveedor de servicios de residuos sólidos |  |
 
-Captura de pantalla del video
-
-### Enlaces del video
-
-- Microsoft Stream:
-- Youtube:
-
-### Duracion 
-
-Duracion: 
