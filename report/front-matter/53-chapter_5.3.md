@@ -79,3 +79,22 @@ Nos encontramos con José Ignacio Calle Chumacero, ingeniero industrial y actual
 Primero, a José Ignacio se le mostró la landing page de la plataforma Aquanetix para recoger sus impresiones sobre el diseño y la propuesta del ecosistema. Al leer el título principal, nos comentó que lo primero que asocia con la plataforma es una nueva versión de las tecnologías para plantas de tratamiento y reutilización de recursos hídricos en el país. Si bien consideró la interfaz muy ágil y directa por no saturar al usuario con botones innecesarios, señaló que a nivel cultural en el Perú existe un gran reto para el cumplimiento normativo. No obstante, por su perfil como ingeniero industrial enfocado en la logística de operaciones, destacó que el pilar más atractivo del proyecto es la optimización de costos operativos, ya que una mala planificación financiera puede arruinar cualquier plan teórico.
 
 Por último, al ingresar a la aplicación web y revisar el funcionamiento del dashboard, el entrevistado validó rápidamente la estructura visual afirmando que el diseño del panel de control es espectacular. Comentó que al iniciar el día lo primero que revisaría serían las alertas críticas, y consideró que el monitoreo en tiempo real con un formato de semáforo resulta sumamente intuitivo para efectos de ayuda visual. Respecto al tarifario presentado en la sección de suscripciones, José Ignacio lo percibió como una opción muy correcta y flexible para plantas que requieran una gran cantidad de sensores. No obstante, sugirió al equipo que se enfoquen en garantizar un margen mínimo de error desde el primer mes, argumentando que los gerentes de las grandes empresas suelen ser impacientes y exigen un retorno de inversión inmediato.
+
+**Entrevista 3**
+
+Diana Patricia Huamaní Ríos
+
+Evidencia:
+<p align = "left">
+ <img src="/report/assets/interviews/Entrevista_Validacion_Diana_Huamani_Foto.png">
+</p>
+
+Enlace de la entrevista:
+
+Resumen:
+
+En esta sesión nos reunimos con Diana Huamaní, especialista técnica en el sector de saneamiento y gestión del agua, quien participó en la entrevista de validación para el proyecto Aquanetix. Durante la evaluación, Diana demostró ser una profesional analítica, orientada al detalle y con un dominio claro de los procesos operativos en plantas de tratamiento. Al interactuar con la plataforma, su enfoque se centró en la viabilidad técnica y en la precisión de los datos, elementos que considera indispensables para la toma de decisiones bajo presión en el entorno industrial. 
+Durante la revisión de la landing page, Diana identificó rápidamente que la propuesta corresponde a una herramienta de analítica y telemetría avanzada, diseñada de manera acertada para el contexto nacional. Nos comentó que, debido a su perfil técnico, su primera acción sería seleccionar los botones "Dashboard Access" o "Learn More", ya que necesita comprender cómo se estructura la interfaz y qué datos procesa el software antes de proceder con un registro comercial. Al analizar los pilares del proyecto, coincidió en que las alertas tempranas representan el beneficio más importante; un cambio brusco no detectado en los parámetros puede arruinar la producción del día y derivar en multas severas.
+
+Al ingresar a la aplicación web, Diana señaló que los indicadores prioritarios para un operador al iniciar su turno son el caudal, el nivel de turbidez promedio y un contador destacado que muestre los equipos en estado crítico. Consideró muy práctico e intuitivo el uso de un sistema de colores tipo semáforo para monitorear el estado de los dispositivos, aunque recomendó que las alertas rojas activen un banner superior fijo o parpadeante para garantizar una respuesta visual inmediata.
+Además, encontró lógico el flujo de investigación al hacer clic en un dispositivo para ver su gráfica histórica y evaluó como adecuado el formulario para registrar nuevos sensores. En el apartado de notificaciones, sugirió evitar mensajes ambiguos; indicó que el sistema debe mostrar el valor exacto registrado en la alerta para dimensionar la gravedad del problema al instante. Finalmente, validó que el panel de suscripciones es muy claro gracias al uso de barras de progreso, y recomendó que, si se excede el límite del plan por agregar más equipos, la plataforma facilite un botón de actualización directa sin interrumpir la recepción de datos de los sensores activos.
