@@ -61,6 +61,25 @@ Durante la revisión de la landing page, Diana identificó rápidamente que la p
 Al ingresar a la aplicación web, Diana señaló que los indicadores prioritarios para un operador al iniciar su turno son el caudal, el nivel de turbidez promedio y un contador destacado que muestre los equipos en estado crítico. Consideró muy práctico e intuitivo el uso de un sistema de colores tipo semáforo para monitorear el estado de los dispositivos, aunque recomendó que las alertas rojas activen un banner superior fijo o parpadeante para garantizar una respuesta visual inmediata.
 Además, encontró lógico el flujo de investigación al hacer clic en un dispositivo para ver su gráfica histórica y evaluó como adecuado el formulario para registrar nuevos sensores. En el apartado de notificaciones, sugirió evitar mensajes ambiguos; indicó que el sistema debe mostrar el valor exacto registrado en la alerta para dimensionar la gravedad del problema al instante. Finalmente, validó que el panel de suscripciones es muy claro gracias al uso de barras de progreso, y recomendó que, si se excede el límite del plan por agregar más equipos, la plataforma facilite un botón de actualización directa sin interrumpir la recepción de datos de los sensores activos.
 
+**Entrevista 2**
+
+Jorge Luis Castro Rojas
+
+**Evidencia:**
+<p align = "left">
+ <img src="/report/assets/interviews/Entrevista_Validacion_Jorge_Castro_Foto.png">
+</p>
+
+**Enlace de la entrevista:** https://shorturl.at/6Ov2S
+
+**Resumen:**
+
+En esta entrevista, nos volvemos a comunicar con Jorge Castro, ingeniero sanitario que colaboró anteriormente para esta entrevista de validación con fines de recolectar información valiosa para la evolución del desarrollo del proyecto Aquanetix. Durante la entrevista, Jorge analizó la plataforma web desde una perspectiva técnica y operativa, enfocándose en la capacidad del sistema para facilitar una respuesta rápida y en la alineación de la herramienta con los estándares reales de la industria del monitoreo de agua.
+
+Al examinar el panel de control, Jorge validó la estructura general y resaltó la importancia de mantener las gráficas de tendencias históricas. Señaló que esta funcionalidad es vital para que los operadores puedan distinguir si un valor anómalo es simplemente un error aislado de medición o el inicio de un problema continuo. Asimismo, confirmó que el uso de un código de colores tipo semáforo (verde, ámbar y rojo) para identificar el estado de los sensores es totalmente acertado y se ajusta a las convenciones del sector.
+
+En cuanto a las oportunidades de mejora, el ingeniero enfatizó la necesidad de implementar notificaciones automáticas inmediatas vía correo electrónico o WhatsApp ante alertas críticas, garantizando así una reacción oportuna del equipo de trabajo. Además, recomendó realizar ajustes técnicos en la terminología del sistema, sugiriendo renombrar la pestaña de "Dispositivos" por "Puntos de monitoreo" y cambiar "Tipo" por "Parámetro". Finalmente, subrayó que es indispensable que la interfaz muestre siempre las unidades de medida correspondientes (como NTU o mg/L) junto a cada valor para asegurar una interpretación precisa de los datos.
+
 **Entrevista 3**
 
 Liliana Sánchez Fajardo
