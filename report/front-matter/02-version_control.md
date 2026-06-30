@@ -56,4 +56,8 @@
 | 2.8.0 | 17/6/26 | Sebastián Cochachi | Sección 5.2.3.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
 | 2.9.0 | 17/6/26 | Nicolás Castro | Sección 5.2.3.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
 | 2.10.0 | 17/6/26 | Sebastián Pinedo | Sección 5.2.3.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
+| 2.11.0 | 26/6/26 | Renzo Bojórquez | Sección de conclusiones agregadas |
 | 3.0.0 | 18/6/26 | Nicolás Castro | Entrega de la tercera versión del informe, en la cual se trabajó principalmente en el tercer sprint, enfocada en la aplicación backend. |
+| 3.1.0 | 26/6/26 | Renzo Bojórquez | Corrección de la sección 1.2. |
+| 3.2.0 | 26/6/26 | Renzo Bojórquez | Corrección de la carátula del informe. |
+| 3.3.0 | 26/6/26 | Renzo Bojórquez | Control de versiones agregado. |
