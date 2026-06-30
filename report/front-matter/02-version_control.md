@@ -23,27 +23,37 @@
 | 0.19.0 | 18/4/26 | Renzo Bojórquez | Sección 4.7: Software Object-Oriented Design, del capítulo 4, agregada |
 | 0.20.0 | 18/4/26 | Sebastián Cochachi | Sección 4.8: Database Design, del capítulo 4, agregada |
 | 0.21.0 | 18/4/26 | Nicolás Castro | Sección 5.1: Software Configuration Management, del capítulo 5, agregada |
-| 0.22.0 | 18/4/26 | Nicolás Castro | Sección 5.2: Sprint 1, del capítulo 5, iniciada |
+| 0.22.0 | 18/4/26 | Nicolás Castro | Sección 5.2.1.: Sprint 1, del capítulo 5, iniciada |
 | 0.23.0 | 22/4/26 | Sebastián Pinedo | Sección 4.5: Web Applications Prototyping, del capítulo 4, agregada |
-| 0.24.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.: Sprint Planning 1, del capítulo 5, agregada |
-| 0.25.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.2: Aspects Leaders and Collaborators, del capítulo 5, agregada |
-| 0.26.0 | 22/4/26 | Nicolás Castro | Sección 5.2.3: Sprint Backlog 1, del capítulo 5, agregada |
-| 0.27.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.4: Development Evidence for Sprint Review, del capítulo 5, agregada |
-| 0.28.0 | 22/4/26 | Nicolás Castro | Sección 5.2.5: Execution Evidence for Sprint Review, del capítulo 5, agregada |
-| 0.29.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
-| 0.30.0 | 22/4/26 | Nicolás Castro | Sección 5.2.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
-| 0.31.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
+| 0.24.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.1.: Sprint Planning 1, del capítulo 5, agregada |
+| 0.25.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.1.2: Aspects Leaders and Collaborators, del capítulo 5, agregada |
+| 0.26.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.3: Sprint Backlog 1, del capítulo 5, agregada |
+| 0.27.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.1.4: Development Evidence for Sprint Review, del capítulo 5, agregada |
+| 0.28.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.5: Execution Evidence for Sprint Review, del capítulo 5, agregada |
+| 0.29.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.1.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
+| 0.30.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
+| 0.31.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.1.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
 | 0.32.0 | 22/4/26 | Leonardo Cabrera | Sección de Student Outcome, agregada |
 | 1.0.0 | 23/4/26 | Nicolás Castro | Entrega de la primera versión del informe, compuesto por los primeros 4 capítulos y el primer sprint, en el cual se trabajó principalmente en la Landing Page. |
 | 1.1.0 | 28/4/26 | Renzo Bojórquez | Corrección de observaciones en sección 2.3. |
-| 1.2.0 | 8/5/26 | Nicolás Castro | Sección 5.3: Sprint 2, del capítulo 5, iniciada |
-| 1.3.0 | 8/5/26 | Sebastián Cochachi | Sección 5.3.1.: Sprint Planning 2, del capítulo 5, agregada |
-| 1.4.0 | 8/5/26 | Sebastián Pinedo | Sección 5.3.2: Aspects Leaders and Collaborators, del capítulo 5, agregada |
-| 1.5.0 | 11/5/26 | Nicolás Castro | Sección 5.3.3: Sprint Backlog 2, del capítulo 5, agregada |
-| 1.6.0 | 11/5/26 | Renzo Bojórquez | Sección 5.3.4: Development Evidence for Sprint Review, del capítulo 5, agregada |
-| 1.7.0 | 11/5/26 | Leonardo Cabrera | Sección 5.3.5: Execution Evidence for Sprint Review, del capítulo 5, agregada |
-| 1.8.0 | 11/5/26 | Sebastián Cochachi | Sección 5.3.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
-| 1.9.0 | 11/5/26 | Nicolás Castro | Sección 5.3.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
-| 1.10.0 | 11/5/26 | Sebastián Pinedo | Sección 5.3.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
+| 1.2.0 | 8/5/26 | Nicolás Castro | Sección 5.2: Sprint 2, del capítulo 5, iniciada |
+| 1.3.0 | 8/5/26 | Sebastián Cochachi | Sección 5.2.2.1.: Sprint Planning 2, del capítulo 5, agregada |
+| 1.4.0 | 8/5/26 | Sebastián Pinedo | Sección 5.2.2.2: Aspects Leaders and Collaborators, del capítulo 5, agregada |
+| 1.5.0 | 11/5/26 | Nicolás Castro | Sección 5.2.2.3: Sprint Backlog 2, del capítulo 5, agregada |
+| 1.6.0 | 11/5/26 | Renzo Bojórquez | Sección 5.2.2.4: Development Evidence for Sprint Review, del capítulo 5, agregada |
+| 1.7.0 | 11/5/26 | Leonardo Cabrera | Sección 5.2.2.5: Execution Evidence for Sprint Review, del capítulo 5, agregada |
+| 1.8.0 | 11/5/26 | Sebastián Cochachi | Sección 5.2.2.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
+| 1.9.0 | 11/5/26 | Nicolás Castro | Sección 5.2.2.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
+| 1.10.0 | 11/5/26 | Sebastián Pinedo | Sección 5.2.2.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
 | 2.0.0 | 12/5/26 | Nicolás Castro | Entrega de la segunda versión del informe, en la cual se levantaron las observaciones de la entrega anterior, y se incluye también el segundo sprint, en el cual se trabajó mayormente en la aplicación frontend. |
+| 2.1.0 | 8/6/26 | Renzo Bojórquez | Sección 5.3. Validation Interviews, del capítulo 5, agregada |
+| 2.2.0 | 11/6/26 | Nicolás Castro | Sección 5.2.3: Sprint 2, del capítulo 5, iniciada |
+| 2.3.0 | 11/6/26 | Sebastián Cochachi | Sección 5.2.3.1.: Sprint Planning 2, del capítulo 5, agregada |
+| 2.4.0 | 11/6/26 | Sebastián Pinedo | Sección 5.2.3.2: Aspects Leaders and Collaborators, del capítulo 5, agregada |
+| 2.5.0 | 17/6/26 | Nicolás Castro | Sección 5.2.3.3: Sprint Backlog 2, del capítulo 5, agregada |
+| 2.6.0 | 17/6/26 | Renzo Bojórquez | Sección 5.2.3.4: Development Evidence for Sprint Review, del capítulo 5, agregada |
+| 2.7.0 | 17/6/26 | Leonardo Cabrera | Sección 5.2.3.5: Execution Evidence for Sprint Review, del capítulo 5, agregada |
+| 2.8.0 | 17/6/26 | Sebastián Cochachi | Sección 5.2.3.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
+| 2.9.0 | 17/6/26 | Nicolás Castro | Sección 5.2.3.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
+| 2.10.0 | 17/6/26 | Sebastián Pinedo | Sección 5.2.3.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
 | 3.0.0 | 18/6/26 | Nicolás Castro | Entrega de la tercera versión del informe, en la cual se trabajó principalmente en el tercer sprint, enfocada en la aplicación backend. |
