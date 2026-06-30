@@ -62,3 +62,4 @@
 | 3.2.0 | 28/6/26 | Sebastián Cochachi | Corrección de la sección 2.2. Entrevistas. |
 | 3.3.0 | 29/6/26 | Renzo Bojórquez | Corrección de la carátula del informe. |
 | 3.4.0 | 29/6/26 | Renzo Bojórquez | Control de versiones agregado. |
+| 3.5.0 | 29/6/26 | Sebastián Pinedo | Bibliografía agregada. |
