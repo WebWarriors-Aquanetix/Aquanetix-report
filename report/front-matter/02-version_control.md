@@ -5,7 +5,7 @@
 | 0.1.0 | 2/4/26 | Nicolás Castro | Creación del repositorio del informe. |
 | 0.2.0 | 2/4/26 | Renzo Bojórquez | Elaboración de la carátula |
 | 0.3.0 | 4/4/26 | Renzo Bojórquez | Sección 1.1: Startup Profile, del capítulo 1, agregada |
-| 0.4.0 | 4/4/26 | Leonardo Cabrera | Sección 1.2: Perfiles de integrantes del equipo, del capítulo 1, agregada |
+| 0.4.0 | 4/4/26 | Leonardo Cabrera | Sección 1.2: Solution Profile, del capítulo 1, agregada |
 | 0.5.0 | 4/4/26 | Renzo Bojórquez | Sección 1.3: Segmentos objetivo, del capítulo 1, agregada |
 | 0.6.0 | 18/4/26 | Renzo Bojórquez | Sección 2.1: Competidores, del capítulo 1, agregada |
 | 0.7.0 | 18/4/26 | Sebastián Cochachi | Sección 2.2. Entrevistas, del capítulo 2, agregada |
@@ -58,6 +58,7 @@
 | 2.10.0 | 17/6/26 | Sebastián Pinedo | Sección 5.2.3.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
 | 2.11.0 | 26/6/26 | Renzo Bojórquez | Sección de conclusiones agregadas |
 | 3.0.0 | 18/6/26 | Nicolás Castro | Entrega de la tercera versión del informe, en la cual se trabajó principalmente en el tercer sprint, enfocada en la aplicación backend. |
-| 3.1.0 | 26/6/26 | Renzo Bojórquez | Corrección de la sección 1.2. |
-| 3.2.0 | 26/6/26 | Renzo Bojórquez | Corrección de la carátula del informe. |
-| 3.3.0 | 26/6/26 | Renzo Bojórquez | Control de versiones agregado. |
+| 3.1.0 | 26/6/26 | Renzo Bojórquez | Corrección de la sección 1.2. Solution Profile, específicamente la sección 1.2.2. Lean UX Process. |
+| 3.2.0 | 28/6/26 | Sebastián Cochachi | Corrección de la sección 2.2. Entrevistas. |
+| 3.3.0 | 29/6/26 | Renzo Bojórquez | Corrección de la carátula del informe. |
+| 3.4.0 | 29/6/26 | Renzo Bojórquez | Control de versiones agregado. |
