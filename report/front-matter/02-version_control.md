@@ -34,6 +34,8 @@
 | 0.30.0 | 22/4/26 | Nicolás Castro | Sección 5.2.1.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
 | 0.31.0 | 22/4/26 | Sebastián Pinedo | Sección 5.2.1.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
 | 0.32.0 | 22/4/26 | Leonardo Cabrera | Sección de Student Outcome, agregada |
+| 0.33.0 | 22/4/26 | Renzo Bojórquez | Índice agregado |
+| 0.34.0 | 11/5/26 | Sebastián Pinedo | Sección Project Report Collaboration Insights, agregado. |
 | 1.0.0 | 23/4/26 | Nicolás Castro | Entrega de la primera versión del informe, compuesto por los primeros 4 capítulos y el primer sprint, en el cual se trabajó principalmente en la Landing Page. |
 | 1.1.0 | 28/4/26 | Renzo Bojórquez | Corrección de observaciones en sección 2.3. |
 | 1.2.0 | 8/5/26 | Nicolás Castro | Sección 5.2: Sprint 2, del capítulo 5, iniciada |
@@ -45,6 +47,7 @@
 | 1.8.0 | 11/5/26 | Sebastián Cochachi | Sección 5.2.2.6: Services Documentation Evidence for Sprint Review, del capítulo 5, agregada |
 | 1.9.0 | 11/5/26 | Nicolás Castro | Sección 5.2.2.7: Software Deployment Evidence for Sprint Review, del capítulo 5, agregada |
 | 1.10.0 | 11/5/26 | Sebastián Pinedo | Sección 5.2.2.8: Team Collaboration Insights during Sprint, del capítulo 5, agregada |
+| 1.11.0 | 11/5/26 | Sebastián Pinedo | Sección Project Report Collaboration Insights, actualizado para la siguiente entrega. |
 | 2.0.0 | 12/5/26 | Nicolás Castro | Entrega de la segunda versión del informe, en la cual se levantaron las observaciones de la entrega anterior, y se incluye también el segundo sprint, en el cual se trabajó mayormente en la aplicación frontend. |
 | 2.1.0 | 8/6/26 | Renzo Bojórquez | Sección 5.3. Validation Interviews, del capítulo 5, agregada |
 | 2.2.0 | 11/6/26 | Nicolás Castro | Sección 5.2.3: Sprint 2, del capítulo 5, iniciada |
@@ -61,5 +64,7 @@
 | 3.1.0 | 26/6/26 | Renzo Bojórquez | Corrección de la sección 1.2. Solution Profile, específicamente la sección 1.2.2. Lean UX Process. |
 | 3.2.0 | 28/6/26 | Sebastián Cochachi | Corrección de la sección 2.2. Entrevistas. |
 | 3.3.0 | 29/6/26 | Renzo Bojórquez | Corrección de la carátula del informe. |
-| 3.4.0 | 29/6/26 | Renzo Bojórquez | Control de versiones agregado. |
-| 3.5.0 | 29/6/26 | Sebastián Pinedo | Bibliografía agregada. |
+| 3.4.0 | 28/6/26 | Sebastián Pinedo | Índice corregido. |
+| 3.5.0 | 28/6/26 | Sebastián Pinedo | Bibliografía agregada. |
+| 3.6.0 | 29/6/26 | Sebastián Pinedo | Sección Project Report Collaboration Insights, actualizado de la entrega anterior. |
+| 3.7.0 | 29/6/26 | Renzo Bojórquez | Control de versiones agregado. |
