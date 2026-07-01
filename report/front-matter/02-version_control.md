@@ -69,4 +69,4 @@
 | 3.4.0 | 28/6/26 | Sebastián Martín Pinedo Sánchez | Índice corregido. |
 | 3.5.0 | 28/6/26 | Sebastián Martín Pinedo Sánchez | Bibliografía agregada. |
 | 3.6.0 | 29/6/26 | Sebastián Martín Pinedo Sánchez | Sección Project Report Collaboration Insights, actualizado de la entrega anterior. |
-| 3.7.0 | 29/6/26 | Renzo Bojórquez | Control de versiones agregado. |
+| 3.7.0 | 29/6/26 | Renzo Alejandro Bojórquez Bustinza | Control de versiones agregado. |
