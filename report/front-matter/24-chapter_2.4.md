@@ -1,5 +1,5 @@
 ### 2.4. Big Picture Event Storming
-En esta sección se procedera a mostrar el mapeo del recorrido de la aplicación  mediante un Big Picture Event Storming, en el cual se ha trabajado en equipo para comprender de mejor manera nuestro modelo de negocio. Tambien se mantiene la plantilla de la aplicación Miro para una mejor visualizaciñon de los pasos realizados: https://shorturl.at/Z9yMZ
+En esta sección se procedera a mostrar el mapeo del recorrido de la aplicación  mediante un Big Picture Event Storming, en el cual se ha trabajado en equipo para comprender de mejor manera nuestro modelo de negocio. Tambien se mantiene la plantilla de la aplicación Miro para una mejor visualizaciñon de los pasos realizados: https://shorturl.at/DqqPG
 
 #### Fase Previa: Definición de alcance y participantes
 Antes de iniciar con la sesión programada, el equipo definió el alcance principal del análisis: mapear el ciclo completo de nuestro sistema Aquanetix, desde la suscripción hasta la entrega de agua.  
