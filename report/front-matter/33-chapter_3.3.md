@@ -326,6 +326,41 @@
       <td>Como supervisor, quiero visualizar el impacto del uso de agua reutilizada para evaluar los beneficios operativos y ambientales.</td>
       <td>5</td>
     </tr>
+    <tr>
+      <td>46</td>
+      <td>US46</td>
+      <td>Registro de usuarios</td>
+      <td>Como nuevo usuario de la plataforma, quiero registrarme en ella ingresando mi nombre y contraseña, para crear una cuenta y poder acceder a las herramientas de monitoreo de agua.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>US47</td>
+      <td>Inicio de sesión</td>
+      <td>Como usuario registrado de Aquanetix, quiero iniciar sesión con mi correo y contraseña, para acceder de manera segura al dashboard.</td>
+      <td>1</td>
+     </tr>
+    <tr>
+      <td>48</td>
+      <td>US48</td>
+      <td>Cierre de sesión</td>
+      <td>Como usuario autenticado, quiero cerrar mi sesión activa en la plataforma, para garantizar que nadie más pueda acceder a mis datos si dejo el dispositivo desatendido.</td>
+    <td>1</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>US49</td>
+      <td>Gestión de perfil del usuario.</td>
+      <td>Como usuario autenticado, quiero acceder a una sección de perfil para ver y actualizar mis datos personales (nombre, apellido, teléfono), para mantener mi información de contacto actualizada dentro del sistema.</td>
+    <td>1</td>
+    </tr>
+    <tr>
+      <td>50</td>        
+      <td>US50</td>
+      <td>Selección de plan de suscripción</td>
+      <td>Como usuario recién registrado, quiero visualizar los planes de suscripción disponibles y seleccionar uno, para activar mi cuenta con las características de monitoreo y redistribución que mejor se adapten a mis necesidades.</td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
 
