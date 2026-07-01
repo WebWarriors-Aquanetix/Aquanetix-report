@@ -580,3 +580,16 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
    <img src="../assets/endpoints/captura_commits_AV2.png">
 </p>
 
+<b>Nota de transparencia:</b> Durante la sesión de trabajo del 10 de junio de 2026, correspondiente a este sprint, se realizó una contribución (commit) desde otra computadora de escritorio, en la cual se había quedado registrado un usuario global.
+
+Datos del usuario anónimo:
+
+| Team Member (Last Name, First Name) | GitHub Username | GitHub e-mail. |
+|------------------------------------|----------------|-------------|
+| Morales, Jefferson | Fenfito | jefferson2k04@gmail.com |
+
+El commit realizado fue el siguiente:
+
+| Repository | Branch | Commit Ids | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| WebApplication_Aquanetix | feature/subscriptions | 42adc249368682dfa96e49a810db94ddd1d99ad5 | feat(subscription): connect get subscription by id to mysql |  | 10/06/2026 |
