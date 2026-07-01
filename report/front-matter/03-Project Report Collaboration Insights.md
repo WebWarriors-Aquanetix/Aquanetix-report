@@ -16,7 +16,7 @@ La siguiente imagen representa todos los commits realizados en el repositorio a 
 
 ## Trabajo Parcial (TB1)
 
-Para la entrega del TB1, se procede a mostrar el análisis de colaboración, el cual representa el número de contribuciones realizadas en el repositorio de la aplicación frontend.
+Para la entrega del TB1, se procede a mostrar el análisis de colaboración, el cual representa el número de contribuciones realizadas en el repositorio del informe.
 <div align="center"><img src="../assets/github/analysis commits TB1.png" width ="100%"></div>
 
 La siguiente imagen representa todos los commits realizados en el repositorio a lo largo del mes de Mayo.
@@ -25,7 +25,7 @@ La siguiente imagen representa todos los commits realizados en el repositorio a 
 
 ## Avance 2 (AV2)
 
-Para la entrega del AV2, se procede a mostrar el análisis de colaboración, el cual representa el número de contribuciones realizadas en el repositorio de la aplicación backend.
+Para la entrega del AV2, se procede a mostrar el análisis de colaboración, el cual representa el número de contribuciones realizadas en el repositorio del informe.
 
 <div align="center"><img src="../assets/github/Analysis_commits_AV2.png" width ="100%"></div>
 
