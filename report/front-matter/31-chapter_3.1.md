@@ -880,16 +880,62 @@ Entonces el sistema muestra la identificación de la empresa como desarrolladore
       <td>
 <b>Criterio de aceptación 1:</b><br>
 Dado que el visitante ha evaluado la propuesta de valor y los beneficios en la landing page.
-Cuando decide profundizar en el funcionamiento técnico y operativo de la plataforma.
+Cuando el visitante decide profundizar en el funcionamiento técnico y operativo de la plataforma.
 Entonces el sistema proporciona un canal directo para manifestar el interés en una sesión demostrativa.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
 Dado que el visitante requiere una validación práctica de la herramienta.
-Cuando interactúa con la opción de solicitar consultoría o demo.
+Cuando el visitante interactúa con la opción de solicitar consultoría o demo.
 Entonces el sistema captura la intención del usuario para facilitar la coordinación de una presentación detallada sobre las capacidades de inteligencia hídrica.
 </td>
       <td>EP08</td>
+    </tr>
+    <tr>
+      <td>US46</td>
+      <td>Registro de usuarios</td>
+      <td>Como nuevo usuario de la plataforma, quiero registrarme en ella ingresando mi nombre y contraseña, para crear una cuenta y poder acceder a las herramientas de monitoreo de agua.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el usuario está en la página de registro.
+Cuando el usuario ingresa un correo electrónico no registrado, y una contraseña.
+Entonces el sistema debe crear la nueva cuenta en la base de datos de manera segura.
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+Dado que el usuario está en la página de registro.
+Cuando ingresa un correo electrónico que ya se encuentra registrado en el sistema.
+Entonces el sistema debe mostrar un mensaje de error indicando que el correo ya está en uso.
+</td>
+      <td>EP009</td>
+    </tr>
+     <tr>
+      <td>US##</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP009</td>
+    </tr>
+     <tr>
+      <td>US##</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP009</td>
     </tr>
     <tr>
       <td>T01</td>
