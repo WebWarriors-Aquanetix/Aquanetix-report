@@ -2,9 +2,6 @@
 
 ## 3.1. User Stories
 
-
-<h3>User Stories</h3>
-
 <table>
   <thead>
     <tr>
@@ -928,20 +925,26 @@ Entonces el sistema debe mostrar un mensaje de error genérico, indicando que su
       <td>EP009</td>
     </tr>
      <tr>
-      <td>US##</td>
-      <td></td>
-      <td></td>
+      <td>US48</td>
+      <td>Cierre de sesión</td>
+      <td>Como usuario autenticado, quiero cerrar mi sesión activa en la plataforma, para garantizar que nadie más pueda acceder a mis datos si dejo el dispositivo desatendido.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-
+Dado que el usuario ha iniciado sesión y se encuentra navegando en la plataforma,
+Cuando escoge la opción para cerrar sesión,
+Entonces el sistema debe redirigir al usuario inmediatamente a la página pública de inicio de sesión,
+Y bloquear cualquier intento posterior de navegación hacia rutas protegidas sin iniciar sesión de nuevo.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
-
+Dado que el usuario ha iniciado sesión y se encuentra navegando en la plataforma
+Cuando escoge la opción para cerrar sesión.
+Y el sistema intenta comunicarse con el backend para invalidar el token, pero la petición falla (por error 500 o falta de red)
+Entonces el sistema debe borrar de todos modos el token del almacenamiento local (localStorage/sessionStorage) por seguridad
+Y redirigir al usuario a la pantalla de inicio de sesión.
 </td>
       <td>EP009</td>
     </tr>
-    
      <tr>
       <td>US##</td>
       <td></td>
@@ -956,7 +959,6 @@ Entonces el sistema debe mostrar un mensaje de error genérico, indicando que su
 </td>
       <td>EP009</td>
     </tr>
-    
      <tr>
       <td>US##</td>
       <td></td>
@@ -968,7 +970,7 @@ Entonces el sistema debe mostrar un mensaje de error genérico, indicando que su
 
 <b>Criterio de aceptación 2:</b><br>
 
-</td>
+    </td>
       <td>EP009</td>
     </tr>
     <tr>
