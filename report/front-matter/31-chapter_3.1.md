@@ -898,14 +898,32 @@ Entonces el sistema captura la intención del usuario para facilitar la coordina
       <td>
 <b>Criterio de aceptación 1:</b><br>
 Dado que el usuario está en la página de registro.
-Cuando el usuario ingresa un correo electrónico no registrado, y una contraseña.
-Entonces el sistema debe crear la nueva cuenta en la base de datos de manera segura.
+Cuando el usuario ingresa un nombre de usuario no registrado, y una contraseña.
+Entonces el sistema debe redirigir al usuario a la pantalla de suscripción, para que elija un plan.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
 Dado que el usuario está en la página de registro.
-Cuando ingresa un correo electrónico que ya se encuentra registrado en el sistema.
+Cuando ingresa un nombre de usuario que ya se encuentra registrado en el sistema.
 Entonces el sistema debe mostrar un mensaje de error indicando que el correo ya está en uso.
+</td>
+      <td>EP009</td>
+    </tr>
+     <tr>
+      <td>US47</td>
+      <td>Inicio de sesión</td>
+      <td>Como usuario registrado de Aquanetix, quiero iniciar sesión con mi correo y contraseña, para acceder de manera segura al dashboard.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el usuario se encuentra en la pantalla de inicio de sesión
+Cuando ingresa con su nombre de usuario y contraseña correctos
+Entonces el sistema debe redirigir al usuario a su panel de control.
+<br><br>
+        
+<b>Criterio de aceptación 2:</b><br>
+Dado que el usuario se encuentra en la pantalla de inicio de sesión
+Cuando intenta ingresar con un nombre de usuario y/o contraseña incorrectos
+Entonces el sistema debe mostrar un mensaje de error genérico, indicando que su nombre de usuario y/o contraseña son incorrectos.
 </td>
       <td>EP009</td>
     </tr>
@@ -923,6 +941,22 @@ Entonces el sistema debe mostrar un mensaje de error indicando que el correo ya 
 </td>
       <td>EP009</td>
     </tr>
+    
+     <tr>
+      <td>US##</td>
+      <td></td>
+      <td></td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+
+</td>
+      <td>EP009</td>
+    </tr>
+    
      <tr>
       <td>US##</td>
       <td></td>
