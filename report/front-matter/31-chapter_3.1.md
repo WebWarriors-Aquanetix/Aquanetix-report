@@ -964,6 +964,25 @@ Entonces el sistema debe redirigirlo de regreso al dashboard principal sin perde
       <td>EP009</td>
     </tr>
     <tr>
+      <td>US50</td>
+      <td>Selección de plan de suscripción</td>
+      <td>Como usuario recién registrado, quiero visualizar los planes de suscripción disponibles y seleccionar uno, para activar mi cuenta con las características de monitoreo y redistribución que mejor se adapten a mis necesidades.</td>
+      <td>
+<b>Criterio de aceptación 1:</b><br>
+Dado que el usuario acaba de completar su registro y se encuentra en la pantalla de "Selección de Plan",
+Cuando selecciona uno de los planes disponibles y lo confirma,
+Entonces el sistema debe asociar el plan elegido a su cuenta en la base de datos,
+Y redirigir al usuario al dashboard principal con los accesos correspondientes a su nivel de suscripción.
+<br><br>
+
+<b>Criterio de aceptación 2:</b><br>
+Dado que el usuario se encuentra visualizando la pantalla de su perfil,
+Cuando intenta volver al dashboard,
+Entonces el sistema debe redirigirlo de regreso al dashboard principal sin perder el estado de su sesión.
+</td>
+      <td>EP009</td>
+    </tr>
+    <tr>
       <td>T01</td>
       <td>Get-All-Devices</td>
       <td>Como desarrollador, quiero implementar un endpoint de tipo API REST con el método GET /api/devices, para proveer un listado centralizado en formato JSON con la información de todos los dispositivos de monitoreo hídrico que consumirá el frontend.</td>
