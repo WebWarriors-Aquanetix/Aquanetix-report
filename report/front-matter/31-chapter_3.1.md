@@ -946,31 +946,21 @@ Y redirigir al usuario a la pantalla de inicio de sesión.
       <td>EP009</td>
     </tr>
      <tr>
-      <td>US##</td>
-      <td></td>
-      <td></td>
+      <td>US49</td>
+      <td>Gestión de perfil del usuario.</td>
+      <td>Como usuario autenticado, quiero acceder a una sección de perfil para ver y actualizar mis datos personales (nombre, apellido, teléfono), para mantener mi información de contacto actualizada dentro del sistema.</td>
       <td>
 <b>Criterio de aceptación 1:</b><br>
-
+Dado que el usuario ha iniciado sesión y se encuentra en el dashboard principal,
+Cuando hace clic en su avatar o en la opción "Mi Perfil" del menú de navegación,
+Entonces el sistema debe redirigirlo a la vista de perfil de usuario.
 <br><br>
 
 <b>Criterio de aceptación 2:</b><br>
-
+Dado que el usuario se encuentra visualizando la pantalla de "Mi Perfil",
+Cuando hace clic en el botón "Volver" o en el logotipo de Aquanetix en la barra superior,
+Entonces el sistema debe redirigirlo de regreso al dashboard principal sin perder el estado de su sesión.
 </td>
-      <td>EP009</td>
-    </tr>
-     <tr>
-      <td>US##</td>
-      <td></td>
-      <td></td>
-      <td>
-<b>Criterio de aceptación 1:</b><br>
-
-<br><br>
-
-<b>Criterio de aceptación 2:</b><br>
-
-    </td>
       <td>EP009</td>
     </tr>
     <tr>
