@@ -3,7 +3,7 @@
 </p>
 <p align = "center">
   Universidad Peruana de Ciencias Aplicadas<br>
-  Carrera de Ingeniería de Software
+  Carrera de Ingeniería de Software 
 </p>
 <h4 align = "center">
   1ASI0730
