@@ -6,7 +6,7 @@ En esta sección se presentan las fichas de los User Personas desarrolladas medi
 
 #### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
 <p align = "left">
-  <img src="../assets/ux_pressia/User Persona 1.png">
+  <img src="../assets/ux_pressia/UP1.png">
 </p>
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
