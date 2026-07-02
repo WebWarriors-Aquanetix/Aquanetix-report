@@ -10,18 +10,6 @@ Personal encargado de supervisar los datos en campo o en tiempo real y gestionar
 Responsable de analizar la información operativa, evaluar los indicadores hídricos y tomar decisiones estratégicas de negocio o mantenimiento.
 *Términos relacionados:* Maintenance, Water Footprint, Reuse Validation.
 
-**IoT Sensor (Sensor IoT):**
-Dispositivo de hardware instalado en la infraestructura hídrica que mide de forma continua variables químicas y físicas como el pH, flujo y emisión de gases.
-*Términos relacionados:* Monitoring, Anomaly, Threshold.
-
-**Monitoring (Monitoreo):**
-Proceso de seguimiento y telemetría continua de los parámetros del agua para asegurar el cumplimiento normativo.
-*Términos relacionados:* IoT Sensor, Anomaly, Water Quality.
-
-**Alert (Alerta):**
-Notificación crítica generada automáticamente cuando se detecta que los parámetros del recurso hídrico sobrepasan los límites permitidos.
-*Términos relacionados:* Anomaly, Threshold, Preventive Maintenance.
-
 **Threshold (Umbral):**
 Límite máximo o mínimo permitido para un parámetro de calidad del agua (ej. niveles de pH o turbidez) establecido por entidades reguladoras como la ANA o el OEFA.
 *Términos relacionados:* Alert, Monitoring, Anomaly.
@@ -52,4 +40,4 @@ Indicador que cuantifica el volumen total de agua dulce utilizado para producir 
 
 **Lixiviate (Lixiviado):**
 Líquido residual altamente contaminante generado por la descomposición de los residuos sólidos, el cual requiere un tratamiento y monitoreo especial.
-*Términos relacionados:* Anomaly, IoT Sensor.
+*Términos relacionados:* Anomaly.
