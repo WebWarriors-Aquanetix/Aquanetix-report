@@ -45,7 +45,7 @@ User Benefits Assumptions:<br>
 > * Creemos que el usuario quiere lograr la consolidación inmediata de los datos de calidad de agua recolectados durante el mes para poder obtener un ahorro significativo de tiempo administrativo y eliminar la frustración que genera el procesamiento manual de datos para reportes de cumplimiento.<br>
 
 Feature Assumptions:<br>
-> * Creemos que construir un panel de control interactivo con comparativas de datos históricos y en tiempo real permitirá a los gerentes de planta identificar tendencias de contaminación de manera predictiva para ajustar los procesos de tratamiento antes de que ocurra un incidente.<br>
+> * Creemos que contar con un panel de control interactivo con comparativas de datos históricos y en tiempo real permitirá a los gerentes de planta identificar tendencias de contaminación de manera predictiva para ajustar los procesos de tratamiento antes de que ocurra un incidente.<br>
 > *	Creemos que construir un sistema de notificaciones críticas con umbrales de PH configurables permitirá a los encargados de cumplimiento ambiental reaccionar instantáneamente ante vertimientos fuera de norma, evitando así sanciones y multas regulatorias.<br>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements:
