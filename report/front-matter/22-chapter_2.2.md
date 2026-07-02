@@ -43,15 +43,15 @@ Evidencia:
   <img src="../assets/interviews/Entrevista_Elizabeth_Foto.png" width ="300" height="300">
 </p>
 
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista: **00:00 - 06:14 min**
+**Duración de la entrevista:** **00:00 - 06:14 min**
 
-Tecnología que utiliza: 
+**Tecnología que utiliza:**
   1. Celular: Motorola g56
   2. Laptop: Asus Vivobook Flip 14
 
-Resumen:
+**Resumen:**
 
 Nos encontramos con Elizabeth Nava, residente del distrito de Independencia, y quien se desempeña como ingeniera ambiental y consultora en gestión hídrica y saneamiento. Tiene 55 años y cuenta con experiencia en la evaluación y optimización de procesos relacionados al uso del recurso hídrico. Durante la entrevista se mostró como una profesional analítica, organizada y orientada a la prevención de riesgos operativos. En su trabajo utiliza principalmente laptop, software técnico y sistemas GIS para el análisis de datos y la identificación de puntos críticos, además de apoyarse en aplicaciones móviles para coordinar con equipos en campo.
 
@@ -70,15 +70,15 @@ Evidencia:
   <img src="../assets/interviews/Entrevista_Jorge_Castro.png" width ="300" height="300">
 </p>
 
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista: **06:15 - 12:31 min** 
+**Duración de la entrevista:** **06:15 - 12:31 min** 
 
-Tecnología que utiliza: 
+**Tecnología que utiliza:**
 1.  Celular: Samsung S23 
 2.  Laptop: HP ProBook 440 G9
 
-Resumen:
+**Resumen:**
 
 La entrevista inicia con la presentación de Jorge Luis Castro Rojas, un ingeniero sanitario de 48 años residente en Santiago de Surco. Durante la conversación se mostró como un profesional detallista, práctico y orientado al cumplimiento de normas y procesos operativos. En su labor profesional, Jorge combina herramientas tradicionales con soluciones digitales modernas; utiliza Google Earth para la geolocalización de coordenadas, la plataforma Yorgos para el seguimiento de normativas y aplicaciones móviles como Timestamp Camera, que permite registrar evidencias fotográficas con datos precisos de tiempo y ubicación para sus reportes técnicos.
 
@@ -90,21 +90,21 @@ Finalmente, Jorge nos revela que la empresa atiende entre 3 a 5 emergencias mens
 
 **Entrevista 3**
 
-Nombres y Apellidos: Liliana del Pilar Sanchez Fajardo
+Nombres y Apellidos: Liliana del Pilar Sánchez Fajardo
 
 Evidencia:
 <p align = "left">
    <img src="../assets/interviews/Entrevista_Liliana_Sanchez.png" width ="300" height="600">
 </p>
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista: **12:32 - 20:04 min**
+**Duración de la entrevista:** **12:32 - 20:04 min**
 
-Tecnología que utiliza: 
+**Tecnología que utiliza:** 
 1.  Celular: Oppo a5
 2.  Laptop: HP 15-bs015la
 
-Resumen:
+**Resumen:**
 
 Nos reunimos con Liliana del Pilar Sánchez Fajardo, residente del distrito de Comas, de 57 años, quien se desempeña como ingeniera ambiental y consultora en temas vinculados a la gestión del recurso hídrico. Durante la entrevista se mostró como una persona responsable, puntual y orientada al trabajo en equipo, aunque también reconoció ser perfeccionista y tener poca tolerancia frente a la impuntualidad y la falta de compromiso del personal. En su labor diaria utiliza principalmente la laptop y el teléfono celular para la coordinación de actividades y supervisión de operaciones.
 
@@ -125,15 +125,15 @@ Evidencia:
  <img src="../assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
 </p>
 
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista: **20:05 - 27:22 min**
+**Duración de la entrevista:** 20:05 - 27:22 min
 
-Tecnologái que utiliza: 
+**Tecnología que utiliza:**
 1.  Celular: Samsung 
 2.  Computadora: HP
 
-Resumen:
+**Resumen:**
 
 Nos encontramos con Edward Fernando Bojórquez Gonzales, ciudadano del distrito de Lince y administrador de una empresa de residuos sólidos. Tiene 56 años, es casado y vive con su esposa e hijo. Durante la entrevista se describió como una persona organizada, metódica y orientada al trabajo en equipo, aunque también reconoció que una de sus principales debilidades es la poca paciencia frente a ciertas situaciones laborales. Prefiere utilizar laptops y computadoras personales para la supervisión y gestión de sus operaciones diarias.
 
@@ -152,15 +152,15 @@ Evidencia:
   <img src="../assets/interviews/Entrevista_Jose_Ignacio_Foto.png" width ="300" height="300">
 </p>
 
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista:**27:23 - 39:53 min**
+**Duración de la entrevista:** 27:23 - 39:53 min
 
-Tecnología que utiliza:
+**Tecnología que utiliza:**
 1. Celular: Galaxy A14
 2. Laptop: HP 250 15.6 inch G9 Notebook PC
 
-Resumen:
+**Resumen:**
 
 Nos encontramos con José Ignacio Calle Chumacero, residente del distrito de Jesús María y jefe de operaciones en RESITER Perú SAC. Tiene 33 años y convive con su pareja y sus dos hijos. Durante la entrevista se mostró como una persona responsable, comprometida y abierta al uso de nuevas tecnologías para optimizar procesos operativos. Entre sus herramientas tecnológicas preferidas destacan la laptop, el teléfono móvil y plataformas basadas en inteligencia artificial como ChatGPT, las cuales utiliza como apoyo para consultas y toma de decisiones.
 
@@ -179,15 +179,15 @@ Evidencia:
    <img src="../assets/interviews/Entrevista_Cristian_foto.jfif" width ="300" height="600">
 </p>
 
-Enlace: https://shorturl.at/rJZxC
+**Enlace:** https://shorturl.at/rJZxC
 
-Duración de la entrevista: **39:54 - 45:00 min**
+**Duración de la entrevista:** 39:54 - 45:00 min
 
-Tecnología que utiliza:
+**Tecnología que utiliza:**
 1.  Celular: Samsung S24 ultra
 2.  Laptop: ASUS Windows
 
-Resumen: 
+**Resumen:**
 
 Nos reunimos con Cristian Qquecano De la Sota, ingeniero ambiental de 38 años y residente de Jesús María, quien actualmente trabaja como supervisor de operaciones. Durante la entrevista se mostró como una persona organizada y orientada al control operativo, aunque reconoció que los cambios repentinos de planes suelen generarle altos niveles de estrés. Para sus actividades diarias utiliza principalmente su celular Android y una laptop como herramientas de trabajo y comunicación.
 
