@@ -1,5 +1,5 @@
 ## 1.2. Solution Profile
-### 1.2.1. Antecedentes y problemática 
+### 1.2.1. Antecedentes y problemática
 
 En el Perú, uno de los principales problemas relacionados al agua no es solo el acceso, sino su reusabilidad. En Lima, se generan grandes cantidades de aguas residuales todos los días, pero solo una parte recibe un tratamiento adecuado. Esto hace que mucha agua que podría reutilizarse simplemente se pierda, en lugar de aprovecharse como un recurso útil (ANA, 2025).
 Frente a esto, la Autoridad Nacional del Agua ha señalado que el reúso de aguas residuales es una alternativa importante para enfrentar la escasez de agua en el país. Sin embargo, en la práctica, su implementación sigue siendo limitada, principalmente por la falta de monitoreo y tecnología que permita gestionar mejor la calidad del agua (ANA, 2026).
